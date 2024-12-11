@@ -1,7 +1,8 @@
 import datetime
 import json
-from os import path
 import os
+from os import path
+
 import requests
 
 ERROR = "error"
@@ -54,8 +55,10 @@ class PathControl:
 	
 	@staticmethod
 	def getNowFolderPath(_file_):
-		return path.dirname(PathControl.getNowFilePath(_file_))
-	
+		if path.isfile(_file_):
+			return path.dirname(PathControl.getNowFilePath(_file_))
+		else:
+			return _file_
 	@staticmethod
 	def getPathByFilePathOrFolderPath(_file_):
 		if path.isfile(_file_):
@@ -67,7 +70,7 @@ class PathControl:
 	
 	@staticmethod
 	def getParentFolderPath(_file_):
-		return PathControl.getNowFolderPath(PathControl.getPathByFilePathOrFolderPath(_file_))
+		return path.dirname(PathControl.getPathByFilePathOrFolderPath(_file_))
 	
 	@staticmethod
 	def getParentsFolderPath(_file_, times):
@@ -94,7 +97,7 @@ class PathControl:
 	
 	# sub_or_parent
 	@staticmethod
-	def locateGivenFolderNamePathNearby(_file_, folder_name, sub_or_parent=0):
+	def locateGivenFolderNamePathNearby(_file_, folder_name):
 		"""
 		:param _file_: the absolut path of code running file
 		:param folder_name: the absolut path of folder you want to locate and get
@@ -114,7 +117,7 @@ class PathControl:
 			if (temp_path is ERROR) or (not os.path.isdir(temp_path)):
 				continue
 				pass
-			aim_path = PathControl.locateGivenFolderNamePathNearby(temp_path, folder_name, sub_or_parent - 1)
+			aim_path = PathControl.locateGivenFolderNamePathNearby(temp_path, folder_name)
 			if path.isdir(aim_path):
 				return aim_path
 			pass

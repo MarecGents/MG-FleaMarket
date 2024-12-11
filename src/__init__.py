@@ -1,10 +1,8 @@
-import math
-import os
-import subprocess
-import time
-from method import MGDate
+import pathlib
+
 from method import FileControl
 from method import HttpControl
+from method import MGDate
 from method import PathControl
 
 """pyinstaller -F --noconsole -n main main.py"""
@@ -17,7 +15,8 @@ HEADERS = {
 BODY = {
 	"query": "query{\n  items(lang:zh){\n    id\n    name\n    shortName\n    basePrice\n    avg24hPrice    \n    low24hPrice\n    high24hPrice\n    sellFor{ \n      vendor{\n        name\n        __typename\n        }\n      price\n      currency\n      priceRUB\n    }\n    buyFor{ \n      vendor{\n        name\n        __typename\n      }\n      price\n      currency\n      priceRUB\n    }\n    fleaMarketFee\n  }\n}"
 }
-GITPWSH_PATH = PathControl.getParentFolderPath(__file__)
+GIT_PWSH_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", )
+EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
 
 if __name__ == "__main__":
 	
