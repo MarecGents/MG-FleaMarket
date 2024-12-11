@@ -97,14 +97,16 @@ class PathControl:
 	
 	# sub_or_parent
 	@staticmethod
-	def locateGivenFolderNamePathNearby(_file_, folder_name):
+	def locateGivenFolderNamePathNearby(_file_, folder_name, keys=None):
 		"""
+		:param keys:
 		:param _file_: the absolut path of code running file
 		:param folder_name: the absolut path of folder you want to locate and get
 		:param sub_or_parent: is aim to present where to find the folder now is subDir or parentDir relative _file_ path when the value is larger than 0 presenting to find in n-th level parentDir, smaller than 0 is so on in subDir.
 		:return: is the absolut path of folder you want to find by name
 		"""
-		
+		if keys is None:
+			keys = None
 		now_path = PathControl.getPathByFilePathOrFolderPath(_file_)
 		if folder_name in os.listdir(now_path):
 			# already find aiming folder
@@ -117,7 +119,16 @@ class PathControl:
 			if (temp_path is ERROR) or (not os.path.isdir(temp_path)):
 				continue
 				pass
-			aim_path = PathControl.locateGivenFolderNamePathNearby(temp_path, folder_name)
+			aim_path = PathControl.locateGivenFolderNamePathNearby(temp_path, folder_name, keys)
+			is_compare = 0
+			if keys and type(keys) == list:
+				for key in keys:
+					if key not in aim_path:
+						is_compare = -1
+					pass
+				pass
+			if is_compare == -1:
+				continue
 			if path.isdir(aim_path):
 				return aim_path
 			pass
