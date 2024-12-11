@@ -20,10 +20,13 @@ BODY = {
 GITPWSH_PATH = PathControl.getParentFolderPath(__file__)
 
 if __name__ == "__main__":
-	# BaseInfo = HttpControl().getBaseInfoFromTarkovAPI(HTTP_PATH,HEADERS,BODY)
+	
 	_path = PathControl()
 	_http = HttpControl()
 	_file = FileControl()
 	_date = MGDate()
+	
+	baseInfo = _http.getBaseInfoFromTarkovAPI(HTTP_PATH,HEADERS,BODY)
+	year,month,day = _date.get_Date()
 	
 	pass
