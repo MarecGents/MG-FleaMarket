@@ -158,20 +158,25 @@ class GitControl:
 		pass
 	
 	@staticmethod
+	def subRun(args, PWSH_PATH):
+		return subprocess.run(args, cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
+		pass
+	
+	@staticmethod
 	def gitPull(PWSH_PATH):
-		git_ins = subprocess.run(['git', 'pull'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		git_ins = subprocess.run(['git', 'pull'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
 		GitControl.debugInfo("GIT PULL", git_ins)
 		pass
 	
 	@staticmethod
 	def gitAdd(PWSH_PATH):
-		git_ins = subprocess.run(['git', 'add', '-A'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		git_ins = subprocess.run(['git', 'add', '-A'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
 		GitControl.debugInfo("GIT ADD", git_ins)
 		pass
 	
 	@staticmethod
 	def gitCommit(PWSH_PATH,message):
-		git_ins = subprocess.run(['git', 'commit', '-m', message], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		git_ins = subprocess.run(['git', 'commit', '-m', message], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
 		GitControl.debugInfo("GIT COMMIT", git_ins)
 		pass
 	
@@ -183,7 +188,7 @@ class GitControl:
 	
 	@staticmethod
 	def gitPush(PWSH_PATH):
-		git_ins = subprocess.run(['git', 'push'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		git_ins = subprocess.run(['git', 'push'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
 		GitControl.debugInfo("GIT PUSH", git_ins)
 		pass
 	
