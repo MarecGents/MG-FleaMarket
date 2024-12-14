@@ -6,7 +6,7 @@ from method import PathControl
 from method import GitControl
 import static_value
 
-"""pyinstaller -F --noconsole -n main main.py"""
+"""pyinstaller -F --noconsole -n main src/__init__.py"""
 # HTTP request value
 HTTP_PATH = "https://api.tarkov.dev/graphql"
 HEADERS = {
@@ -18,9 +18,11 @@ BODY = {
 }
 
 #path value
-GIT_PWSH_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
-APP_ROOT_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
+# GIT_PWSH_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
+# APP_ROOT_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
 EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
+GIT_PWSH_PATH = EXE_PATH
+APP_ROOT_PATH = EXE_PATH
 
 def priceCreat(base_info, itemJson):
 	pricesJson = {}
@@ -52,7 +54,7 @@ def priceCreat(base_info, itemJson):
 	return pricesJson
 
 def debugPrint(message):
-	print(f"Debug --> {message}")
+	print(f"Debug --> {message}.\n")
 	pass
 
 if __name__ == "__main__":
