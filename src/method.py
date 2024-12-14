@@ -2,7 +2,7 @@ import datetime
 import json
 import os
 from os import path
-
+import subprocess
 import requests
 
 ERROR = "error"
@@ -143,5 +143,56 @@ class PathControl:
 		else:
 			return ERROR
 		pass
+	
+	@staticmethod
+	def combineFolderPathWithRelativePath(_path_,relative_path):
+		return path.join(_path_, relative_path)
+	
+	pass
+
+class GitControl:
+	
+	@staticmethod
+	def debugInfo(method,value):
+		print(f"Debug Info --> {method}:", value.returncode, value.stdout.decode(), value.stderr.decode())
+		pass
+	
+	@staticmethod
+	def gitPull(PWSH_PATH):
+		git_ins = subprocess.run(['git', 'pull'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		GitControl.debugInfo("GIT PULL", git_ins)
+		pass
+	
+	@staticmethod
+	def gitAdd(PWSH_PATH):
+		git_ins = subprocess.run(['git', 'add', '-A'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		GitControl.debugInfo("GIT ADD", git_ins)
+		pass
+	
+	@staticmethod
+	def gitCommit(PWSH_PATH,message):
+		git_ins = subprocess.run(['git', 'commit', '-m', message], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		GitControl.debugInfo("GIT COMMIT", git_ins)
+		pass
+	
+	# @staticmethod
+	# def gitCommitAdd(PWSH_PATH,message):
+	# 	git_ins = subprocess.run(['git', 'commit', '-a', '-m', message], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+	# 	GitControl.debugInfo("GIT COMMIT WITH ADD", git_ins)
+	# 	pass
+	
+	@staticmethod
+	def gitPush(PWSH_PATH):
+		git_ins = subprocess.run(['git', 'push'], cwd=PWSH_PATH, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+		GitControl.debugInfo("GIT PUSH", git_ins)
+		pass
+	
+	@staticmethod
+	def gitRefresh(PWSH_PATH,message):
+		GitControl.gitAdd(PWSH_PATH)
+		GitControl.gitCommit(PWSH_PATH,message)
+		GitControl.gitPush(PWSH_PATH)
+		pass
+	
 	
 	pass
