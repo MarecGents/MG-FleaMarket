@@ -51,6 +51,10 @@ def priceCreat(base_info, itemJson):
 		pass
 	return pricesJson
 
+def debugPrint(message):
+	print(f"Debug --> {message}")
+	pass
+
 if __name__ == "__main__":
 	
 	_path = PathControl()
@@ -58,22 +62,28 @@ if __name__ == "__main__":
 	_file = FileControl()
 	_date = MGDate()
 	_git = GitControl()
+
+	_git.gitPull(GIT_PWSH_PATH)
 	
-	
-	# baseInfo = (_http.getBaseInfoFromTarkovAPI(HTTP_PATH,HEADERS,BODY))["data"]["items"]
-	# # year,month,day = _date.get_Date()
-	# itemBaseInfo = {
-	# 	"date":_date.get_Date(),
-	# 	"items":baseInfo
-	# }
-	# ITEMS_BASE_INFO_PATH = _path.combineFolderPathWithRelativePath(APP_ROOT_PATH,static_value.ITEMS_BASE_INFO)
-	# ITEMS_PATH = _path.combineFolderPathWithRelativePath(APP_ROOT_PATH,static_value.ITEMS)
-	# PRICE_PATH = _path.combineFolderPathWithRelativePath(APP_ROOT_PATH,static_value.PRICE)
-	#
-	# _file.saveJsonFileByAbsolutePath(ITEMS_BASE_INFO_PATH,itemBaseInfo)
-	# priceJson = priceCreat(baseInfo,_file.getJsonFileByAbsolutePath(ITEMS_PATH))
-	# _file.saveJsonFileByAbsolutePath(PRICE_PATH,priceJson)
+	baseInfo = (_http.getBaseInfoFromTarkovAPI(HTTP_PATH,HEADERS,BODY))["data"]["items"]
+	if baseInfo:
+		debugPrint("baseInfo got")
+	# year,month,day = _date.get_Date()
+	itemBaseInfo = {
+		"date":_date.get_Date(),
+		"items":baseInfo
+	}
+	ITEMS_BASE_INFO_PATH = _path.combineFolderPathWithRelativePath(APP_ROOT_PATH,static_value.ITEMS_BASE_INFO)
+	ITEMS_PATH = _path.combineFolderPathWithRelativePath(APP_ROOT_PATH,static_value.ITEMS)
+	PRICE_PATH = _path.combineFolderPathWithRelativePath(APP_ROOT_PATH,static_value.PRICE)
+
+	_file.saveJsonFileByAbsolutePath(ITEMS_BASE_INFO_PATH,itemBaseInfo)
+	priceJson = priceCreat(baseInfo,_file.getJsonFileByAbsolutePath(ITEMS_PATH))
+	if priceJson:
+		debugPrint("priceJson got")
+	_file.saveJsonFileByAbsolutePath(PRICE_PATH,priceJson)
 	_git.gitRefresh(GIT_PWSH_PATH, f"{_date.get_Date()} update")
+	debugPrint("end")
 	pass
 
 
