@@ -65,7 +65,7 @@ def debugPrint(message):
 	pass
 
 if __name__ == "__main__":
-	
+
 	_path = PathControl()
 	_http = HttpControl()
 	_file = FileControl()
