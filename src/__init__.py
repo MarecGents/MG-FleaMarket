@@ -18,9 +18,9 @@ BODY = {
 }
 
 #path value
-# GIT_PWSH_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
-# APP_ROOT_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
-EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
+
+EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "Sync-Online-FleaMarket", [])
+# EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
 GIT_PWSH_PATH = EXE_PATH
 APP_ROOT_PATH = EXE_PATH
 
