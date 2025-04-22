@@ -89,11 +89,13 @@ if __name__ == "__main__":
 	_file.saveJsonFileByAbsolutePath(ITEMS_BASE_INFO_PATH,itemBaseInfo)
 	priceJson = priceCreat(baseInfo,_file.getJsonFileByAbsolutePath(ITEMS_PATH))
 	priceJson = priceJsonRebuild(priceJson,_date.get_Date())
+
 	if priceJson:
 		debugPrint("priceJson got")
 	_file.saveJsonFileByAbsolutePath(PRICE_PATH,priceJson)
 	_git.gitRefresh(GIT_PWSH_PATH, message=f"{_date.get_Date()} update")
 	debugPrint("end")
+
 	pass
 
 
