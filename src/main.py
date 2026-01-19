@@ -6,7 +6,8 @@ from method import PathControl
 from method import GitControl
 import static_value
 
-"""pyinstaller -F --noconsole -n main src/__init__.py"""
+"""pyinstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
+
 # HTTP request value
 HTTP_PATH = "https://api.tarkov.dev/graphql"
 HEADERS = {
@@ -19,8 +20,8 @@ BODY = {
 
 #path value
 
-EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
-# EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
+# EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
+EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
 GIT_PWSH_PATH = EXE_PATH
 APP_ROOT_PATH = EXE_PATH
 

@@ -10,9 +10,9 @@
             "name": "柯尔特 M4A1 5.56x45 卡宾枪",
             "shortName": "M4A1",
             "basePrice": 18397,
-            "avg24hPrice": 38429,
+            "avg24hPrice": 37980,
             "low24hPrice": 18666,
-            "high24hPrice": 75555
+            "high24hPrice": 74999
         },
         {
             "id": "5447ac644bdc2d6c208b4567",
@@ -172,7 +172,7 @@
             "name": "Crye Precision AVS 插板胸挂（丛林绿）",
             "shortName": "AVS",
             "basePrice": 58629,
-            "avg24hPrice": 82909,
+            "avg24hPrice": 82437,
             "low24hPrice": 40000,
             "high24hPrice": 100000
         },
@@ -181,8 +181,8 @@
             "name": "Flyye MBSS背包",
             "shortName": "MBSS",
             "basePrice": 18320,
-            "avg24hPrice": 22918,
-            "low24hPrice": 14444,
+            "avg24hPrice": 21824,
+            "low24hPrice": 14000,
             "high24hPrice": 30000
         },
         {
@@ -280,9 +280,9 @@
             "name": "Camelbak Tri-Zip背包",
             "shortName": "Tri-Zip",
             "basePrice": 61325,
-            "avg24hPrice": 94507,
+            "avg24hPrice": 94724,
             "low24hPrice": 65000,
-            "high24hPrice": 150000
+            "high24hPrice": 142420
         },
         {
             "id": "545cdb794bdc2d3a198b456a",
@@ -352,7 +352,7 @@
             "name": "Magpul MOE AR-15手枪式握把",
             "shortName": "MOE手枪式",
             "basePrice": 5100,
-            "avg24hPrice": 9201,
+            "avg24hPrice": 9159,
             "low24hPrice": 5800,
             "high24hPrice": 12222
         },
@@ -379,7 +379,7 @@
             "name": "柯尔特M4A1 5.56x45突击步枪上机匣",
             "shortName": "M4A1上机匣",
             "basePrice": 5198,
-            "avg24hPrice": 16300,
+            "avg24hPrice": 15755,
             "low24hPrice": 6222,
             "high24hPrice": 33333
         },
@@ -451,7 +451,7 @@
             "name": "Knight's Armament KAC RIS AR-15兼容护木",
             "shortName": "KAC RIS",
             "basePrice": 4745,
-            "avg24hPrice": 10309,
+            "avg24hPrice": 10124,
             "low24hPrice": 5750,
             "high24hPrice": 14000
         },
@@ -469,7 +469,7 @@
             "name": "MP-133有导轨的定制塑料下护木",
             "shortName": "MP-133定制塑料",
             "basePrice": 9150,
-            "avg24hPrice": 16833,
+            "avg24hPrice": 16757,
             "low24hPrice": 13999,
             "high24hPrice": 29999
         },
@@ -586,7 +586,7 @@
             "name": "柯尔特A2 AR-15手枪式握把",
             "shortName": "A2手枪式",
             "basePrice": 1213,
-            "avg24hPrice": 5400,
+            "avg24hPrice": 5161,
             "low24hPrice": 2000,
             "high24hPrice": 15555
         },
@@ -622,8 +622,8 @@
             "name": "Daniel Defence RIS II 9.5 英寸 AR-15 规格护木（棕褐色）",
             "shortName": "RIS II 9.5 FDE",
             "basePrice": 10449,
-            "avg24hPrice": 20000,
-            "low24hPrice": 18999,
+            "avg24hPrice": 19499,
+            "low24hPrice": 9999,
             "high24hPrice": 20000
         },
         {
@@ -811,7 +811,7 @@
             "name": "卡拉什尼科夫 AK-74N 5.45x39 突击步枪",
             "shortName": "AK-74N",
             "basePrice": 23147,
-            "avg24hPrice": 30998,
+            "avg24hPrice": 31127,
             "low24hPrice": 20000,
             "high24hPrice": 270000
         },
@@ -838,7 +838,7 @@
             "name": "BlackRock胸挂",
             "shortName": "BlackRock",
             "basePrice": 40700,
-            "avg24hPrice": 45398,
+            "avg24hPrice": 45381,
             "low24hPrice": 39000,
             "high24hPrice": 55000
         },
@@ -865,9 +865,9 @@
             "name": "CAA RS47 AK兼容系统护木",
             "shortName": "CAA RS47",
             "basePrice": 10638,
-            "avg24hPrice": 12367,
+            "avg24hPrice": 12138,
             "low24hPrice": 10000,
-            "high24hPrice": 14442
+            "high24hPrice": 13998
         },
         {
             "id": "5648b0744bdc2d363b8b4578",
@@ -883,7 +883,7 @@
             "name": "AK-74 聚合物护木",
             "shortName": "AK-74M",
             "basePrice": 1022,
-            "avg24hPrice": 12622,
+            "avg24hPrice": 12358,
             "low24hPrice": 1110,
             "high24hPrice": 25111
         },
@@ -892,7 +892,7 @@
             "name": "AK Zenit B-10M 导轨护木+ B-19 上导轨组合",
             "shortName": "B10M+B19",
             "basePrice": 13327,
-            "avg24hPrice": 20485,
+            "avg24hPrice": 20811,
             "low24hPrice": 13000,
             "high24hPrice": 33333
         },
@@ -946,8 +946,8 @@
             "name": "Zenit RK-3 AK手枪式握把",
             "shortName": "RK-3",
             "basePrice": 8120,
-            "avg24hPrice": 15333,
-            "low24hPrice": 9000,
+            "avg24hPrice": 15184,
+            "low24hPrice": 10000,
             "high24hPrice": 19500
         },
         {
@@ -955,7 +955,7 @@
             "name": "Izhmash AK-74防尘盖（6P1 0-1）",
             "shortName": "6P1 0-1",
             "basePrice": 1042,
-            "avg24hPrice": 2333,
+            "avg24hPrice": 2000,
             "low24hPrice": 2000,
             "high24hPrice": 7000
         },
@@ -964,7 +964,7 @@
             "name": "Zenit B-33 AK-74防尘盖",
             "shortName": "B-33",
             "basePrice": 13549,
-            "avg24hPrice": 20772,
+            "avg24hPrice": 20753,
             "low24hPrice": 15333,
             "high24hPrice": 22222
         },
@@ -1279,7 +1279,7 @@
             "name": "Izhmash MP-153聚合物枪托",
             "shortName": "MP-153聚合物",
             "basePrice": 3388,
-            "avg24hPrice": 25370,
+            "avg24hPrice": 25390,
             "low24hPrice": 21111,
             "high24hPrice": 33333
         },
@@ -1441,7 +1441,7 @@
             "name": "Scav背包",
             "shortName": "Scav背包",
             "basePrice": 20100,
-            "avg24hPrice": 20213,
+            "avg24hPrice": 20108,
             "low24hPrice": 16666,
             "high24hPrice": 24444
         },
@@ -1450,7 +1450,7 @@
             "name": "旅行包",
             "shortName": "旅行包",
             "basePrice": 11300,
-            "avg24hPrice": 20859,
+            "avg24hPrice": 20934,
             "low24hPrice": 13421,
             "high24hPrice": 500000
         },
@@ -1459,7 +1459,7 @@
             "name": "邮差小挎包",
             "shortName": "小挎包",
             "basePrice": 9000,
-            "avg24hPrice": 21207,
+            "avg24hPrice": 21369,
             "low24hPrice": 11000,
             "high24hPrice": 25000
         },
@@ -1585,7 +1585,7 @@
             "name": "DI ECS FDE AR-15枪系手枪式握把",
             "shortName": "ECS FDE",
             "basePrice": 1599,
-            "avg24hPrice": 3101,
+            "avg24hPrice": 3451,
             "low24hPrice": 1688,
             "high24hPrice": 9999
         },
@@ -1658,7 +1658,7 @@
             "shortName": "Scav背心",
             "basePrice": 4199,
             "avg24hPrice": 17822,
-            "low24hPrice": 16399,
+            "low24hPrice": 15777,
             "high24hPrice": 20000
         },
         {
@@ -2557,7 +2557,7 @@
             "name": "西蒙诺夫 SKS 7.62x39 卡宾枪",
             "shortName": "SKS",
             "basePrice": 19331,
-            "avg24hPrice": 30323,
+            "avg24hPrice": 29340,
             "low24hPrice": 6495,
             "high24hPrice": 100000
         },
@@ -2998,7 +2998,7 @@
             "name": "简易钱包",
             "shortName": "钱包",
             "basePrice": 10542,
-            "avg24hPrice": 7984,
+            "avg24hPrice": 8084,
             "low24hPrice": 5555,
             "high24hPrice": 30000
         },
@@ -3124,7 +3124,7 @@
             "name": "Hogue OverMolded橡胶握把 FDE",
             "shortName": "OMRG FDE",
             "basePrice": 3600,
-            "avg24hPrice": 14843,
+            "avg24hPrice": 15604,
             "low24hPrice": 4000,
             "high24hPrice": 19999
         },
@@ -3133,7 +3133,7 @@
             "name": "AS “巨浪” 9x39 特种突击步枪",
             "shortName": "AS VAL",
             "basePrice": 66869,
-            "avg24hPrice": 91153,
+            "avg24hPrice": 92225,
             "low24hPrice": 65555,
             "high24hPrice": 149999
         },
@@ -3160,8 +3160,8 @@
             "name": "AS VAL防尘盖",
             "shortName": "VAL",
             "basePrice": 1599,
-            "avg24hPrice": 45785,
-            "low24hPrice": 9999,
+            "avg24hPrice": 56110,
+            "low24hPrice": 19999,
             "high24hPrice": 70000
         },
         {
@@ -3169,7 +3169,7 @@
             "name": "AS VAL 手枪式握把（黑红色）",
             "shortName": "VAL聚合物",
             "basePrice": 1493,
-            "avg24hPrice": 20371,
+            "avg24hPrice": 20202,
             "low24hPrice": 1500,
             "high24hPrice": 50000
         },
@@ -3187,7 +3187,7 @@
             "name": "Hogue OverMolded橡胶握把 Black",
             "shortName": "OMRG Black",
             "basePrice": 3600,
-            "avg24hPrice": 9985,
+            "avg24hPrice": 10074,
             "low24hPrice": 6000,
             "high24hPrice": 15999
         },
@@ -3196,9 +3196,9 @@
             "name": "Hogue OverMolded橡胶握把 Ghillie Earth",
             "shortName": "OMRG GE",
             "basePrice": 3600,
-            "avg24hPrice": 13467,
+            "avg24hPrice": 13235,
             "low24hPrice": 7000,
-            "high24hPrice": 19900
+            "high24hPrice": 16500
         },
         {
             "id": "57c55f112459772d28133310",
@@ -3206,15 +3206,15 @@
             "shortName": "OMRG GG",
             "basePrice": 3600,
             "avg24hPrice": 10000,
-            "low24hPrice": 10000,
-            "high24hPrice": 10000
+            "low24hPrice": null,
+            "high24hPrice": null
         },
         {
             "id": "57c55f172459772d27602381",
             "name": "Hogue OverMolded橡胶握把 OD Green",
             "shortName": "OMRG OD",
             "basePrice": 3600,
-            "avg24hPrice": 9276,
+            "avg24hPrice": 9702,
             "low24hPrice": 4444,
             "high24hPrice": 12999
         },
@@ -3241,9 +3241,9 @@
             "name": "西格-绍尔P226（战斗型）FDE手枪握把",
             "shortName": "226FDE",
             "basePrice": 1247,
-            "avg24hPrice": 7266,
+            "avg24hPrice": 6433,
             "low24hPrice": 1411,
-            "high24hPrice": 16666
+            "high24hPrice": 16000
         },
         {
             "id": "57cd379a24597778e7682ecf",
@@ -3259,7 +3259,7 @@
             "name": "Magpul MOE AKM/AK护木（Black）",
             "shortName": "MOE AKM",
             "basePrice": 16234,
-            "avg24hPrice": 27773,
+            "avg24hPrice": 31954,
             "low24hPrice": 20000,
             "high24hPrice": 300000
         },
@@ -3304,7 +3304,7 @@
             "name": "AK Magpul MOE AKM 护木 (FDE)",
             "shortName": "MOE AKM",
             "basePrice": 13885,
-            "avg24hPrice": 21743,
+            "avg24hPrice": 21835,
             "low24hPrice": 15327,
             "high24hPrice": 35000
         },
@@ -3313,7 +3313,7 @@
             "name": "Magpul MOE AKM/AK护木（Olive Drab）",
             "shortName": "MOE AKM",
             "basePrice": 13666,
-            "avg24hPrice": 19478,
+            "avg24hPrice": 19555,
             "low24hPrice": 14500,
             "high24hPrice": 29999
         },
@@ -3331,7 +3331,7 @@
             "name": "Magpul MOE AKM/AK护木（Stealth Gray）",
             "shortName": "MOE AKM",
             "basePrice": 13751,
-            "avg24hPrice": 26462,
+            "avg24hPrice": 26608,
             "low24hPrice": 13333,
             "high24hPrice": 29999
         },
@@ -3367,7 +3367,7 @@
             "name": "ZMZ PP-91聚合物手枪式握把",
             "shortName": "PP91聚合物",
             "basePrice": 1319,
-            "avg24hPrice": 11390,
+            "avg24hPrice": 10408,
             "low24hPrice": 8000,
             "high24hPrice": 19800
         },
@@ -3412,7 +3412,7 @@
             "name": "AKS-74U 5.45x39 短突击步枪",
             "shortName": "AKS-74U",
             "basePrice": 13643,
-            "avg24hPrice": 31544,
+            "avg24hPrice": 30994,
             "low24hPrice": 13000,
             "high24hPrice": 300000
         },
@@ -3439,7 +3439,7 @@
             "name": "AKS-74U防尘盖（6P26 Sb.7）",
             "shortName": "6P26 Sb.7",
             "basePrice": 1198,
-            "avg24hPrice": 8044,
+            "avg24hPrice": 7952,
             "low24hPrice": 5000,
             "high24hPrice": 9000
         },
@@ -3475,9 +3475,9 @@
             "name": "Izhmash AK胶木层压板手枪式握把（6P4 Sb.9）",
             "shortName": "6P4 Sb.9",
             "basePrice": 739,
-            "avg24hPrice": 7352,
+            "avg24hPrice": 7181,
             "low24hPrice": 4500,
-            "high24hPrice": 16252
+            "high24hPrice": 9000
         },
         {
             "id": "57ee59b42459771c7b045da5",
@@ -3547,7 +3547,7 @@
             "name": "B-11 AKS-74U护木",
             "shortName": "B-11",
             "basePrice": 5194,
-            "avg24hPrice": 8605,
+            "avg24hPrice": 8494,
             "low24hPrice": 5444,
             "high24hPrice": 32000
         },
@@ -3583,18 +3583,18 @@
             "name": "SOK-12 MTU002长顶型铝制护木",
             "shortName": "MTU002 L",
             "basePrice": 10246,
-            "avg24hPrice": 12901,
+            "avg24hPrice": 12738,
             "low24hPrice": 10999,
-            "high24hPrice": 32888
+            "high24hPrice": 25000
         },
         {
             "id": "58272b392459774b4c7b3ccd",
             "name": "SOK-12 MTU002短顶型铝制护木",
             "shortName": "MTU002 S",
             "basePrice": 7539,
-            "avg24hPrice": 13727,
+            "avg24hPrice": 13034,
             "low24hPrice": 8000,
-            "high24hPrice": 24000
+            "high24hPrice": 20000
         },
         {
             "id": "58272b842459774abc128d50",
@@ -3619,7 +3619,7 @@
             "name": "AKS-74UN 5.45x39 短突击步枪",
             "shortName": "AKS-74UN",
             "basePrice": 19345,
-            "avg24hPrice": 29063,
+            "avg24hPrice": 28669,
             "low24hPrice": 19000,
             "high24hPrice": 999999
         },
@@ -3628,9 +3628,9 @@
             "name": "AKS-74UB 5.45x39 短突击步枪",
             "shortName": "AKS-74UB",
             "basePrice": 21746,
-            "avg24hPrice": 32871,
+            "avg24hPrice": 32918,
             "low24hPrice": 10000,
-            "high24hPrice": 70750
+            "high24hPrice": 143434
         },
         {
             "id": "5839a7742459773cf9693481",
@@ -3646,7 +3646,7 @@
             "name": "卡拉什尼科夫 AK-74N 5.45x39 突击步枪 默认",
             "shortName": "AK-74N 默认",
             "basePrice": 32898,
-            "avg24hPrice": 30998,
+            "avg24hPrice": 31127,
             "low24hPrice": 20000,
             "high24hPrice": 270000
         },
@@ -3655,7 +3655,7 @@
             "name": "AKS-74U 5.45x39 短突击步枪 默认",
             "shortName": "AKS-74U 默认",
             "basePrice": 22573,
-            "avg24hPrice": 31544,
+            "avg24hPrice": 30994,
             "low24hPrice": 13000,
             "high24hPrice": 300000
         },
@@ -3664,16 +3664,16 @@
             "name": "AKS-74UB 5.45x39 短突击步枪 默认",
             "shortName": "AKS-74UB 默认",
             "basePrice": 64978,
-            "avg24hPrice": 32871,
+            "avg24hPrice": 32918,
             "low24hPrice": 10000,
-            "high24hPrice": 70750
+            "high24hPrice": 143434
         },
         {
             "id": "584147ed2459775a77263501",
             "name": "AKS-74UN 5.45x39 短突击步枪 默认",
             "shortName": "AKS-74UN 默认",
             "basePrice": 28300,
-            "avg24hPrice": 29063,
+            "avg24hPrice": 28669,
             "low24hPrice": 19000,
             "high24hPrice": 999999
         },
@@ -3682,7 +3682,7 @@
             "name": "AS “巨浪” 9x39 特种突击步枪 默认",
             "shortName": "AS VAL 默认",
             "basePrice": 104536,
-            "avg24hPrice": 91153,
+            "avg24hPrice": 92225,
             "low24hPrice": 65555,
             "high24hPrice": 149999
         },
@@ -3898,7 +3898,7 @@
             "name": "西蒙诺夫 OP-SKS 7.62x39 卡宾枪",
             "shortName": "OP-SKS",
             "basePrice": 21814,
-            "avg24hPrice": 53324,
+            "avg24hPrice": 50919,
             "low24hPrice": 28888,
             "high24hPrice": 350000
         },
@@ -4078,7 +4078,7 @@
             "name": "LOBAEV Arms DVL-10 M2护木",
             "shortName": "DVL-10 M2",
             "basePrice": 6269,
-            "avg24hPrice": 13836,
+            "avg24hPrice": 14041,
             "low24hPrice": 8888,
             "high24hPrice": 19998
         },
@@ -4123,7 +4123,7 @@
             "name": "Daniel Defence RIS II 9.5英寸AR-15兼容系统护木",
             "shortName": "RIS II 9.5 BLK",
             "basePrice": 10249,
-            "avg24hPrice": 10943,
+            "avg24hPrice": 10888,
             "low24hPrice": 10777,
             "high24hPrice": 11232
         },
@@ -4195,8 +4195,8 @@
             "name": "SIG MPX Gen. 1 MPX护木",
             "shortName": "MPX Gen. 1",
             "basePrice": 7311,
-            "avg24hPrice": 61360,
-            "low24hPrice": 9999,
+            "avg24hPrice": 55642,
+            "low24hPrice": 18999,
             "high24hPrice": 69000
         },
         {
@@ -4204,8 +4204,8 @@
             "name": "SIG MPX手枪式握把",
             "shortName": "MPX手枪式握把",
             "basePrice": 3274,
-            "avg24hPrice": 28658,
-            "low24hPrice": 20000,
+            "avg24hPrice": 28286,
+            "low24hPrice": 18999,
             "high24hPrice": 37420
         },
         {
@@ -4429,7 +4429,7 @@
             "name": "西蒙诺夫 SKS 7.62x39 卡宾枪 默认",
             "shortName": "SKS 默认",
             "basePrice": 34305,
-            "avg24hPrice": 30323,
+            "avg24hPrice": 29340,
             "low24hPrice": 6495,
             "high24hPrice": 100000
         },
@@ -4690,7 +4690,7 @@
             "name": "文件包",
             "shortName": "文件包",
             "basePrice": 167469,
-            "avg24hPrice": 115373,
+            "avg24hPrice": 115815,
             "low24hPrice": 105000,
             "high24hPrice": 131221
         },
@@ -5023,7 +5023,7 @@
             "name": "MP5 Wide Tropical聚合物护木",
             "shortName": "MP5WT",
             "basePrice": 3041,
-            "avg24hPrice": 3057,
+            "avg24hPrice": 3043,
             "low24hPrice": 1000,
             "high24hPrice": 3311
         },
@@ -5095,7 +5095,7 @@
             "name": "HK MP5SD上机匣",
             "shortName": "MP5SD",
             "basePrice": 7836,
-            "avg24hPrice": 20479,
+            "avg24hPrice": 20986,
             "low24hPrice": 9999,
             "high24hPrice": 39876
         },
@@ -5105,7 +5105,7 @@
             "shortName": "MP5SD HG",
             "basePrice": 5453,
             "avg24hPrice": 12000,
-            "low24hPrice": 10000,
+            "low24hPrice": 6084,
             "high24hPrice": 44000
         },
         {
@@ -5113,7 +5113,7 @@
             "name": "UMTBS 6Sh112 Scout-Sniper胸挂（数码丛林迷彩）",
             "shortName": "6sh112",
             "basePrice": 21423,
-            "avg24hPrice": 22020,
+            "avg24hPrice": 21897,
             "low24hPrice": 15555,
             "high24hPrice": 25555
         },
@@ -5122,7 +5122,7 @@
             "name": "ANA Tactical Alpha胸挂",
             "shortName": "Alpha",
             "basePrice": 42881,
-            "avg24hPrice": 47578,
+            "avg24hPrice": 47497,
             "low24hPrice": 33000,
             "high24hPrice": 58666
         },
@@ -5266,8 +5266,8 @@
             "name": "卡拉什尼科夫 AK-74N 5.45x39 突击步枪 Magpul",
             "shortName": "AK-74N Magpul",
             "basePrice": 139849,
-            "avg24hPrice": 174999,
-            "low24hPrice": 149999,
+            "avg24hPrice": 166665,
+            "low24hPrice": 110000,
             "high24hPrice": 199999
         },
         {
@@ -5329,8 +5329,8 @@
             "name": "TAPCO SAW-Style Black AK手枪式握把",
             "shortName": "SAW",
             "basePrice": 4500,
-            "avg24hPrice": 11783,
-            "low24hPrice": 5555,
+            "avg24hPrice": 11949,
+            "low24hPrice": 7660,
             "high24hPrice": 20000
         },
         {
@@ -5338,7 +5338,7 @@
             "name": "TAPCO Saw-style FDE AK手枪式握把 ",
             "shortName": "SAW",
             "basePrice": 4500,
-            "avg24hPrice": 10765,
+            "avg24hPrice": 10771,
             "low24hPrice": 8000,
             "high24hPrice": 14999
         },
@@ -5347,7 +5347,7 @@
             "name": "War Sport LVOA-S AR-15兼容护木 blk",
             "shortName": "LVOA-S blk.",
             "basePrice": 16845,
-            "avg24hPrice": 18973,
+            "avg24hPrice": 18968,
             "low24hPrice": 16999,
             "high24hPrice": 24000
         },
@@ -5356,7 +5356,7 @@
             "name": "War Sport LVOA-C AR-15兼容护木 blk.",
             "shortName": "LVOA-C blk.",
             "basePrice": 28988,
-            "avg24hPrice": 52536,
+            "avg24hPrice": 50906,
             "low24hPrice": 35544,
             "high24hPrice": 77777
         },
@@ -5383,8 +5383,8 @@
             "name": "PP-19-01 Izhmash手枪式握把",
             "shortName": "PP-19-01握把",
             "basePrice": 899,
-            "avg24hPrice": 5666,
-            "low24hPrice": 888,
+            "avg24hPrice": 6000,
+            "low24hPrice": 900,
             "high24hPrice": 12000
         },
         {
@@ -5482,7 +5482,7 @@
             "name": "Vltor MUR-1S 5.56x45 AR系统上机匣",
             "shortName": "MUR-1S上机匣",
             "basePrice": 32679,
-            "avg24hPrice": 38233,
+            "avg24hPrice": 38466,
             "low24hPrice": 29999,
             "high24hPrice": 50000
         },
@@ -5572,9 +5572,9 @@
             "name": "AKM 7.62×39 突击步枪",
             "shortName": "AKM",
             "basePrice": 29513,
-            "avg24hPrice": 42790,
+            "avg24hPrice": 42840,
             "low24hPrice": 34000,
-            "high24hPrice": 222222
+            "high24hPrice": 385000
         },
         {
             "id": "59d625f086f774661516605d",
@@ -5662,7 +5662,7 @@
             "name": "Naroh Arms GRAL-S AR-15兼容手枪式握把",
             "shortName": "GRAL-S",
             "basePrice": 18012,
-            "avg24hPrice": 32253,
+            "avg24hPrice": 32424,
             "low24hPrice": 25999,
             "high24hPrice": 58888
         },
@@ -5671,7 +5671,7 @@
             "name": "Stark AR AR-15兼容武器步枪握把（Black）",
             "shortName": "Stark AR RG",
             "basePrice": 7600,
-            "avg24hPrice": 17236,
+            "avg24hPrice": 17012,
             "low24hPrice": 10998,
             "high24hPrice": 39000
         },
@@ -5680,9 +5680,9 @@
             "name": "Stark AR AR-15兼容武器步枪握把（FDE）",
             "shortName": "Stark AR RG",
             "basePrice": 7600,
-            "avg24hPrice": 14973,
+            "avg24hPrice": 14222,
             "low24hPrice": 8888,
-            "high24hPrice": 71000
+            "high24hPrice": 23206
         },
         {
             "id": "59db794186f77448bc595262",
@@ -5716,7 +5716,7 @@
             "name": "西蒙诺夫 OP-SKS 7.62x39 卡宾枪 默认",
             "shortName": "OP-SKS 默认",
             "basePrice": 34970,
-            "avg24hPrice": 53324,
+            "avg24hPrice": 50919,
             "low24hPrice": 28888,
             "high24hPrice": 350000
         },
@@ -5941,8 +5941,8 @@
             "name": "Vepr KM / VPO-136 7.62x39 卡宾枪",
             "shortName": "Vepr KM/VPO-136",
             "basePrice": 18978,
-            "avg24hPrice": 37902,
-            "low24hPrice": 33333,
+            "avg24hPrice": 38035,
+            "low24hPrice": 32666,
             "high24hPrice": 125715
         },
         {
@@ -6040,7 +6040,7 @@
             "name": "Vepr AKM / VPO-209 .366TKM 卡宾枪",
             "shortName": "AKM/VPO-209",
             "basePrice": 21585,
-            "avg24hPrice": 28733,
+            "avg24hPrice": 28848,
             "low24hPrice": 20000,
             "high24hPrice": 60000
         },
@@ -6121,7 +6121,7 @@
             "name": "WARTECH TV-109 + TV-106 胸挂（A-TACS 橄榄绿迷彩）",
             "shortName": "WT胸挂",
             "basePrice": 14252,
-            "avg24hPrice": 19396,
+            "avg24hPrice": 19368,
             "low24hPrice": 13888,
             "high24hPrice": 49999
         },
@@ -6220,9 +6220,9 @@
             "name": "AKM 7.62×39 突击步枪 默认",
             "shortName": "AKM 默认",
             "basePrice": 39512,
-            "avg24hPrice": 42790,
+            "avg24hPrice": 42840,
             "low24hPrice": 34000,
-            "high24hPrice": 222222
+            "high24hPrice": 385000
         },
         {
             "id": "59e8d2b386f77445830dd299",
@@ -6274,7 +6274,7 @@
             "name": "Vepr AKM / VPO-209 .366TKM 卡宾枪 默认",
             "shortName": "AKM/VPO-209 默认",
             "basePrice": 29730,
-            "avg24hPrice": 28733,
+            "avg24hPrice": 28848,
             "low24hPrice": 20000,
             "high24hPrice": 60000
         },
@@ -6283,8 +6283,8 @@
             "name": "Vepr KM / VPO-136 7.62x39 卡宾枪 默认",
             "shortName": "Vepr KM/VPO-136 默认",
             "basePrice": 27128,
-            "avg24hPrice": 37902,
-            "low24hPrice": 33333,
+            "avg24hPrice": 38035,
+            "low24hPrice": 32666,
             "high24hPrice": 125715
         },
         {
@@ -6319,7 +6319,7 @@
             "name": "谢尔久科夫 SR1MP 9x21 “斑蝰蛇” 半自动手枪",
             "shortName": "SR-1MP",
             "basePrice": 19292,
-            "avg24hPrice": 17814,
+            "avg24hPrice": 17225,
             "low24hPrice": 9999,
             "high24hPrice": 21999
         },
@@ -6400,8 +6400,8 @@
             "name": "钥匙收纳器",
             "shortName": "钥匙收纳",
             "basePrice": 748453,
-            "avg24hPrice": 477099,
-            "low24hPrice": 472222,
+            "avg24hPrice": 476723,
+            "low24hPrice": 472000,
             "high24hPrice": 498333
         },
         {
@@ -6418,7 +6418,7 @@
             "name": "钱箱",
             "shortName": "钱箱",
             "basePrice": 398201,
-            "avg24hPrice": 497907,
+            "avg24hPrice": 493753,
             "low24hPrice": 411111,
             "high24hPrice": 700000
         },
@@ -6427,8 +6427,8 @@
             "name": "武器箱",
             "shortName": "武器箱",
             "basePrice": 1093207,
-            "avg24hPrice": 1491365,
-            "low24hPrice": 1344444,
+            "avg24hPrice": 1496998,
+            "low24hPrice": 1311111,
             "high24hPrice": 2099999
         },
         {
@@ -6436,7 +6436,7 @@
             "name": "物品箱",
             "shortName": "物品箱",
             "basePrice": 1229994,
-            "avg24hPrice": 1475270,
+            "avg24hPrice": 1478439,
             "low24hPrice": 1399998,
             "high24hPrice": 1800000
         },
@@ -6463,7 +6463,7 @@
             "name": "Krebs定制UFM Keymod系统AKM护木",
             "shortName": "UFM",
             "basePrice": 20355,
-            "avg24hPrice": 12488,
+            "avg24hPrice": 12415,
             "low24hPrice": 11000,
             "high24hPrice": 15000
         },
@@ -6481,7 +6481,7 @@
             "name": "AKMS 7.62×39 突击步枪",
             "shortName": "AKMS",
             "basePrice": 27871,
-            "avg24hPrice": 36193,
+            "avg24hPrice": 36683,
             "low24hPrice": 20000,
             "high24hPrice": 80000
         },
@@ -6652,7 +6652,7 @@
             "name": "AKMN 7.62x39 突击步枪",
             "shortName": "AKMN",
             "basePrice": 34003,
-            "avg24hPrice": 110625,
+            "avg24hPrice": 100293,
             "low24hPrice": 36666,
             "high24hPrice": 500000
         },
@@ -7246,7 +7246,7 @@
             "name": "AKMN 7.62x39 突击步枪 默认",
             "shortName": "AKMN 默认",
             "basePrice": 44213,
-            "avg24hPrice": 110625,
+            "avg24hPrice": 100293,
             "low24hPrice": 36666,
             "high24hPrice": 500000
         },
@@ -7255,7 +7255,7 @@
             "name": "AKMS 7.62×39 突击步枪 默认",
             "shortName": "AKMS 默认",
             "basePrice": 38415,
-            "avg24hPrice": 36193,
+            "avg24hPrice": 36683,
             "low24hPrice": 20000,
             "high24hPrice": 80000
         },
@@ -7264,7 +7264,7 @@
             "name": "谢尔久科夫 SR1MP 9x21 “斑蝰蛇” 半自动手枪 默认",
             "shortName": "SR-1MP 默认",
             "basePrice": 20798,
-            "avg24hPrice": 17814,
+            "avg24hPrice": 17225,
             "low24hPrice": 9999,
             "high24hPrice": 21999
         },
@@ -7345,7 +7345,7 @@
             "name": "MIAD AR-15系统手枪式握把",
             "shortName": "MIAD手枪式",
             "basePrice": 3150,
-            "avg24hPrice": 10110,
+            "avg24hPrice": 10092,
             "low24hPrice": 7777,
             "high24hPrice": 20000
         },
@@ -7480,9 +7480,9 @@
             "name": "雷明顿 R11 RSASS 7.62x51 精确射手步枪",
             "shortName": "RSASS",
             "basePrice": 41605,
-            "avg24hPrice": 93344,
+            "avg24hPrice": 93795,
             "low24hPrice": 70000,
-            "high24hPrice": 104000
+            "high24hPrice": 169696
         },
         {
             "id": "5a37ca54c4a282000d72296a",
@@ -7588,9 +7588,9 @@
             "name": "雷明顿 R11 RSASS 7.62x51 精确射手步枪 默认",
             "shortName": "RSASS 默认",
             "basePrice": 155588,
-            "avg24hPrice": 93344,
+            "avg24hPrice": 93795,
             "low24hPrice": 70000,
-            "high24hPrice": 104000
+            "high24hPrice": 169696
         },
         {
             "id": "5a3b898486f77467720a2f29",
@@ -7678,9 +7678,9 @@
             "name": "AS VAL Rotor 43 手枪式握把附缓冲管转接器",
             "shortName": "R43 VAL",
             "basePrice": 8177,
-            "avg24hPrice": 41697,
+            "avg24hPrice": 41723,
             "low24hPrice": 34442,
-            "high24hPrice": 99999
+            "high24hPrice": 120000
         },
         {
             "id": "5a6b585a8dc32e5a9c28b4f1",
@@ -7723,8 +7723,8 @@
             "name": "Double Diamond Glock 9x19螺纹枪管",
             "shortName": "Glock 9x19 DD",
             "basePrice": 5965,
-            "avg24hPrice": 35428,
-            "low24hPrice": 19000,
+            "avg24hPrice": 33133,
+            "low24hPrice": 12345,
             "high24hPrice": 88888
         },
         {
@@ -7732,7 +7732,7 @@
             "name": "Salient Arms Glock 9x19螺纹枪管",
             "shortName": "Glock 9x19 SAI",
             "basePrice": 11356,
-            "avg24hPrice": 16605,
+            "avg24hPrice": 17119,
             "low24hPrice": 10000,
             "high24hPrice": 25000
         },
@@ -7787,7 +7787,7 @@
             "shortName": "Glock Viper Cut",
             "basePrice": 11199,
             "avg24hPrice": 11349,
-            "low24hPrice": 9999,
+            "low24hPrice": 10000,
             "high24hPrice": 11999
         },
         {
@@ -7895,7 +7895,7 @@
             "shortName": "G ZT Hex",
             "basePrice": 20119,
             "avg24hPrice": 79999,
-            "low24hPrice": 79999,
+            "low24hPrice": 79000,
             "high24hPrice": 79999
         },
         {
@@ -7939,7 +7939,7 @@
             "name": "508毫米M870枪管 12铅径",
             "shortName": "508毫米 M870",
             "basePrice": 10378,
-            "avg24hPrice": 57624,
+            "avg24hPrice": 57472,
             "low24hPrice": 51900,
             "high24hPrice": 58888
         },
@@ -7975,7 +7975,7 @@
             "name": "Magpul MOE M870下护木",
             "shortName": "MOE 870",
             "basePrice": 7852,
-            "avg24hPrice": 17780,
+            "avg24hPrice": 17876,
             "low24hPrice": 13332,
             "high24hPrice": 25000
         },
@@ -7984,7 +7984,7 @@
             "name": "M870 Speedfeed短下护木",
             "shortName": "Speedfeed",
             "basePrice": 1402,
-            "avg24hPrice": 1036,
+            "avg24hPrice": 1021,
             "low24hPrice": 1000,
             "high24hPrice": 1333
         },
@@ -8128,7 +8128,7 @@
             "name": "GLOCK 17 9x19手枪",
             "shortName": "GLOCK17",
             "basePrice": 6608,
-            "avg24hPrice": 15345,
+            "avg24hPrice": 15365,
             "low24hPrice": 10000,
             "high24hPrice": 1300000
         },
@@ -8137,9 +8137,9 @@
             "name": "Polymer80 PS9 Glock套筒",
             "shortName": "PS9",
             "basePrice": 14122,
-            "avg24hPrice": 10416,
+            "avg24hPrice": 10454,
             "low24hPrice": 9000,
-            "high24hPrice": 14000
+            "high24hPrice": 26665
         },
         {
             "id": "5a7b32a2e899ef00135e345a",
@@ -8173,7 +8173,7 @@
             "name": "Pachmayr战术橡胶握把",
             "shortName": "Pach RG",
             "basePrice": 1009,
-            "avg24hPrice": 41812,
+            "avg24hPrice": 43029,
             "low24hPrice": 20000,
             "high24hPrice": 47999
         },
@@ -8281,7 +8281,7 @@
             "name": "GLOCK 17 9x19手枪 默认",
             "shortName": "GLOCK17 默认",
             "basePrice": 13862,
-            "avg24hPrice": 15345,
+            "avg24hPrice": 15365,
             "low24hPrice": 10000,
             "high24hPrice": 1300000
         },
@@ -8299,7 +8299,7 @@
             "name": "GLOCK 17 9x19手枪 Viper",
             "shortName": "GLOCK17 Viper",
             "basePrice": 61772,
-            "avg24hPrice": 890000,
+            "avg24hPrice": 1007500,
             "low24hPrice": 14000,
             "high24hPrice": 1300000
         },
@@ -8407,7 +8407,7 @@
             "name": "MP5 TL-99铝制护木",
             "shortName": "TL-99",
             "basePrice": 7800,
-            "avg24hPrice": 12555,
+            "avg24hPrice": 10000,
             "low24hPrice": 7000,
             "high24hPrice": 19000
         },
@@ -8416,7 +8416,7 @@
             "name": "XRSU47SU AKS-74U战术护木",
             "shortName": "XRSU47SU",
             "basePrice": 22090,
-            "avg24hPrice": 19869,
+            "avg24hPrice": 20068,
             "low24hPrice": 15444,
             "high24hPrice": 22222
         },
@@ -8443,7 +8443,7 @@
             "name": "Glock 9x19 Moto Cut套筒",
             "shortName": "Glock Moto Cut",
             "basePrice": 10186,
-            "avg24hPrice": 12140,
+            "avg24hPrice": 11952,
             "low24hPrice": 10000,
             "high24hPrice": 20000
         },
@@ -8452,7 +8452,7 @@
             "name": "Strike Industries TRAX1护木",
             "shortName": "TRAX 1",
             "basePrice": 7925,
-            "avg24hPrice": 10564,
+            "avg24hPrice": 10412,
             "low24hPrice": 7900,
             "high24hPrice": 17777
         },
@@ -8488,7 +8488,7 @@
             "name": "Strike industries TRAX 2护木",
             "shortName": "TRAX 2",
             "basePrice": 7259,
-            "avg24hPrice": 14113,
+            "avg24hPrice": 14145,
             "low24hPrice": 7000,
             "high24hPrice": 25001
         },
@@ -8812,7 +8812,7 @@
             "name": "16英寸M1A枪管 7.62x51 NATO",
             "shortName": "16英寸M1A 7.62X51",
             "basePrice": 15600,
-            "avg24hPrice": 30193,
+            "avg24hPrice": 29894,
             "low24hPrice": 22333,
             "high24hPrice": 31111
         },
@@ -8839,7 +8839,7 @@
             "name": "春田 M1A 7.62x51 精确射手步枪",
             "shortName": "M1A",
             "basePrice": 30264,
-            "avg24hPrice": 50989,
+            "avg24hPrice": 51237,
             "low24hPrice": 28880,
             "high24hPrice": 87000
         },
@@ -8857,7 +8857,7 @@
             "name": "弹药箱",
             "shortName": "弹药箱",
             "basePrice": 162552,
-            "avg24hPrice": 186627,
+            "avg24hPrice": 187150,
             "low24hPrice": 180000,
             "high24hPrice": 205000
         },
@@ -8902,7 +8902,7 @@
             "name": "Wartech MK3胸挂（TV-104）",
             "shortName": "MK3",
             "basePrice": 36958,
-            "avg24hPrice": 31763,
+            "avg24hPrice": 31662,
             "low24hPrice": 23000,
             "high24hPrice": 44000
         },
@@ -8911,8 +8911,8 @@
             "name": "ANA Tactical M2防弹胸挂",
             "shortName": "M2",
             "basePrice": 41364,
-            "avg24hPrice": 42596,
-            "low24hPrice": 33333,
+            "avg24hPrice": 42803,
+            "low24hPrice": 35000,
             "high24hPrice": 76160
         },
         {
@@ -8938,7 +8938,7 @@
             "name": "AKS-74N 5.45x39 突击步枪",
             "shortName": "AKS-74N",
             "basePrice": 25490,
-            "avg24hPrice": 41258,
+            "avg24hPrice": 41797,
             "low24hPrice": 30000,
             "high24hPrice": 80000
         },
@@ -8956,7 +8956,7 @@
             "name": "VKBO军用背包",
             "shortName": "军用背包",
             "basePrice": 8000,
-            "avg24hPrice": 17160,
+            "avg24hPrice": 16753,
             "low24hPrice": 5999,
             "high24hPrice": 22222
         },
@@ -8965,7 +8965,7 @@
             "name": "战术挎包",
             "shortName": "挎包",
             "basePrice": 6000,
-            "avg24hPrice": 17990,
+            "avg24hPrice": 18169,
             "low24hPrice": 13999,
             "high24hPrice": 54999
         },
@@ -9046,9 +9046,9 @@
             "name": "AKMSN 7.62x39 突击步枪",
             "shortName": "AKMSN",
             "basePrice": 28972,
-            "avg24hPrice": 39986,
+            "avg24hPrice": 39917,
             "low24hPrice": 30000,
-            "high24hPrice": 43062
+            "high24hPrice": 43000
         },
         {
             "id": "5abcc328d8ce8700194394f3",
@@ -9082,16 +9082,16 @@
             "name": "AKMSN 7.62x39 突击步枪 默认",
             "shortName": "AKMSN 默认",
             "basePrice": 39507,
-            "avg24hPrice": 39986,
+            "avg24hPrice": 39917,
             "low24hPrice": 30000,
-            "high24hPrice": 43062
+            "high24hPrice": 43000
         },
         {
             "id": "5ac4abf986f7747d117c67aa",
             "name": "AKS-74N 5.45x39 突击步枪 默认",
             "shortName": "AKS-74N 默认",
             "basePrice": 34928,
-            "avg24hPrice": 41258,
+            "avg24hPrice": 41797,
             "low24hPrice": 30000,
             "high24hPrice": 80000
         },
@@ -9118,7 +9118,7 @@
             "name": "春田 M1A 7.62x51 精确射手步枪 默认",
             "shortName": "M1A 默认",
             "basePrice": 68584,
-            "avg24hPrice": 50989,
+            "avg24hPrice": 51237,
             "low24hPrice": 28880,
             "high24hPrice": 87000
         },
@@ -9145,9 +9145,9 @@
             "name": "AK-74M 5.45x39 突击步枪",
             "shortName": "AK-74M",
             "basePrice": 26181,
-            "avg24hPrice": 29390,
+            "avg24hPrice": 29301,
             "low24hPrice": 17000,
-            "high24hPrice": 299999
+            "high24hPrice": 250000
         },
         {
             "id": "5ac50c185acfc400163398d4",
@@ -9165,7 +9165,7 @@
             "basePrice": 1009,
             "avg24hPrice": 2000,
             "low24hPrice": 1000,
-            "high24hPrice": 10000
+            "high24hPrice": 2000
         },
         {
             "id": "5ac66bea5acfc43b321d4aec",
@@ -9199,7 +9199,7 @@
             "name": "AK-102 5.56x45 突击步枪",
             "shortName": "AK-102",
             "basePrice": 51648,
-            "avg24hPrice": 51731,
+            "avg24hPrice": 51575,
             "low24hPrice": 35000,
             "high24hPrice": 295420
         },
@@ -9208,7 +9208,7 @@
             "name": "AK-103 7.62x39 突击步枪",
             "shortName": "AK-103",
             "basePrice": 34311,
-            "avg24hPrice": 35412,
+            "avg24hPrice": 35483,
             "low24hPrice": 20069,
             "high24hPrice": 200000
         },
@@ -9217,7 +9217,7 @@
             "name": "AK-104 7.62x39 突击步枪",
             "shortName": "AK-104",
             "basePrice": 39912,
-            "avg24hPrice": 30834,
+            "avg24hPrice": 31332,
             "low24hPrice": 19000,
             "high24hPrice": 550000
         },
@@ -9226,7 +9226,7 @@
             "name": "AK-105 5.45x39 突击步枪",
             "shortName": "AK-105",
             "basePrice": 30862,
-            "avg24hPrice": 54787,
+            "avg24hPrice": 56088,
             "low24hPrice": 28420,
             "high24hPrice": 299999
         },
@@ -9334,9 +9334,9 @@
             "name": "AK-74M 5.45x39 突击步枪 默认",
             "shortName": "AK-74M 默认",
             "basePrice": 35813,
-            "avg24hPrice": 29390,
+            "avg24hPrice": 29301,
             "low24hPrice": 17000,
-            "high24hPrice": 299999
+            "high24hPrice": 250000
         },
         {
             "id": "5acf7dd986f774486e1281bf",
@@ -9352,7 +9352,7 @@
             "name": "AK-102 5.56x45 突击步枪 默认",
             "shortName": "AK-102 默认",
             "basePrice": 61049,
-            "avg24hPrice": 51731,
+            "avg24hPrice": 51575,
             "low24hPrice": 35000,
             "high24hPrice": 295420
         },
@@ -9361,7 +9361,7 @@
             "name": "AK-103 7.62x39 突击步枪 默认",
             "shortName": "AK-103 默认",
             "basePrice": 43877,
-            "avg24hPrice": 35412,
+            "avg24hPrice": 35483,
             "low24hPrice": 20069,
             "high24hPrice": 200000
         },
@@ -9370,7 +9370,7 @@
             "name": "AK-104 7.62x39 突击步枪 默认",
             "shortName": "AK-104 默认",
             "basePrice": 49438,
-            "avg24hPrice": 30834,
+            "avg24hPrice": 31332,
             "low24hPrice": 19000,
             "high24hPrice": 550000
         },
@@ -9379,7 +9379,7 @@
             "name": "AK-105 5.45x39 突击步枪 默认",
             "shortName": "AK-105 默认",
             "basePrice": 40452,
-            "avg24hPrice": 54787,
+            "avg24hPrice": 56088,
             "low24hPrice": 28420,
             "high24hPrice": 299999
         },
@@ -9496,8 +9496,8 @@
             "name": "22英寸M1A枪管 7.62x51 NATO",
             "shortName": "22英寸M1A 7.62X51",
             "basePrice": 24457,
-            "avg24hPrice": 31940,
-            "low24hPrice": 22444,
+            "avg24hPrice": 33462,
+            "low24hPrice": 22222,
             "high24hPrice": 100000
         },
         {
@@ -9631,8 +9631,8 @@
             "name": "M14ALCS（MOD. 0）M14手枪式握把",
             "shortName": "M14ALCS",
             "basePrice": 2613,
-            "avg24hPrice": 10246,
-            "low24hPrice": 2610,
+            "avg24hPrice": 9640,
+            "low24hPrice": 2600,
             "high24hPrice": 23333
         },
         {
@@ -9712,7 +9712,7 @@
             "name": "730毫米标准莫辛枪管",
             "shortName": "730毫米莫辛枪管",
             "basePrice": 4401,
-            "avg24hPrice": 11724,
+            "avg24hPrice": 11678,
             "low24hPrice": 10000,
             "high24hPrice": 12000
         },
@@ -9829,16 +9829,16 @@
             "name": "春田 M1A 7.62x51 精确射手步枪 SASS",
             "shortName": "M1A SASS",
             "basePrice": 110664,
-            "avg24hPrice": 83439,
+            "avg24hPrice": 82799,
             "low24hPrice": 50000,
-            "high24hPrice": 144444
+            "high24hPrice": 115555
         },
         {
             "id": "5af08cc686f77424a61595f2",
             "name": "柯尔特 M4A1 5.56x45 卡宾枪 SOPMOD I",
             "shortName": "M4A1 SOPMOD I",
             "basePrice": 70261,
-            "avg24hPrice": 112880,
+            "avg24hPrice": 112857,
             "low24hPrice": 96000,
             "high24hPrice": 118999
         },
@@ -9847,9 +9847,9 @@
             "name": "柯尔特 M4A1 5.56x45 卡宾枪 Carbine",
             "shortName": "M4A1 Carbine",
             "basePrice": 64191,
-            "avg24hPrice": 38429,
+            "avg24hPrice": 37980,
             "low24hPrice": 18666,
-            "high24hPrice": 75555
+            "high24hPrice": 74999
         },
         {
             "id": "5af08d1c86f774223a7aa1b4",
@@ -9883,7 +9883,7 @@
             "name": "TAPCO SAW-Style SKS INTRAFUSE手枪式握把套件",
             "shortName": "SAW SKS",
             "basePrice": 2701,
-            "avg24hPrice": 9588,
+            "avg24hPrice": 9149,
             "low24hPrice": 5000,
             "high24hPrice": 30000
         },
@@ -9910,7 +9910,7 @@
             "name": "AR-15手枪式镂空握把",
             "shortName": "TD120001",
             "basePrice": 5586,
-            "avg24hPrice": 88149,
+            "avg24hPrice": 89016,
             "low24hPrice": 62222,
             "high24hPrice": 200000
         },
@@ -9937,7 +9937,7 @@
             "name": "11英寸SA-58枪管 7.62x51",
             "shortName": "11英寸SA-58 7.62x51",
             "basePrice": 21337,
-            "avg24hPrice": 29813,
+            "avg24hPrice": 29840,
             "low24hPrice": 21336,
             "high24hPrice": 55555
         },
@@ -9946,7 +9946,7 @@
             "name": "DS Arms SA-58四导轨护木",
             "shortName": "四轨",
             "basePrice": 8637,
-            "avg24hPrice": 19021,
+            "avg24hPrice": 18982,
             "low24hPrice": 5000,
             "high24hPrice": 20000
         },
@@ -9973,16 +9973,16 @@
             "name": "SA-58 SAW-style手枪式握把（黑）",
             "shortName": "SAW SA-58",
             "basePrice": 3207,
-            "avg24hPrice": 7220,
+            "avg24hPrice": 6897,
             "low24hPrice": 3206,
-            "high24hPrice": 14444
+            "high24hPrice": 13333
         },
         {
             "id": "5b099bb25acfc400186331e8",
             "name": "DS Arms Extreme Duty SA-58防尘盖",
             "shortName": "Ext. Duty",
             "basePrice": 11568,
-            "avg24hPrice": 32881,
+            "avg24hPrice": 34107,
             "low24hPrice": 14500,
             "high24hPrice": 40000
         },
@@ -10000,7 +10000,7 @@
             "name": "DS Arms SA-58 7.62x51 突击步枪",
             "shortName": "SA-58",
             "basePrice": 31093,
-            "avg24hPrice": 90662,
+            "avg24hPrice": 91842,
             "low24hPrice": 31000,
             "high24hPrice": 300000
         },
@@ -10126,8 +10126,8 @@
             "name": "MK 10 AR-15兼容护木",
             "shortName": "MK10 RL",
             "basePrice": 24945,
-            "avg24hPrice": 32967,
-            "low24hPrice": 25999,
+            "avg24hPrice": 33231,
+            "low24hPrice": 25555,
             "high24hPrice": 150000
         },
         {
@@ -10135,7 +10135,7 @@
             "name": "Magpul MOE AK手枪式握把",
             "shortName": "MOE AK",
             "basePrice": 7356,
-            "avg24hPrice": 11152,
+            "avg24hPrice": 11015,
             "low24hPrice": 7111,
             "high24hPrice": 25000
         },
@@ -10225,9 +10225,9 @@
             "name": "P226手指凹槽橡胶握把",
             "shortName": "Hogue P226",
             "basePrice": 3100,
-            "avg24hPrice": 6000,
-            "low24hPrice": null,
-            "high24hPrice": null
+            "avg24hPrice": 10000,
+            "low24hPrice": 10000,
+            "high24hPrice": 10000
         },
         {
             "id": "5b3a08b25acfc4001754880c",
@@ -10315,7 +10315,7 @@
             "name": "TT酷炫握把侧片",
             "shortName": "TT侧片",
             "basePrice": 14159,
-            "avg24hPrice": 175000,
+            "avg24hPrice": 170000,
             "low24hPrice": 150000,
             "high24hPrice": 200000
         },
@@ -10612,7 +10612,7 @@
             "name": "DS Arms SA-58 7.62x51 突击步枪 默认",
             "shortName": "SA-58 默认",
             "basePrice": 101968,
-            "avg24hPrice": 90662,
+            "avg24hPrice": 91842,
             "low24hPrice": 31000,
             "high24hPrice": 300000
         },
@@ -10630,7 +10630,7 @@
             "name": "Ana tactical Beta 2战斗背包 ",
             "shortName": "Beta2",
             "basePrice": 68476,
-            "avg24hPrice": 95056,
+            "avg24hPrice": 97013,
             "low24hPrice": 75555,
             "high24hPrice": 135000
         },
@@ -10639,7 +10639,7 @@
             "name": "Blackhawk! Commando胸挂（Desert Tan）",
             "shortName": "Commando ",
             "basePrice": 28618,
-            "avg24hPrice": 28864,
+            "avg24hPrice": 28440,
             "low24hPrice": 17599,
             "high24hPrice": 41000
         },
@@ -10648,7 +10648,7 @@
             "name": "5.11 Tactical TacTec 插板胸挂（丛林绿）",
             "shortName": "TacTec",
             "basePrice": 72398,
-            "avg24hPrice": 49149,
+            "avg24hPrice": 48919,
             "low24hPrice": 25974,
             "high24hPrice": 199000
         },
@@ -10729,7 +10729,7 @@
             "name": "16英寸SA-58枪管 7.62x51",
             "shortName": "16英寸SA-58 7.62x51",
             "basePrice": 23397,
-            "avg24hPrice": 53226,
+            "avg24hPrice": 53158,
             "low24hPrice": 45000,
             "high24hPrice": 54444
         },
@@ -10738,7 +10738,7 @@
             "name": "21英寸SA-58枪管 7.62x51",
             "shortName": "21英寸SA-58 7.62x51",
             "basePrice": 33060,
-            "avg24hPrice": 38637,
+            "avg24hPrice": 38276,
             "low24hPrice": 31888,
             "high24hPrice": 60000
         },
@@ -10747,7 +10747,7 @@
             "name": "DS Arms SA-58全尺寸四导轨护木",
             "shortName": "四轨",
             "basePrice": 9601,
-            "avg24hPrice": 22314,
+            "avg24hPrice": 21710,
             "low24hPrice": 10000,
             "high24hPrice": 35420
         },
@@ -10756,7 +10756,7 @@
             "name": "Aim Sport Keymod FAL通用护木",
             "shortName": "Keymod护木",
             "basePrice": 4841,
-            "avg24hPrice": 18356,
+            "avg24hPrice": 18331,
             "low24hPrice": 7998,
             "high24hPrice": 40000
         },
@@ -10810,7 +10810,7 @@
             "name": "Aim Sport M-LOK FAL通用护木",
             "shortName": "M-LOK护木",
             "basePrice": 5484,
-            "avg24hPrice": 19738,
+            "avg24hPrice": 20479,
             "low24hPrice": 6969,
             "high24hPrice": 50000
         },
@@ -10828,7 +10828,7 @@
             "name": "Vltor CASV FAL护木",
             "shortName": "CASV FAL护木",
             "basePrice": 29262,
-            "avg24hPrice": 40831,
+            "avg24hPrice": 40357,
             "low24hPrice": 27777,
             "high24hPrice": 61111
         },
@@ -10837,8 +10837,8 @@
             "name": "Vltor CASV FAS护木",
             "shortName": "CASV FAS护木",
             "basePrice": 20068,
-            "avg24hPrice": 44896,
-            "low24hPrice": 25000,
+            "avg24hPrice": 45176,
+            "low24hPrice": 25999,
             "high24hPrice": 150000
         },
         {
@@ -10954,7 +10954,7 @@
             "name": "DS Arms SA-58标准手枪式握把",
             "shortName": "DS SA-58",
             "basePrice": 1100,
-            "avg24hPrice": 9074,
+            "avg24hPrice": 8949,
             "low24hPrice": 4444,
             "high24hPrice": 10000
         },
@@ -10963,7 +10963,7 @@
             "name": "Fab AG FAL SA-58手枪式握把",
             "shortName": "AG FAL",
             "basePrice": 8213,
-            "avg24hPrice": 22980,
+            "avg24hPrice": 24482,
             "low24hPrice": 12420,
             "high24hPrice": 31699
         },
@@ -10999,7 +10999,7 @@
             "name": "Hexagon AK护木",
             "shortName": "Hex Blk",
             "basePrice": 29840,
-            "avg24hPrice": 17715,
+            "avg24hPrice": 17794,
             "low24hPrice": 14999,
             "high24hPrice": 120000
         },
@@ -11026,9 +11026,9 @@
             "name": "Hexagon AK护木（Anodized Red）",
             "shortName": "Hex red",
             "basePrice": 44005,
-            "avg24hPrice": 33264,
+            "avg24hPrice": 34291,
             "low24hPrice": 25000,
-            "high24hPrice": 50000
+            "high24hPrice": 100420
         },
         {
             "id": "5b83f22086f77464e15a1d5f",
@@ -11044,9 +11044,9 @@
             "name": "DS Arms SA-58 7.62x51 突击步枪 BEL",
             "shortName": "SA-58 BEL",
             "basePrice": 92046,
-            "avg24hPrice": 101526,
+            "avg24hPrice": 102928,
             "low24hPrice": 47777,
-            "high24hPrice": 134444
+            "high24hPrice": 130000
         },
         {
             "id": "5b83f29886f7746d956305a1",
@@ -11314,7 +11314,7 @@
             "name": "16.5英寸416A5兼容枪管 5.56x45",
             "shortName": "16.5英寸416A5 5.56x45",
             "basePrice": 33500,
-            "avg24hPrice": 43316,
+            "avg24hPrice": 42942,
             "low24hPrice": 31111,
             "high24hPrice": 100000
         },
@@ -11350,7 +11350,7 @@
             "name": "HK 416兼容系统四导轨护木",
             "shortName": "四轨",
             "basePrice": 8100,
-            "avg24hPrice": 15703,
+            "avg24hPrice": 14973,
             "low24hPrice": 6000,
             "high24hPrice": 62805
         },
@@ -11359,16 +11359,16 @@
             "name": "HK 416兼容系统加长型四导轨折叠准星护木",
             "shortName": "四轨准星",
             "basePrice": 8350,
-            "avg24hPrice": 9549,
+            "avg24hPrice": 10285,
             "low24hPrice": 6000,
-            "high24hPrice": 15000
+            "high24hPrice": 200000
         },
         {
             "id": "5bb20dfcd4351e00334c9e24",
             "name": "HK 416兼容系统加长型四导轨护木",
             "shortName": "加长四轨",
             "basePrice": 11300,
-            "avg24hPrice": 19546,
+            "avg24hPrice": 19012,
             "low24hPrice": 10000,
             "high24hPrice": 26000
         },
@@ -11377,16 +11377,16 @@
             "name": "HK Battle Grip Beavertail AR-15武器系统手枪式握把",
             "shortName": "Battle Grip",
             "basePrice": 2990,
-            "avg24hPrice": 4000,
+            "avg24hPrice": 9471,
             "low24hPrice": 3000,
-            "high24hPrice": 11111
+            "high24hPrice": 50000
         },
         {
             "id": "5bb20e18d4351e00320205d5",
             "name": "HK “Battle Grip” AR武器系统手枪式握把",
             "shortName": "Battle Grip",
             "basePrice": 2500,
-            "avg24hPrice": 12222,
+            "avg24hPrice": 12111,
             "low24hPrice": 2000,
             "high24hPrice": 12222
         },
@@ -11422,7 +11422,7 @@
             "name": "HK 416A5 5.56x45 突击步枪",
             "shortName": "HK 416A5",
             "basePrice": 21800,
-            "avg24hPrice": 64713,
+            "avg24hPrice": 63529,
             "low24hPrice": 31900,
             "high24hPrice": 115555
         },
@@ -11476,9 +11476,9 @@
             "name": "Tacfire莫辛步枪手枪式握把",
             "shortName": "PGMN",
             "basePrice": 2263,
-            "avg24hPrice": 15995,
+            "avg24hPrice": 16317,
             "low24hPrice": 7666,
-            "high24hPrice": 19999
+            "high24hPrice": 49999
         },
         {
             "id": "5bbf1c1c88a45017144d28c5",
@@ -11791,7 +11791,7 @@
             "name": "22英寸RPK-16兼容枪管 5.45x39",
             "shortName": "22英寸 RPK-16 5.45x39",
             "basePrice": 17300,
-            "avg24hPrice": 40784,
+            "avg24hPrice": 40513,
             "low24hPrice": 27777,
             "high24hPrice": 76000
         },
@@ -11836,7 +11836,7 @@
             "name": "Izhmash AK-12标准手枪式握把",
             "shortName": "AK-12常规",
             "basePrice": 1725,
-            "avg24hPrice": 6510,
+            "avg24hPrice": 6131,
             "low24hPrice": 3999,
             "high24hPrice": 18888
         },
@@ -11872,8 +11872,8 @@
             "name": "RPK-16 5.45x39 轻机枪",
             "shortName": "RPK-16",
             "basePrice": 22360,
-            "avg24hPrice": 64687,
-            "low24hPrice": 40000,
+            "avg24hPrice": 64598,
+            "low24hPrice": 45000,
             "high24hPrice": 150000
         },
         {
@@ -11881,9 +11881,9 @@
             "name": "AK-74 5.45x39 突击步枪",
             "shortName": "AK-74",
             "basePrice": 21750,
-            "avg24hPrice": 31908,
+            "avg24hPrice": 31363,
             "low24hPrice": 24444,
-            "high24hPrice": 55555
+            "high24hPrice": 44444
         },
         {
             "id": "5bf3e0490db83400196199af",
@@ -11989,7 +11989,7 @@
             "name": "220毫米莫辛锯短枪管",
             "shortName": "220毫米莫辛枪管",
             "basePrice": 7350,
-            "avg24hPrice": 26456,
+            "avg24hPrice": 25264,
             "low24hPrice": 6000,
             "high24hPrice": 100000
         },
@@ -12088,7 +12088,7 @@
             "name": "M700 7.62x51 20英寸螺纹枪管",
             "shortName": "20英寸 M700 7.62x51",
             "basePrice": 22200,
-            "avg24hPrice": 29151,
+            "avg24hPrice": 28838,
             "low24hPrice": 19999,
             "high24hPrice": 32989
         },
@@ -12115,7 +12115,7 @@
             "name": "PM-Laser LAM TT-206握把侧片",
             "shortName": "TT-206",
             "basePrice": 3490,
-            "avg24hPrice": 3433,
+            "avg24hPrice": 3426,
             "low24hPrice": 2222,
             "high24hPrice": 3500
         },
@@ -12160,7 +12160,7 @@
             "name": "P226 Axelson Mk.25战术手枪套筒",
             "shortName": "Axelson",
             "basePrice": 9900,
-            "avg24hPrice": 11068,
+            "avg24hPrice": 11064,
             "low24hPrice": 8000,
             "high24hPrice": 19000
         },
@@ -12205,16 +12205,16 @@
             "name": "西格-绍尔Elite P226木制手枪握把",
             "shortName": "Wooden Elite P226",
             "basePrice": 2000,
-            "avg24hPrice": 17740,
+            "avg24hPrice": 16512,
             "low24hPrice": 5000,
-            "high24hPrice": 39000
+            "high24hPrice": 29999
         },
         {
             "id": "5c0009510db834001966907f",
             "name": "Sig P226 Stainless Elite手枪套筒",
             "shortName": "Stainless Elite P226",
             "basePrice": 4250,
-            "avg24hPrice": 11481,
+            "avg24hPrice": 12222,
             "low24hPrice": 4111,
             "high24hPrice": 55555
         },
@@ -12241,7 +12241,7 @@
             "name": "P226 Sig Emperor Scorpion手枪套筒",
             "shortName": "Scorpion P226",
             "basePrice": 5780,
-            "avg24hPrice": 22380,
+            "avg24hPrice": 20952,
             "low24hPrice": 4444,
             "high24hPrice": 48000
         },
@@ -12493,9 +12493,9 @@
             "name": "仿制版Hogue TT橡胶握把",
             "shortName": "仿版Hogue",
             "basePrice": 2700,
-            "avg24hPrice": 7228,
+            "avg24hPrice": 6410,
             "low24hPrice": 2000,
-            "high24hPrice": 19999
+            "high24hPrice": 12222
         },
         {
             "id": "5c0695860db834001b735461",
@@ -12529,7 +12529,7 @@
             "name": "Razor Arms TT橡胶握把",
             "shortName": "Razor A. TT",
             "basePrice": 4900,
-            "avg24hPrice": 8963,
+            "avg24hPrice": 8954,
             "low24hPrice": 4700,
             "high24hPrice": 10000
         },
@@ -12547,7 +12547,7 @@
             "name": "Noveske Gen.3 5.56x45 AR系统上机匣",
             "shortName": "Gen.3",
             "basePrice": 25150,
-            "avg24hPrice": 38624,
+            "avg24hPrice": 38583,
             "low24hPrice": 24441,
             "high24hPrice": 49000
         },
@@ -12583,7 +12583,7 @@
             "name": "ADAR 2-15 .223 卡宾枪",
             "shortName": "ADAR 2-15",
             "basePrice": 6300,
-            "avg24hPrice": 44950,
+            "avg24hPrice": 44810,
             "low24hPrice": 10000,
             "high24hPrice": 140000
         },
@@ -12655,7 +12655,7 @@
             "name": "Mr. Holodilnick保温箱",
             "shortName": "Holodilnick",
             "basePrice": 340000,
-            "avg24hPrice": 489293,
+            "avg24hPrice": 487285,
             "low24hPrice": 444442,
             "high24hPrice": 550000
         },
@@ -12664,7 +12664,7 @@
             "name": "狗牌包",
             "shortName": "狗牌",
             "basePrice": 310000,
-            "avg24hPrice": 215342,
+            "avg24hPrice": 212087,
             "low24hPrice": 196000,
             "high24hPrice": 300000
         },
@@ -12691,9 +12691,9 @@
             "name": "AK-74 5.45x39 突击步枪 默认",
             "shortName": "AK-74 默认",
             "basePrice": 31476,
-            "avg24hPrice": 31908,
+            "avg24hPrice": 31363,
             "low24hPrice": 24444,
-            "high24hPrice": 55555
+            "high24hPrice": 44444
         },
         {
             "id": "5c0c1d2b86f77401c119d01f",
@@ -12781,7 +12781,7 @@
             "name": "HK 416A5 5.56x45 突击步枪 默认",
             "shortName": "HK 416A5 默认",
             "basePrice": 88157,
-            "avg24hPrice": 64713,
+            "avg24hPrice": 63529,
             "low24hPrice": 31900,
             "high24hPrice": 115555
         },
@@ -12790,8 +12790,8 @@
             "name": "RPK-16 5.45x39 轻机枪 默认",
             "shortName": "RPK-16 默认",
             "basePrice": 63976,
-            "avg24hPrice": 64687,
-            "low24hPrice": 40000,
+            "avg24hPrice": 64598,
+            "low24hPrice": 45000,
             "high24hPrice": 150000
         },
         {
@@ -12881,7 +12881,7 @@
             "shortName": "2-15木制",
             "basePrice": 1600,
             "avg24hPrice": 1999,
-            "low24hPrice": 1839,
+            "low24hPrice": 1777,
             "high24hPrice": 2000
         },
         {
@@ -12907,7 +12907,7 @@
             "name": "6B5-16 Zh-86 Uley 防弹胸挂（卡其色）",
             "shortName": "6B5-16",
             "basePrice": 51044,
-            "avg24hPrice": 39183,
+            "avg24hPrice": 39021,
             "low24hPrice": 26000,
             "high24hPrice": 311111
         },
@@ -12916,9 +12916,9 @@
             "name": "6B5-15 Zh-86 Uley 防弹胸挂（丛林迷彩）",
             "shortName": "6B5-15",
             "basePrice": 58140,
-            "avg24hPrice": 79239,
+            "avg24hPrice": 79410,
             "low24hPrice": 59899,
-            "high24hPrice": 110000
+            "high24hPrice": 100000
         },
         {
             "id": "5c0e51be86f774598e797894",
@@ -13051,7 +13051,7 @@
             "name": "Poyas-A + Poyas-B 复合胸挂",
             "shortName": "Poyas组合",
             "basePrice": 41325,
-            "avg24hPrice": 29350,
+            "avg24hPrice": 29339,
             "low24hPrice": 20000,
             "high24hPrice": 34443
         },
@@ -13060,8 +13060,8 @@
             "name": "ANA Tactical M1 插板胸挂（橄榄绿）",
             "shortName": "ANA M1",
             "basePrice": 38032,
-            "avg24hPrice": 49801,
-            "low24hPrice": 37000,
+            "avg24hPrice": 49945,
+            "low24hPrice": 37777,
             "high24hPrice": 100000
         },
         {
@@ -13069,7 +13069,7 @@
             "name": "WARTECH TV-110 插板胸挂（灰褐色）",
             "shortName": "TV-110",
             "basePrice": 49042,
-            "avg24hPrice": 86274,
+            "avg24hPrice": 83414,
             "low24hPrice": 54000,
             "high24hPrice": 150000
         },
@@ -13123,7 +13123,7 @@
             "name": "Blackhawk! Commando胸挂（黑）",
             "shortName": "Commando",
             "basePrice": 28618,
-            "avg24hPrice": 27381,
+            "avg24hPrice": 27380,
             "low24hPrice": 15000,
             "high24hPrice": 33333
         },
@@ -13177,7 +13177,7 @@
             "name": "ADAR 2-15 .223 卡宾枪 默认",
             "shortName": "ADAR 2-15 默认",
             "basePrice": 39420,
-            "avg24hPrice": 44950,
+            "avg24hPrice": 44810,
             "low24hPrice": 10000,
             "high24hPrice": 140000
         },
@@ -13312,8 +13312,8 @@
             "name": "弹匣箱",
             "shortName": "弹匣箱",
             "basePrice": 235000,
-            "avg24hPrice": 170111,
-            "low24hPrice": 140000,
+            "avg24hPrice": 170869,
+            "low24hPrice": 149876,
             "high24hPrice": 1155555
         },
         {
@@ -13348,9 +13348,9 @@
             "name": "VLTOR CMRD Keymod AK护木",
             "shortName": "CMRD",
             "basePrice": 28100,
-            "avg24hPrice": 37982,
+            "avg24hPrice": 37994,
             "low24hPrice": 29000,
-            "high24hPrice": 190000
+            "high24hPrice": 45555
         },
         {
             "id": "5c1780312e221602b66cc189",
@@ -13609,7 +13609,7 @@
             "name": "德拉贡诺夫 SVDS 7.62x54 半自动狙击步枪",
             "shortName": "SVDS",
             "basePrice": 42800,
-            "avg24hPrice": 93323,
+            "avg24hPrice": 93396,
             "low24hPrice": 45000,
             "high24hPrice": 105000
         },
@@ -13654,7 +13654,7 @@
             "name": "Izhmash SVDS手枪式握把",
             "shortName": "SVDS",
             "basePrice": 764,
-            "avg24hPrice": 43484,
+            "avg24hPrice": 30000,
             "low24hPrice": 20000,
             "high24hPrice": 66969
         },
@@ -13690,7 +13690,7 @@
             "name": "SVDS聚合物护木 FG",
             "shortName": "SVDS",
             "basePrice": 1580,
-            "avg24hPrice": 11970,
+            "avg24hPrice": 11633,
             "low24hPrice": 9999,
             "high24hPrice": 16666
         },
@@ -13717,8 +13717,8 @@
             "name": "DT MDR 5.56x45 突击步枪",
             "shortName": "MDR",
             "basePrice": 45230,
-            "avg24hPrice": 69698,
-            "low24hPrice": 49999,
+            "avg24hPrice": 70701,
+            "low24hPrice": 50000,
             "high24hPrice": 250000
         },
         {
@@ -13726,7 +13726,7 @@
             "name": "MDR护木（FDE）",
             "shortName": "MDR",
             "basePrice": 8665,
-            "avg24hPrice": 22538,
+            "avg24hPrice": 22153,
             "low24hPrice": 13333,
             "high24hPrice": 24000
         },
@@ -13753,7 +13753,7 @@
             "name": "MDR手枪式握把（FDE）",
             "shortName": "MDR",
             "basePrice": 2320,
-            "avg24hPrice": 17392,
+            "avg24hPrice": 17590,
             "low24hPrice": 12222,
             "high24hPrice": 22999
         },
@@ -13798,7 +13798,7 @@
             "name": "Vepr Hunter/VPO-101 7.62x51卡宾枪",
             "shortName": "Hunter",
             "basePrice": 38978,
-            "avg24hPrice": 60443,
+            "avg24hPrice": 59584,
             "low24hPrice": 29999,
             "high24hPrice": 125999
         },
@@ -13870,7 +13870,7 @@
             "name": "Lancer OEM M-LOK 14英寸MPX护木",
             "shortName": "OEM 14英寸",
             "basePrice": 14200,
-            "avg24hPrice": 32420,
+            "avg24hPrice": 32468,
             "low24hPrice": 13090,
             "high24hPrice": 33311
         },
@@ -13924,7 +13924,7 @@
             "name": "Midwest 4.5英寸MPX M-LOK护木",
             "shortName": "Midwest 4.5英寸",
             "basePrice": 6400,
-            "avg24hPrice": 7395,
+            "avg24hPrice": 7366,
             "low24hPrice": 7000,
             "high24hPrice": 8000
         },
@@ -13933,7 +13933,7 @@
             "name": "Midwest 6.5英寸MPX M-LOK护木",
             "shortName": "Midwest 6.5英寸",
             "basePrice": 7600,
-            "avg24hPrice": 10475,
+            "avg24hPrice": 9925,
             "low24hPrice": 5000,
             "high24hPrice": 20000
         },
@@ -13942,7 +13942,7 @@
             "name": "Midwest 10.5英寸MPX M-LOK护木",
             "shortName": "Midwest 10.5英寸",
             "basePrice": 9300,
-            "avg24hPrice": 58071,
+            "avg24hPrice": 56824,
             "low24hPrice": 8541,
             "high24hPrice": 80000
         },
@@ -13951,7 +13951,7 @@
             "name": "Midwest 14英寸MPX M-LOK护木",
             "shortName": "Midwest 14英寸",
             "basePrice": 11200,
-            "avg24hPrice": 25482,
+            "avg24hPrice": 25402,
             "low24hPrice": 14000,
             "high24hPrice": 30000
         },
@@ -14059,8 +14059,8 @@
             "name": "Zenit B-10 AK护木",
             "shortName": "B-10",
             "basePrice": 5194,
-            "avg24hPrice": 17158,
-            "low24hPrice": 12666,
+            "avg24hPrice": 17016,
+            "low24hPrice": 10420,
             "high24hPrice": 25000
         },
         {
@@ -14104,7 +14104,7 @@
             "name": "Troy Industries M-LOK 13英寸416A5护木",
             "shortName": "Troy M-LOK",
             "basePrice": 18900,
-            "avg24hPrice": 35180,
+            "avg24hPrice": 37044,
             "low24hPrice": 22000,
             "high24hPrice": 111111
         },
@@ -14113,8 +14113,8 @@
             "name": "HK MRS Keymod 14英寸416A5护木",
             "shortName": "HK Keymod",
             "basePrice": 13900,
-            "avg24hPrice": 25612,
-            "low24hPrice": 12000,
+            "avg24hPrice": 25050,
+            "low24hPrice": 15000,
             "high24hPrice": 99999
         },
         {
@@ -14122,7 +14122,7 @@
             "name": "Midwest M-LOK 9英寸416A5护木",
             "shortName": "Midwest M-LOK",
             "basePrice": 12100,
-            "avg24hPrice": 27813,
+            "avg24hPrice": 27523,
             "low24hPrice": 22000,
             "high24hPrice": 31000
         },
@@ -14131,7 +14131,7 @@
             "name": "Midwest M-LOK 13.5英寸416A5护木",
             "shortName": "Midwest M-LOK",
             "basePrice": 14400,
-            "avg24hPrice": 36556,
+            "avg24hPrice": 38985,
             "low24hPrice": 20000,
             "high24hPrice": 50000
         },
@@ -14140,8 +14140,8 @@
             "name": "Strike Industries CRUX M-LOK 15英寸416A5护木",
             "shortName": "CRUX护木",
             "basePrice": 16700,
-            "avg24hPrice": 53708,
-            "low24hPrice": 23000,
+            "avg24hPrice": 53971,
+            "low24hPrice": 25550,
             "high24hPrice": 99999
         },
         {
@@ -14176,7 +14176,7 @@
             "name": "Stngr Vypr 10\" M-LOK AR15护木",
             "shortName": "Stngr Vypr",
             "basePrice": 14500,
-            "avg24hPrice": 18404,
+            "avg24hPrice": 18532,
             "low24hPrice": 14000,
             "high24hPrice": 25666
         },
@@ -14194,8 +14194,8 @@
             "name": "HK Grip V.2 AR-15枪族手枪式握把",
             "shortName": "Grip V.2",
             "basePrice": 3100,
-            "avg24hPrice": 30102,
-            "low24hPrice": 20000,
+            "avg24hPrice": 28510,
+            "low24hPrice": 19499,
             "high24hPrice": 40000
         },
         {
@@ -14212,8 +14212,8 @@
             "name": "SAI 14.5英寸AR15导轨护木 QD",
             "shortName": "SAI QD导轨",
             "basePrice": 53100,
-            "avg24hPrice": 84780,
-            "low24hPrice": 79990,
+            "avg24hPrice": 84775,
+            "low24hPrice": 77999,
             "high24hPrice": 88000
         },
         {
@@ -14221,7 +14221,7 @@
             "name": "SAI 10英寸AR15导轨护木 QD",
             "shortName": "SAI QD导轨",
             "basePrice": 44900,
-            "avg24hPrice": 64019,
+            "avg24hPrice": 62363,
             "low24hPrice": 40200,
             "high24hPrice": 222222
         },
@@ -14230,7 +14230,7 @@
             "name": "Magpul MOE SL中等长度M-LOK AR15护木",
             "shortName": "MOE SL",
             "basePrice": 11100,
-            "avg24hPrice": 15597,
+            "avg24hPrice": 15183,
             "low24hPrice": 8999,
             "high24hPrice": 35500
         },
@@ -14239,8 +14239,8 @@
             "name": "Magpul MOE SL卡宾枪长度M-LOK AR15护木",
             "shortName": "MOE SL",
             "basePrice": 8800,
-            "avg24hPrice": 12355,
-            "low24hPrice": 10198,
+            "avg24hPrice": 12328,
+            "low24hPrice": 11000,
             "high24hPrice": 15000
         },
         {
@@ -14491,8 +14491,8 @@
             "name": "DT MDR 5.56x45 突击步枪 默认",
             "shortName": "MDR 默认",
             "basePrice": 101509,
-            "avg24hPrice": 69698,
-            "low24hPrice": 49999,
+            "avg24hPrice": 70701,
+            "low24hPrice": 50000,
             "high24hPrice": 250000
         },
         {
@@ -14500,7 +14500,7 @@
             "name": "德拉贡诺夫 SVDS 7.62x54 半自动狙击步枪 默认",
             "shortName": "SVDS 默认",
             "basePrice": 86141,
-            "avg24hPrice": 93323,
+            "avg24hPrice": 93396,
             "low24hPrice": 45000,
             "high24hPrice": 105000
         },
@@ -14509,7 +14509,7 @@
             "name": "Vepr Hunter/VPO-101 7.62x51卡宾枪 默认",
             "shortName": "Hunter 默认",
             "basePrice": 46001,
-            "avg24hPrice": 60443,
+            "avg24hPrice": 59584,
             "low24hPrice": 29999,
             "high24hPrice": 125999
         },
@@ -14527,17 +14527,17 @@
             "name": "Magpul Zhukov-U AK 护木（黑色）",
             "shortName": "Zhukov-U",
             "basePrice": 19200,
-            "avg24hPrice": 37341,
+            "avg24hPrice": 37363,
             "low24hPrice": 25555,
-            "high24hPrice": 40000
+            "high24hPrice": 39999
         },
         {
             "id": "5c9a1c3a2e2216000e69fb6a",
             "name": "Magpul Zhukov-U AK 护木（FDE）",
             "shortName": "Zhukov-U",
             "basePrice": 19200,
-            "avg24hPrice": 31740,
-            "low24hPrice": 19000,
+            "avg24hPrice": 31803,
+            "low24hPrice": 20000,
             "high24hPrice": 38000
         },
         {
@@ -14545,7 +14545,7 @@
             "name": "Magpul Zhukov-U AK 护木（黑红色）",
             "shortName": "Zhukov-U",
             "basePrice": 19200,
-            "avg24hPrice": 32164,
+            "avg24hPrice": 32745,
             "low24hPrice": 20000,
             "high24hPrice": 50000
         },
@@ -14563,7 +14563,7 @@
             "name": "Daniel Defence RIS II FSP 9.5英寸AR-15兼容系统护木",
             "shortName": "RIS II FSP 9.5 FDE",
             "basePrice": 15800,
-            "avg24hPrice": 22347,
+            "avg24hPrice": 21889,
             "low24hPrice": 15888,
             "high24hPrice": 35000
         },
@@ -14572,8 +14572,8 @@
             "name": "Triton M43-A胸挂",
             "shortName": "Triton",
             "basePrice": 23822,
-            "avg24hPrice": 24685,
-            "low24hPrice": 16000,
+            "avg24hPrice": 24731,
+            "low24hPrice": 19999,
             "high24hPrice": 35000
         },
         {
@@ -14581,9 +14581,9 @@
             "name": "WARTECH 金雕 BB-102 背包 (A-TACS FG 迷彩)",
             "shortName": "Berkut",
             "basePrice": 22080,
-            "avg24hPrice": 24708,
+            "avg24hPrice": 24655,
             "low24hPrice": 19999,
-            "high24hPrice": 32222
+            "high24hPrice": 25555
         },
         {
             "id": "5ca20ee186f774799474abc2",
@@ -14734,7 +14734,7 @@
             "name": "ASh-12 12.7x55 突击步枪",
             "shortName": "ASh-12",
             "basePrice": 93800,
-            "avg24hPrice": 82366,
+            "avg24hPrice": 81311,
             "low24hPrice": 50000,
             "high24hPrice": 198000
         },
@@ -14896,7 +14896,7 @@
             "name": "FN EFFEN 90 P90上机匣",
             "shortName": "EFFEN 90",
             "basePrice": 3800,
-            "avg24hPrice": 26811,
+            "avg24hPrice": 22565,
             "low24hPrice": 5000,
             "high24hPrice": 50000
         },
@@ -15067,7 +15067,7 @@
             "name": "Hera Arms HG-15 AR-15系统手枪式握把",
             "shortName": "HG15",
             "basePrice": 5100,
-            "avg24hPrice": 18120,
+            "avg24hPrice": 20224,
             "low24hPrice": 5000,
             "high24hPrice": 78999
         },
@@ -15094,7 +15094,7 @@
             "name": "ASh-12聚合物护木",
             "shortName": "ASh-12聚合",
             "basePrice": 1022,
-            "avg24hPrice": 18451,
+            "avg24hPrice": 17541,
             "low24hPrice": 9999,
             "high24hPrice": 100000
         },
@@ -15139,7 +15139,7 @@
             "name": "M700 AB Arms MOD*X GEN 3 KeyMod护木",
             "shortName": "MOD X",
             "basePrice": 9900,
-            "avg24hPrice": 27678,
+            "avg24hPrice": 28178,
             "low24hPrice": 20000,
             "high24hPrice": 49989
         },
@@ -15175,7 +15175,7 @@
             "name": "M700 Magpul Pro 700手枪式握把",
             "shortName": "Pro700",
             "basePrice": 1800,
-            "avg24hPrice": 28303,
+            "avg24hPrice": 27633,
             "low24hPrice": 7777,
             "high24hPrice": 34444
         },
@@ -15247,7 +15247,7 @@
             "name": "5.45 Design “Aggressor” AK护木",
             "shortName": "Aggressor",
             "basePrice": 19400,
-            "avg24hPrice": 25530,
+            "avg24hPrice": 25261,
             "low24hPrice": 18400,
             "high24hPrice": 36666
         },
@@ -15265,7 +15265,7 @@
             "name": "Strike Industries AK 增强型手枪式握把（黑色）",
             "shortName": "EPG AK",
             "basePrice": 3900,
-            "avg24hPrice": 13681,
+            "avg24hPrice": 13478,
             "low24hPrice": 4111,
             "high24hPrice": 25001
         },
@@ -15274,7 +15274,7 @@
             "name": "SI Enhanced AK手枪式握把 FDE",
             "shortName": "EPG AK FDE",
             "basePrice": 3900,
-            "avg24hPrice": 10964,
+            "avg24hPrice": 10791,
             "low24hPrice": 5555,
             "high24hPrice": 20000
         },
@@ -15301,8 +15301,8 @@
             "name": "KGB MG-47 AK手枪式握把",
             "shortName": "MG-47",
             "basePrice": 4750,
-            "avg24hPrice": 13363,
-            "low24hPrice": 8000,
+            "avg24hPrice": 12812,
+            "low24hPrice": 7500,
             "high24hPrice": 500000
         },
         {
@@ -15454,7 +15454,7 @@
             "name": "Strike Industries Viper M-LOK中 AR-15卡宾护木",
             "shortName": "Viper",
             "basePrice": 4275,
-            "avg24hPrice": 16063,
+            "avg24hPrice": 15757,
             "low24hPrice": 4200,
             "high24hPrice": 30000
         },
@@ -15472,8 +15472,8 @@
             "name": "Noveske SWS N6 10.5英寸 AR-10兼容系统护木",
             "shortName": "N6 10.5英寸",
             "basePrice": 19200,
-            "avg24hPrice": 22073,
-            "low24hPrice": 15555,
+            "avg24hPrice": 21970,
+            "low24hPrice": 11111,
             "high24hPrice": 30000
         },
         {
@@ -15481,7 +15481,7 @@
             "name": "Noveske SWS N6 AR-10兼容系统分体式护木",
             "shortName": "N6分体式",
             "basePrice": 19200,
-            "avg24hPrice": 32719,
+            "avg24hPrice": 31865,
             "low24hPrice": 23333,
             "high24hPrice": 40000
         },
@@ -15490,16 +15490,16 @@
             "name": "Strike Industries Viper M-LOK长 AR-15卡宾护木",
             "shortName": "Viper",
             "basePrice": 4275,
-            "avg24hPrice": 9832,
+            "avg24hPrice": 9578,
             "low24hPrice": 3999,
-            "high24hPrice": 14500
+            "high24hPrice": 12222
         },
         {
             "id": "5d010d1cd7ad1a59283b1ce7",
             "name": "CAA HX-5 MP5护木",
             "shortName": "HX-5",
             "basePrice": 14400,
-            "avg24hPrice": 20413,
+            "avg24hPrice": 20344,
             "low24hPrice": 12500,
             "high24hPrice": 25000
         },
@@ -15517,7 +15517,7 @@
             "name": "Fab Defence AG-58 SKS/VZ-58 手枪式握把",
             "shortName": "AG-58",
             "basePrice": 6356,
-            "avg24hPrice": 6132,
+            "avg24hPrice": 6181,
             "low24hPrice": 4199,
             "high24hPrice": 7000
         },
@@ -15535,7 +15535,7 @@
             "name": "HK Ergo PSG-1 样式 AR-15 兼容系统手枪式握把",
             "shortName": "Ergo",
             "basePrice": 23600,
-            "avg24hPrice": 36195,
+            "avg24hPrice": 35041,
             "low24hPrice": 26999,
             "high24hPrice": 55555
         },
@@ -15742,16 +15742,16 @@
             "name": "URX 3.1 10.75英寸 AR15护木",
             "shortName": "URX 3.1 10.75英寸",
             "basePrice": 13160,
-            "avg24hPrice": 37777,
+            "avg24hPrice": 17195,
             "low24hPrice": 14391,
-            "high24hPrice": 50000
+            "high24hPrice": 20000
         },
         {
             "id": "5d123102d7ad1a004e475fe5",
             "name": "URX 3 8英寸 AR15护木",
             "shortName": "URX 3 8英寸",
             "basePrice": 11690,
-            "avg24hPrice": 16276,
+            "avg24hPrice": 16057,
             "low24hPrice": 10250,
             "high24hPrice": 30000
         },
@@ -15868,7 +15868,7 @@
             "name": "Alfa Arms Goliaf AKS-74U护木",
             "shortName": "Goliaf",
             "basePrice": 4414,
-            "avg24hPrice": 11047,
+            "avg24hPrice": 11696,
             "low24hPrice": 4333,
             "high24hPrice": 100000
         },
@@ -15877,8 +15877,8 @@
             "name": "Magpul MOE AR-15手枪式握把 FDE",
             "shortName": "MOE",
             "basePrice": 5100,
-            "avg24hPrice": 18790,
-            "low24hPrice": 9999,
+            "avg24hPrice": 18878,
+            "low24hPrice": 12988,
             "high24hPrice": 19999
         },
         {
@@ -15886,7 +15886,7 @@
             "name": "PTR MP5三轨护木",
             "shortName": "三轨",
             "basePrice": 10200,
-            "avg24hPrice": 17256,
+            "avg24hPrice": 17385,
             "low24hPrice": 12995,
             "high24hPrice": 24544
         },
@@ -15895,7 +15895,7 @@
             "name": "TDI AKM-L AK护木",
             "shortName": "AKM-L",
             "basePrice": 4200,
-            "avg24hPrice": 10676,
+            "avg24hPrice": 10559,
             "low24hPrice": 3999,
             "high24hPrice": 22222
         },
@@ -16156,7 +16156,7 @@
             "name": "ASh-12 12.7x55 突击步枪 默认",
             "shortName": "ASh-12 默认",
             "basePrice": 113705,
-            "avg24hPrice": 82366,
+            "avg24hPrice": 81311,
             "low24hPrice": 50000,
             "high24hPrice": 198000
         },
@@ -16183,7 +16183,7 @@
             "name": "小型S I C C包",
             "shortName": "SICC",
             "basePrice": 750000,
-            "avg24hPrice": 1534317,
+            "avg24hPrice": 1514531,
             "low24hPrice": 1200000,
             "high24hPrice": 10000000
         },
@@ -16291,16 +16291,16 @@
             "name": "AKademia Bastion AK防尘盖",
             "shortName": "Bastion",
             "basePrice": 5500,
-            "avg24hPrice": 11745,
+            "avg24hPrice": 11485,
             "low24hPrice": 6666,
-            "high24hPrice": 23000
+            "high24hPrice": 21111
         },
         {
             "id": "5d2c770c48f0354b4a07c100",
             "name": "FAB Defense PDC АК 导轨防尘盖",
             "shortName": "PDC",
             "basePrice": 14850,
-            "avg24hPrice": 36479,
+            "avg24hPrice": 36660,
             "low24hPrice": 22222,
             "high24hPrice": 99699
         },
@@ -16309,7 +16309,7 @@
             "name": "TWS Dog Leg АК 导轨防尘盖",
             "shortName": "Dog leg",
             "basePrice": 11600,
-            "avg24hPrice": 15192,
+            "avg24hPrice": 14839,
             "low24hPrice": 9654,
             "high24hPrice": 35555
         },
@@ -16320,7 +16320,7 @@
             "basePrice": 3000,
             "avg24hPrice": 4420,
             "low24hPrice": 4000,
-            "high24hPrice": 6666
+            "high24hPrice": 6555
         },
         {
             "id": "5d2da1e948f035477b1ce2ba",
@@ -16435,9 +16435,9 @@
             "name": "FN Five-seveN MK2 5.7x28手枪",
             "shortName": "FN 5-7",
             "basePrice": 14238,
-            "avg24hPrice": 33706,
+            "avg24hPrice": 32989,
             "low24hPrice": 22222,
-            "high24hPrice": 99999
+            "high24hPrice": 49999
         },
         {
             "id": "5d3eb44aa4b93650d64e4979",
@@ -16471,7 +16471,7 @@
             "name": "Five-seveN 5.7x28螺纹枪管",
             "shortName": "57螺纹 5.7x28",
             "basePrice": 4200,
-            "avg24hPrice": 21854,
+            "avg24hPrice": 23000,
             "low24hPrice": 16666,
             "high24hPrice": 24453
         },
@@ -16588,7 +16588,7 @@
             "name": "Lone Star TX-15 DML 5.56x45 半自动卡宾枪",
             "shortName": "TX-15 DML",
             "basePrice": 24397,
-            "avg24hPrice": 68799,
+            "avg24hPrice": 68791,
             "low24hPrice": 22222,
             "high24hPrice": 120000
         },
@@ -16597,7 +16597,7 @@
             "name": "TX15 轻量化上机匣",
             "shortName": "TX15轻量化",
             "basePrice": 9200,
-            "avg24hPrice": 20168,
+            "avg24hPrice": 20279,
             "low24hPrice": 13333,
             "high24hPrice": 59000
         },
@@ -16606,9 +16606,9 @@
             "name": "Lone Star Ion Lite AR-15兼容护木",
             "shortName": "Ion Lite",
             "basePrice": 19900,
-            "avg24hPrice": 26607,
+            "avg24hPrice": 26136,
             "low24hPrice": 19887,
-            "high24hPrice": 70000
+            "high24hPrice": 33333
         },
         {
             "id": "5d440625a4b9361eec4ae6c5",
@@ -16687,16 +16687,16 @@
             "name": "TDI AKM-L 护木（电镀红）",
             "shortName": "AKM-L",
             "basePrice": 27800,
-            "avg24hPrice": 19521,
+            "avg24hPrice": 18961,
             "low24hPrice": 13555,
-            "high24hPrice": 34444
+            "high24hPrice": 26999
         },
         {
             "id": "5d4aaa73a4b9365392071175",
             "name": "TDI AKM-L 护木（电镀棕）",
             "shortName": "AKM-L",
             "basePrice": 24200,
-            "avg24hPrice": 39262,
+            "avg24hPrice": 38332,
             "low24hPrice": 19999,
             "high24hPrice": 88888
         },
@@ -16714,7 +16714,7 @@
             "name": "Lone Star TX-15 DML 5.56x45 半自动卡宾枪 默认",
             "shortName": "TX-15 DML 默认",
             "basePrice": 196220,
-            "avg24hPrice": 68799,
+            "avg24hPrice": 68791,
             "low24hPrice": 22222,
             "high24hPrice": 120000
         },
@@ -16723,17 +16723,17 @@
             "name": "FN Five-seveN MK2 5.7x28手枪 默认",
             "shortName": "FN 5-7 默认",
             "basePrice": 27788,
-            "avg24hPrice": 33706,
+            "avg24hPrice": 32989,
             "low24hPrice": 22222,
-            "high24hPrice": 99999
+            "high24hPrice": 49999
         },
         {
             "id": "5d5d646386f7742797261fd9",
             "name": "6B3TM-01 防弹胸挂（卡其色）",
             "shortName": "6B3TM-01",
             "basePrice": 63421,
-            "avg24hPrice": 106482,
-            "low24hPrice": 74999,
+            "avg24hPrice": 104151,
+            "low24hPrice": 70000,
             "high24hPrice": 233000
         },
         {
@@ -16741,7 +16741,7 @@
             "name": "Haley Strategic D3CRX 胸挂（丛林绿）",
             "shortName": "D3CRX",
             "basePrice": 31600,
-            "avg24hPrice": 28307,
+            "avg24hPrice": 28561,
             "low24hPrice": 19999,
             "high24hPrice": 38000
         },
@@ -16750,7 +16750,7 @@
             "name": "Ars Arma A18 Skanda 插板胸挂（复合迷彩）",
             "shortName": "A18",
             "basePrice": 60718,
-            "avg24hPrice": 58029,
+            "avg24hPrice": 59826,
             "low24hPrice": 40000,
             "high24hPrice": 150000
         },
@@ -16759,7 +16759,7 @@
             "name": "SOE微型胸挂",
             "shortName": "微型胸挂",
             "basePrice": 9600,
-            "avg24hPrice": 21205,
+            "avg24hPrice": 21069,
             "low24hPrice": 14000,
             "high24hPrice": 35555
         },
@@ -16768,9 +16768,9 @@
             "name": "Oakley Mechanism重型背包 Black",
             "shortName": "Mechanism",
             "basePrice": 55238,
-            "avg24hPrice": 77090,
+            "avg24hPrice": 75045,
             "low24hPrice": 45999,
-            "high24hPrice": 110999
+            "high24hPrice": 95995
         },
         {
             "id": "5d5e7d28a4b936645d161203",
@@ -16813,7 +16813,7 @@
             "name": "FN Five-seveN MK2 5.7x28 手枪 (FDE)",
             "shortName": "FN 5-7 FDE",
             "basePrice": 14238,
-            "avg24hPrice": 48902,
+            "avg24hPrice": 48717,
             "low24hPrice": 29000,
             "high24hPrice": 100000
         },
@@ -17083,7 +17083,7 @@
             "name": "FN Five-seveN MK2 5.7x28 手枪 (FDE) 默认",
             "shortName": "FN 5-7 FDE 默认",
             "basePrice": 65948,
-            "avg24hPrice": 48902,
+            "avg24hPrice": 48717,
             "low24hPrice": 29000,
             "high24hPrice": 100000
         },
@@ -17389,7 +17389,7 @@
             "name": "MDR 护木（黑色）",
             "shortName": "MDR 黑",
             "basePrice": 8665,
-            "avg24hPrice": 17382,
+            "avg24hPrice": 18192,
             "low24hPrice": 4800,
             "high24hPrice": 58888
         },
@@ -17398,9 +17398,9 @@
             "name": "MDR 手枪式握把（黑色）",
             "shortName": "MDR 黑",
             "basePrice": 2320,
-            "avg24hPrice": 14806,
+            "avg24hPrice": 14167,
             "low24hPrice": 7000,
-            "high24hPrice": 55000
+            "high24hPrice": 24000
         },
         {
             "id": "5dcbe9431e1f4616d354987e",
@@ -17767,7 +17767,7 @@
             "name": "Velocity Systems多用途巡逻背心",
             "shortName": "MPPV",
             "basePrice": 43296,
-            "avg24hPrice": 51230,
+            "avg24hPrice": 52152,
             "low24hPrice": 36111,
             "high24hPrice": 85000
         },
@@ -17821,8 +17821,8 @@
             "name": "奈特军械公司 (KAC) SR-25 7.62x51 精确射手步枪",
             "shortName": "SR-25",
             "basePrice": 24605,
-            "avg24hPrice": 88588,
-            "low24hPrice": 57777,
+            "avg24hPrice": 87534,
+            "low24hPrice": 39998,
             "high24hPrice": 100000
         },
         {
@@ -17875,9 +17875,9 @@
             "name": "URX-4 AR-10兼容护木",
             "shortName": " URX 4 14.5英寸",
             "basePrice": 16500,
-            "avg24hPrice": 30988,
+            "avg24hPrice": 29311,
             "low24hPrice": 15555,
-            "high24hPrice": 78999
+            "high24hPrice": 61111
         },
         {
             "id": "5df917564a9f347bc92edca3",
@@ -17947,7 +17947,7 @@
             "name": "SAG MK1 SVD 框架平台",
             "shortName": "SAG MK1",
             "basePrice": 15900,
-            "avg24hPrice": 34944,
+            "avg24hPrice": 35008,
             "low24hPrice": 18888,
             "high24hPrice": 56666
         },
@@ -17956,7 +17956,7 @@
             "name": "SVDS定制防尘盖",
             "shortName": "SVDS定制",
             "basePrice": 1450,
-            "avg24hPrice": 16135,
+            "avg24hPrice": 16518,
             "low24hPrice": 9099,
             "high24hPrice": 50000
         },
@@ -18172,8 +18172,8 @@
             "name": "奈特军械公司 (KAC) SR-25 7.62x51 精确射手步枪 默认",
             "shortName": "SR-25 默认",
             "basePrice": 104149,
-            "avg24hPrice": 88588,
-            "low24hPrice": 57777,
+            "avg24hPrice": 87534,
+            "low24hPrice": 39998,
             "high24hPrice": 100000
         },
         {
@@ -18226,7 +18226,7 @@
             "name": "KGB MG-47 AK 手枪式握把（电镀红）",
             "shortName": "MG-47",
             "basePrice": 17500,
-            "avg24hPrice": 20837,
+            "avg24hPrice": 20637,
             "low24hPrice": 12999,
             "high24hPrice": 49999
         },
@@ -18379,7 +18379,7 @@
             "name": "手榴弹箱",
             "shortName": "手榴弹",
             "basePrice": 510000,
-            "avg24hPrice": 323847,
+            "avg24hPrice": 323907,
             "low24hPrice": 321321,
             "high24hPrice": 330000
         },
@@ -18442,7 +18442,7 @@
             "name": "Spiritus Systems Bank Robber 胸挂",
             "shortName": "Bank Robber",
             "basePrice": 8200,
-            "avg24hPrice": 20733,
+            "avg24hPrice": 21641,
             "low24hPrice": 8100,
             "high24hPrice": 35900
         },
@@ -18451,7 +18451,7 @@
             "name": "LBT-2670 小型野战医物包",
             "shortName": "SFMP",
             "basePrice": 20000,
-            "avg24hPrice": 43502,
+            "avg24hPrice": 43767,
             "low24hPrice": 22222,
             "high24hPrice": 50000
         },
@@ -18460,7 +18460,7 @@
             "name": "Splav Tarzan M22 胸挂",
             "shortName": "Tarzan",
             "basePrice": 19200,
-            "avg24hPrice": 24789,
+            "avg24hPrice": 25255,
             "low24hPrice": 19499,
             "high24hPrice": 149999
         },
@@ -18469,7 +18469,7 @@
             "name": "Ars Arma CPC MOD.1 插板胸挂（A-TACS FG 迷彩）",
             "shortName": "CPC MOD.1",
             "basePrice": 78992,
-            "avg24hPrice": 285185,
+            "avg24hPrice": 282476,
             "low24hPrice": 135999,
             "high24hPrice": 450000
         },
@@ -18532,7 +18532,7 @@
             "name": "Izmash SVD现代化护木",
             "shortName": "SVD现代化",
             "basePrice": 14300,
-            "avg24hPrice": 19683,
+            "avg24hPrice": 20162,
             "low24hPrice": 15000,
             "high24hPrice": 55000
         },
@@ -18541,7 +18541,7 @@
             "name": "CAA XRS DRG SVD基座",
             "shortName": "XRS DRG",
             "basePrice": 9600,
-            "avg24hPrice": 12282,
+            "avg24hPrice": 12191,
             "low24hPrice": 9600,
             "high24hPrice": 88888
         },
@@ -18892,7 +18892,7 @@
             "name": "Sanitar 包",
             "shortName": "Sanitar 包",
             "basePrice": 46075,
-            "avg24hPrice": 35444,
+            "avg24hPrice": 35333,
             "low24hPrice": 28600,
             "high24hPrice": 49999
         },
@@ -18910,7 +18910,7 @@
             "name": "LBT-1961A 承重胸挂（MAS 灰色）",
             "shortName": "LBCR",
             "basePrice": 38250,
-            "avg24hPrice": 70977,
+            "avg24hPrice": 70702,
             "low24hPrice": 56666,
             "high24hPrice": 95555
         },
@@ -18919,7 +18919,7 @@
             "name": "LBT-8005A Day Pack背包",
             "shortName": "Day Pack",
             "basePrice": 22600,
-            "avg24hPrice": 25893,
+            "avg24hPrice": 25835,
             "low24hPrice": 19777,
             "high24hPrice": 37000
         },
@@ -19000,16 +19000,16 @@
             "name": "Geissele SMR Mk.16 9.5英寸 M-LOK AR-15 护木",
             "shortName": "SMR Mk.16 9.5",
             "basePrice": 16100,
-            "avg24hPrice": 20905,
+            "avg24hPrice": 21834,
             "low24hPrice": 12400,
-            "high24hPrice": 35500
+            "high24hPrice": 125000
         },
         {
             "id": "5ea16ada09aa976f2e7a51be",
             "name": "Geissele SMR Mk.16 13.5 英寸 M-LOK AR-15护木",
             "shortName": "SMR Mk.16 13.5",
             "basePrice": 14400,
-            "avg24hPrice": 44376,
+            "avg24hPrice": 43755,
             "low24hPrice": 18888,
             "high24hPrice": 100000
         },
@@ -19234,7 +19234,7 @@
             "name": "Magpul MOE M590 下护木",
             "shortName": "MOE M590",
             "basePrice": 7900,
-            "avg24hPrice": 8000,
+            "avg24hPrice": 7990,
             "low24hPrice": 6000,
             "high24hPrice": 9990
         },
@@ -19333,9 +19333,9 @@
             "name": "Pachmayr “美国传奇” #423 M1911A1 握把",
             "shortName": "#423",
             "basePrice": 2900,
-            "avg24hPrice": 7425,
+            "avg24hPrice": 6936,
             "low24hPrice": 2900,
-            "high24hPrice": 16500
+            "high24hPrice": 12222
         },
         {
             "id": "5ef369b08cef260c0642acaf",
@@ -19369,9 +19369,9 @@
             "name": "Zenit B-30 护木 + B-31S 上导轨",
             "shortName": "B-30+B-31S",
             "basePrice": 18327,
-            "avg24hPrice": 29098,
+            "avg24hPrice": 29119,
             "low24hPrice": 24300,
-            "high24hPrice": 59987
+            "high24hPrice": 111111
         },
         {
             "id": "5efb0c1bd79ff02a1f5e68d9",
@@ -19486,7 +19486,7 @@
             "name": "Kel-Tec RFB 7.62x51",
             "shortName": "RFB",
             "basePrice": 23300,
-            "avg24hPrice": 43397,
+            "avg24hPrice": 43886,
             "low24hPrice": 32000,
             "high24hPrice": 64000
         },
@@ -19558,7 +19558,7 @@
             "name": "柯尔特 M45A1 .45 ACP 手枪",
             "shortName": "M45A1",
             "basePrice": 7408,
-            "avg24hPrice": 12456,
+            "avg24hPrice": 12642,
             "low24hPrice": 9000,
             "high24hPrice": 35000
         },
@@ -19666,8 +19666,8 @@
             "name": "LK 3F Transfer旅行背包",
             "shortName": "LK 3F",
             "basePrice": 18000,
-            "avg24hPrice": 21685,
-            "low24hPrice": 14000,
+            "avg24hPrice": 21507,
+            "low24hPrice": 13950,
             "high24hPrice": 34343
         },
         {
@@ -19675,7 +19675,7 @@
             "name": "Eberlestock F5 弹簧刀 背包（干土色）",
             "shortName": "F5 弹簧刀",
             "basePrice": 58950,
-            "avg24hPrice": 63420,
+            "avg24hPrice": 64444,
             "low24hPrice": 45999,
             "high24hPrice": 74999
         },
@@ -19702,7 +19702,7 @@
             "name": "Direct Action Thunderbolt小型胸挂",
             "shortName": "Thunderbolt",
             "basePrice": 25160,
-            "avg24hPrice": 25107,
+            "avg24hPrice": 25351,
             "low24hPrice": 19800,
             "high24hPrice": 49999
         },
@@ -19801,7 +19801,7 @@
             "name": "X47 Tactical AK兼容护木",
             "shortName": "X47",
             "basePrice": 19300,
-            "avg24hPrice": 39377,
+            "avg24hPrice": 38470,
             "low24hPrice": 19999,
             "high24hPrice": 99999
         },
@@ -19810,7 +19810,7 @@
             "name": "Lancer LCH-7 12.5英寸 AR-10 M-LOK护木 ",
             "shortName": "LCH-7 12.5",
             "basePrice": 21200,
-            "avg24hPrice": 40191,
+            "avg24hPrice": 40438,
             "low24hPrice": 26000,
             "high24hPrice": 66666
         },
@@ -19882,7 +19882,7 @@
             "name": "Aeroknox scorpius AK手枪式握把",
             "shortName": "Scorpius",
             "basePrice": 5800,
-            "avg24hPrice": 13898,
+            "avg24hPrice": 13983,
             "low24hPrice": 9999,
             "high24hPrice": 34500
         },
@@ -19891,7 +19891,7 @@
             "name": "SOK-12 Bravo-18铝合金护木",
             "shortName": "Bravo-18",
             "basePrice": 13200,
-            "avg24hPrice": 17195,
+            "avg24hPrice": 17305,
             "low24hPrice": 11500,
             "high24hPrice": 55555
         },
@@ -19927,7 +19927,7 @@
             "name": "柯尔特 M45A1 .45 ACP 手枪 默认",
             "shortName": "M45A1 默认",
             "basePrice": 21108,
-            "avg24hPrice": 12456,
+            "avg24hPrice": 12642,
             "low24hPrice": 9000,
             "high24hPrice": 35000
         },
@@ -19936,7 +19936,7 @@
             "name": "Kel-Tec RFB 7.62x51 默认",
             "shortName": "RFB 默认",
             "basePrice": 63388,
-            "avg24hPrice": 43397,
+            "avg24hPrice": 43886,
             "low24hPrice": 32000,
             "high24hPrice": 64000
         },
@@ -20161,8 +20161,8 @@
             "name": "Vector 9x19 6英寸枪管",
             "shortName": "6英寸 Vector 9x19",
             "basePrice": 9700,
-            "avg24hPrice": 17645,
-            "low24hPrice": 14000,
+            "avg24hPrice": 17625,
+            "low24hPrice": 13777,
             "high24hPrice": 22999
         },
         {
@@ -20197,7 +20197,7 @@
             "name": "SIG 8英寸Keymod MCX握把",
             "shortName": "MCX 8英寸",
             "basePrice": 8000,
-            "avg24hPrice": 13876,
+            "avg24hPrice": 13678,
             "low24hPrice": 5555,
             "high24hPrice": 30000
         },
@@ -20206,7 +20206,7 @@
             "name": "MCX GEN1 KeyMod 12 inch handguard",
             "shortName": "MCX 12英寸",
             "basePrice": 10000,
-            "avg24hPrice": 17604,
+            "avg24hPrice": 17829,
             "low24hPrice": 11000,
             "high24hPrice": 35423
         },
@@ -20251,16 +20251,16 @@
             "name": "SIG MCX手枪式握把",
             "shortName": "MCX手枪式",
             "basePrice": 2400,
-            "avg24hPrice": 4000,
-            "low24hPrice": null,
-            "high24hPrice": null
+            "avg24hPrice": 4111,
+            "low24hPrice": 4111,
+            "high24hPrice": 4111
         },
         {
             "id": "5fbcc1d9016cce60e8341ab3",
             "name": "SIG MCX .300 AAC Blackout 突击步枪",
             "shortName": "MCX .300 BLK",
             "basePrice": 21300,
-            "avg24hPrice": 66187,
+            "avg24hPrice": 66612,
             "low24hPrice": 24999,
             "high24hPrice": 144442
         },
@@ -20368,7 +20368,7 @@
             "name": "SWORD International Mk-18 .338 LM 精确射手步枪",
             "shortName": "Mk-18 雷霆之锤",
             "basePrice": 64400,
-            "avg24hPrice": 455124,
+            "avg24hPrice": 437850,
             "low24hPrice": 297000,
             "high24hPrice": 1999999
         },
@@ -20629,7 +20629,7 @@
             "name": "SWORD International Mk-18 .338 LM 精确射手步枪 默认",
             "shortName": "Mk-18 雷霆之锤 默认",
             "basePrice": 220562,
-            "avg24hPrice": 455124,
+            "avg24hPrice": 437850,
             "low24hPrice": 297000,
             "high24hPrice": 1999999
         },
@@ -20647,7 +20647,7 @@
             "name": "SIG MCX .300 AAC Blackout 突击步枪 默认",
             "shortName": "MCX .300 BLK 默认",
             "basePrice": 82202,
-            "avg24hPrice": 66187,
+            "avg24hPrice": 66612,
             "low24hPrice": 24999,
             "high24hPrice": 144442
         },
@@ -20683,7 +20683,7 @@
             "name": "IDEA DIY胸挂",
             "shortName": "IDEA",
             "basePrice": 5000,
-            "avg24hPrice": 21433,
+            "avg24hPrice": 21408,
             "low24hPrice": 11900,
             "high24hPrice": 28888
         },
@@ -20692,7 +20692,7 @@
             "name": "保安背心",
             "shortName": "背心",
             "basePrice": 3900,
-            "avg24hPrice": 18106,
+            "avg24hPrice": 17950,
             "low24hPrice": 12000,
             "high24hPrice": 35555
         },
@@ -20701,7 +20701,7 @@
             "name": "Gear Craft GC-BSS-MK1 胸挂 (A-TACS 橄榄绿迷彩)",
             "shortName": "BSS-MK1",
             "basePrice": 30015,
-            "avg24hPrice": 23314,
+            "avg24hPrice": 23509,
             "low24hPrice": 18888,
             "high24hPrice": 30000
         },
@@ -20845,7 +20845,7 @@
             "name": "PL-15带螺纹枪管",
             "shortName": "PL15螺纹枪管",
             "basePrice": 4948,
-            "avg24hPrice": 13021,
+            "avg24hPrice": 11999,
             "low24hPrice": 10000,
             "high24hPrice": 22222
         },
@@ -21007,7 +21007,7 @@
             "name": "Umka М33-SET1 猎人背心",
             "shortName": "Umka",
             "basePrice": 25700,
-            "avg24hPrice": 26325,
+            "avg24hPrice": 26279,
             "low24hPrice": 20777,
             "high24hPrice": 27750
         },
@@ -21016,8 +21016,8 @@
             "name": "CSA胸挂",
             "shortName": "CSA",
             "basePrice": 10242,
-            "avg24hPrice": 20591,
-            "low24hPrice": 13333,
+            "avg24hPrice": 20206,
+            "low24hPrice": 10999,
             "high24hPrice": 35555
         },
         {
@@ -21025,9 +21025,9 @@
             "name": "Hazard4 Takedown 吊带背包",
             "shortName": "Takedown",
             "basePrice": 27111,
-            "avg24hPrice": 35297,
+            "avg24hPrice": 34976,
             "low24hPrice": 29999,
-            "high24hPrice": 47444
+            "high24hPrice": 44444
         },
         {
             "id": "6034d2d697633951dc245ea6",
@@ -21043,7 +21043,7 @@
             "name": "AR-15 STM 9英寸 M-LOK 护木",
             "shortName": "STM 9英寸",
             "basePrice": 10500,
-            "avg24hPrice": 22944,
+            "avg24hPrice": 22571,
             "low24hPrice": 12000,
             "high24hPrice": 29676
         },
@@ -21052,7 +21052,7 @@
             "name": "AR-15 STM 15英寸 M-LOK 护木",
             "shortName": "STM 15英寸",
             "basePrice": 15000,
-            "avg24hPrice": 20986,
+            "avg24hPrice": 20457,
             "low24hPrice": 17999,
             "high24hPrice": 30000
         },
@@ -21061,7 +21061,7 @@
             "name": "AR-15 STM 12英寸 M-LOK 护木",
             "shortName": "STM 12英寸",
             "basePrice": 12500,
-            "avg24hPrice": 26277,
+            "avg24hPrice": 26065,
             "low24hPrice": 12000,
             "high24hPrice": 60000
         },
@@ -21124,8 +21124,8 @@
             "name": "Azimut SS \"Zhuk\"胸挂（黑）",
             "shortName": "Azimut",
             "basePrice": 30148,
-            "avg24hPrice": 30773,
-            "low24hPrice": 23897,
+            "avg24hPrice": 30653,
+            "low24hPrice": 23333,
             "high24hPrice": 35000
         },
         {
@@ -21151,9 +21151,9 @@
             "name": "Hazard4 Takedown 吊带背包 (multicam)",
             "shortName": "Takedown",
             "basePrice": 27111,
-            "avg24hPrice": 32775,
+            "avg24hPrice": 32664,
             "low24hPrice": 22000,
-            "high24hPrice": 40000
+            "high24hPrice": 45555
         },
         {
             "id": "60391a8b3364dc22b04d0ce5",
@@ -21187,7 +21187,7 @@
             "name": "Azimut SS \"Zhuk\"胸挂（SURPAT）",
             "shortName": "Azimut",
             "basePrice": 30148,
-            "avg24hPrice": 27676,
+            "avg24hPrice": 27193,
             "low24hPrice": 21000,
             "high24hPrice": 50000
         },
@@ -21223,9 +21223,9 @@
             "name": "CMMG Mk47 Mutant 7.62x39 突击步枪",
             "shortName": "Mk47",
             "basePrice": 25197,
-            "avg24hPrice": 154092,
+            "avg24hPrice": 152970,
             "low24hPrice": 98888,
-            "high24hPrice": 200000
+            "high24hPrice": 333333
         },
         {
             "id": "60658776f2cb2e02a42ace2b",
@@ -21286,7 +21286,7 @@
             "name": "AR-10 CMMG MK3 RML9 9英寸 M-LOK 护木",
             "shortName": "MK3 RML9",
             "basePrice": 10500,
-            "avg24hPrice": 11225,
+            "avg24hPrice": 11178,
             "low24hPrice": 8000,
             "high24hPrice": 14444
         },
@@ -21297,7 +21297,7 @@
             "basePrice": 15000,
             "avg24hPrice": 33711,
             "low24hPrice": 25444,
-            "high24hPrice": 40000
+            "high24hPrice": 36666
         },
         {
             "id": "6065c6e7132d4d12c81fd8e1",
@@ -21331,7 +21331,7 @@
             "name": "Ultima МP-155 聚乙烯枪托",
             "shortName": "МP-155 Ultima",
             "basePrice": 4388,
-            "avg24hPrice": 24190,
+            "avg24hPrice": 24311,
             "low24hPrice": 7777,
             "high24hPrice": 29999
         },
@@ -21340,9 +21340,9 @@
             "name": "Ultima МP-155 塑料手枪式握把",
             "shortName": "Ultima握把",
             "basePrice": 2608,
-            "avg24hPrice": 13298,
+            "avg24hPrice": 12942,
             "low24hPrice": 7420,
-            "high24hPrice": 22222
+            "high24hPrice": 19999
         },
         {
             "id": "606eef756d0bd7580617baf8",
@@ -21502,7 +21502,7 @@
             "name": "SOK-12 Custom Guns Type 340护木",
             "shortName": "Type340",
             "basePrice": 15800,
-            "avg24hPrice": 17304,
+            "avg24hPrice": 17526,
             "low24hPrice": 9000,
             "high24hPrice": 50000
         },
@@ -21511,9 +21511,9 @@
             "name": "AR-15 Unique-ARs Wing & Skull 12英寸护木",
             "shortName": "Wing&Skull",
             "basePrice": 50000,
-            "avg24hPrice": 30347,
+            "avg24hPrice": 30699,
             "low24hPrice": 27000,
-            "high24hPrice": 43000
+            "high24hPrice": 78000
         },
         {
             "id": "6087e2a5232e5a31c233d552",
@@ -21529,7 +21529,7 @@
             "name": "AK Custom Arms AGS-74 PRO + Sniper Kit手枪式握把",
             "shortName": "AGS-74",
             "basePrice": 14300,
-            "avg24hPrice": 24027,
+            "avg24hPrice": 24212,
             "low24hPrice": 19886,
             "high24hPrice": 38998
         },
@@ -21601,8 +21601,8 @@
             "name": "Crye Precision AVS 插板胸挂（Tagilla 版）",
             "shortName": "AVS TE",
             "basePrice": 199903,
-            "avg24hPrice": 127321,
-            "low24hPrice": 111111,
+            "avg24hPrice": 126765,
+            "low24hPrice": 91000,
             "high24hPrice": 199999
         },
         {
@@ -21619,7 +21619,7 @@
             "name": "Hazard 4 Drawbridge 背包（黄褐色）",
             "shortName": "Drawbridge",
             "basePrice": 30000,
-            "avg24hPrice": 32392,
+            "avg24hPrice": 32577,
             "low24hPrice": 23999,
             "high24hPrice": 60000
         },
@@ -21628,7 +21628,7 @@
             "name": "Hazard4 Pillbox背包 ",
             "shortName": "Pillbox",
             "basePrice": 21400,
-            "avg24hPrice": 21173,
+            "avg24hPrice": 21387,
             "low24hPrice": 13500,
             "high24hPrice": 50000
         },
@@ -21646,7 +21646,7 @@
             "name": "CQC 鱼鹰 MK4A 防弹胸挂（防护型，多地形迷彩）",
             "shortName": "MK4A 防护型",
             "basePrice": 82278,
-            "avg24hPrice": 141009,
+            "avg24hPrice": 139910,
             "low24hPrice": 80000,
             "high24hPrice": 288888
         },
@@ -21655,7 +21655,7 @@
             "name": "CQC 鱼鹰 MK4A 防弹胸挂（突击型，多地形迷彩）",
             "shortName": "MK4A突击型",
             "basePrice": 49216,
-            "avg24hPrice": 65601,
+            "avg24hPrice": 64860,
             "low24hPrice": 41999,
             "high24hPrice": 111100
         },
@@ -21664,7 +21664,7 @@
             "name": "Stich Profi MK2胸挂（突击型，A-TACS FG迷彩）",
             "shortName": "CR MK2突击型",
             "basePrice": 33750,
-            "avg24hPrice": 28852,
+            "avg24hPrice": 28652,
             "low24hPrice": 20000,
             "high24hPrice": 37420
         },
@@ -21673,7 +21673,7 @@
             "name": "Stich Profi MK2胸挂（侦察型，A-TACS FG迷彩）",
             "shortName": "CR MK2侦察型",
             "basePrice": 32400,
-            "avg24hPrice": 29184,
+            "avg24hPrice": 28915,
             "low24hPrice": 20000,
             "high24hPrice": 211111
         },
@@ -21718,7 +21718,7 @@
             "name": "WZ钱包",
             "shortName": "WZ",
             "basePrice": 40542,
-            "avg24hPrice": 26952,
+            "avg24hPrice": 27112,
             "low24hPrice": 19000,
             "high24hPrice": 99999
         },
@@ -21781,9 +21781,9 @@
             "name": "CMMG Mk47 Mutant 7.62x39 突击步枪 默认",
             "shortName": "Mk47 默认",
             "basePrice": 106051,
-            "avg24hPrice": 154092,
+            "avg24hPrice": 152970,
             "low24hPrice": 98888,
-            "high24hPrice": 200000
+            "high24hPrice": 333333
         },
         {
             "id": "60bf74184a63fc79b60c57f6",
@@ -21817,8 +21817,8 @@
             "name": "AR-15 F1 Firearms Skeletonized Style 1 手枪式握把",
             "shortName": "F1 St1",
             "basePrice": 6700,
-            "avg24hPrice": 11610,
-            "low24hPrice": 9000,
+            "avg24hPrice": 11438,
+            "low24hPrice": 8888,
             "high24hPrice": 22222
         },
         {
@@ -21826,7 +21826,7 @@
             "name": "AR-15 F1 Firearms Skeletonized Style 2 PC 手枪式握把",
             "shortName": "F1 St2 PC",
             "basePrice": 15500,
-            "avg24hPrice": 52050,
+            "avg24hPrice": 51409,
             "low24hPrice": 28000,
             "high24hPrice": 86399
         },
@@ -21835,7 +21835,7 @@
             "name": "AR-15 F1 Firearms Skeletonized Style 2 手枪式握把",
             "shortName": "F1 St2",
             "basePrice": 13000,
-            "avg24hPrice": 24348,
+            "avg24hPrice": 24398,
             "low24hPrice": 18777,
             "high24hPrice": 29988
         },
@@ -22006,7 +22006,7 @@
             "name": "Glock 9x19 MOS套筒",
             "shortName": "G MOS",
             "basePrice": 4700,
-            "avg24hPrice": 4888,
+            "avg24hPrice": 9888,
             "low24hPrice": 4777,
             "high24hPrice": 15000
         },
@@ -22069,8 +22069,8 @@
             "name": "AR-15 Tactical Dynamics Hexgrip手枪式握把",
             "shortName": "TD Hex",
             "basePrice": 6500,
-            "avg24hPrice": 9109,
-            "low24hPrice": 6969,
+            "avg24hPrice": 8577,
+            "low24hPrice": 6666,
             "high24hPrice": 16666
         },
         {
@@ -22168,7 +22168,7 @@
             "name": "FN SCAR-H 7.62x51上机匣",
             "shortName": "Mk17",
             "basePrice": 10500,
-            "avg24hPrice": 222310,
+            "avg24hPrice": 221593,
             "low24hPrice": 125555,
             "high24hPrice": 444676
         },
@@ -22177,7 +22177,7 @@
             "name": "FN SCAR-H 7.62x51 上机匣 (FDE)",
             "shortName": "Mk17",
             "basePrice": 11800,
-            "avg24hPrice": 173459,
+            "avg24hPrice": 174110,
             "low24hPrice": 100000,
             "high24hPrice": 600000
         },
@@ -22384,8 +22384,8 @@
             "name": "HK G28 7.62x51 精确射手步枪",
             "shortName": "G28",
             "basePrice": 30500,
-            "avg24hPrice": 97679,
-            "low24hPrice": 35000,
+            "avg24hPrice": 98630,
+            "low24hPrice": 45555,
             "high24hPrice": 555555
         },
         {
@@ -22609,16 +22609,16 @@
             "name": "FN SCAR-L 5.56x45上机匣",
             "shortName": "Mk16",
             "basePrice": 6200,
-            "avg24hPrice": 34576,
+            "avg24hPrice": 33324,
             "low24hPrice": 30000,
-            "high24hPrice": 59420
+            "high24hPrice": 45000
         },
         {
             "id": "6184055050224f204c1da540",
             "name": "FN SCAR-L 5.56x45突击步枪",
             "shortName": "Mk 16",
             "basePrice": 17000,
-            "avg24hPrice": 58494,
+            "avg24hPrice": 59034,
             "low24hPrice": 40000,
             "high24hPrice": 108888
         },
@@ -22654,8 +22654,8 @@
             "name": "FN SCAR-L 5.56x45上机匣",
             "shortName": "Mk16",
             "basePrice": 6500,
-            "avg24hPrice": 49712,
-            "low24hPrice": 21111,
+            "avg24hPrice": 49141,
+            "low24hPrice": 22222,
             "high24hPrice": 80000
         },
         {
@@ -22663,7 +22663,7 @@
             "name": "FN SCAR-L 5.56x45突击步枪 （FDE）",
             "shortName": "Mk 16",
             "basePrice": 18000,
-            "avg24hPrice": 53370,
+            "avg24hPrice": 53835,
             "low24hPrice": 24100,
             "high24hPrice": 195000
         },
@@ -22861,7 +22861,7 @@
             "name": "Gruppa 99 T20背包（茶褐色）",
             "shortName": "T20",
             "basePrice": 29410,
-            "avg24hPrice": 32853,
+            "avg24hPrice": 33341,
             "low24hPrice": 25000,
             "high24hPrice": 49999
         },
@@ -22870,8 +22870,8 @@
             "name": "LBT-1476A 3 日行军背包（林地迷彩）",
             "shortName": "LBT-1476A",
             "basePrice": 28500,
-            "avg24hPrice": 33179,
-            "low24hPrice": 22000,
+            "avg24hPrice": 34354,
+            "low24hPrice": 23888,
             "high24hPrice": 75000
         },
         {
@@ -22897,7 +22897,7 @@
             "name": "HK USP .45 ACP手枪",
             "shortName": "USP .45",
             "basePrice": 9500,
-            "avg24hPrice": 17409,
+            "avg24hPrice": 17908,
             "low24hPrice": 11000,
             "high24hPrice": 22222
         },
@@ -22960,7 +22960,7 @@
             "name": "HK Battle Grip Beavertail AR-15武器系统手枪式握把 （RAL-8000）",
             "shortName": "Battle Grip",
             "basePrice": 3200,
-            "avg24hPrice": 10328,
+            "avg24hPrice": 10121,
             "low24hPrice": 5000,
             "high24hPrice": 49999
         },
@@ -22978,7 +22978,7 @@
             "name": "FN SCAR-L 5.56x45突击步枪 LB",
             "shortName": "Mk 16 LB",
             "basePrice": 93163,
-            "avg24hPrice": 58494,
+            "avg24hPrice": 59034,
             "low24hPrice": 40000,
             "high24hPrice": 108888
         },
@@ -22987,7 +22987,7 @@
             "name": "FN SCAR-L 5.56x45突击步枪 （FDE） 默认",
             "shortName": "Mk 16 默认",
             "basePrice": 88349,
-            "avg24hPrice": 53370,
+            "avg24hPrice": 53835,
             "low24hPrice": 24100,
             "high24hPrice": 195000
         },
@@ -23023,8 +23023,8 @@
             "name": "HK G28 7.62x51 精确射手步枪 默认",
             "shortName": "G28 默认",
             "basePrice": 283494,
-            "avg24hPrice": 97679,
-            "low24hPrice": 35000,
+            "avg24hPrice": 98630,
+            "low24hPrice": 45555,
             "high24hPrice": 555555
         },
         {
@@ -23032,7 +23032,7 @@
             "name": "HK G28 7.62x51 精确射手步枪 Patrol",
             "shortName": "G28 Patrol",
             "basePrice": 163900,
-            "avg24hPrice": 228750,
+            "avg24hPrice": 228875,
             "low24hPrice": 128999,
             "high24hPrice": 229000
         },
@@ -23131,7 +23131,7 @@
             "name": "HK USP 战术型 手枪套筒",
             "shortName": "USP T",
             "basePrice": 3300,
-            "avg24hPrice": 94950,
+            "avg24hPrice": 90000,
             "low24hPrice": 15555,
             "high24hPrice": 100000
         },
@@ -23158,7 +23158,7 @@
             "name": "HK USP 精英型 手枪套筒",
             "shortName": "USP E",
             "basePrice": 6500,
-            "avg24hPrice": 30495,
+            "avg24hPrice": 30192,
             "low24hPrice": 14969,
             "high24hPrice": 40000
         },
@@ -23293,9 +23293,9 @@
             "name": "AR-15 Aeroknox AX-15 10.5英寸 M-LOK护木",
             "shortName": "AX-15 10.5寸",
             "basePrice": 16100,
-            "avg24hPrice": 17563,
+            "avg24hPrice": 17400,
             "low24hPrice": 13000,
-            "high24hPrice": 22222
+            "high24hPrice": 99999
         },
         {
             "id": "619b69037b9de8162902673e",
@@ -23412,14 +23412,14 @@
             "basePrice": 415000,
             "avg24hPrice": 280842,
             "low24hPrice": 260000,
-            "high24hPrice": 323000
+            "high24hPrice": 359999
         },
         {
             "id": "619cbf9e0a7c3a1a2731940a",
             "name": "钥匙卡收纳盒",
             "shortName": "钥匙卡",
             "basePrice": 458453,
-            "avg24hPrice": 299016,
+            "avg24hPrice": 299348,
             "low24hPrice": 288888,
             "high24hPrice": 560000
         },
@@ -23455,7 +23455,7 @@
             "name": "Gruppa 99 T20背包 （复合迷彩）",
             "shortName": "T20",
             "basePrice": 29410,
-            "avg24hPrice": 33984,
+            "avg24hPrice": 34705,
             "low24hPrice": 28999,
             "high24hPrice": 200000
         },
@@ -23464,7 +23464,7 @@
             "name": "HK USP .45 ACP手枪 默认",
             "shortName": "USP .45 默认",
             "basePrice": 20250,
-            "avg24hPrice": 17409,
+            "avg24hPrice": 17908,
             "low24hPrice": 11000,
             "high24hPrice": 22222
         },
@@ -23482,9 +23482,9 @@
             "name": "HK USP .45 ACP手枪 Tactical",
             "shortName": "USP .45 Tactical",
             "basePrice": 24750,
-            "avg24hPrice": 15221,
+            "avg24hPrice": 15610,
             "low24hPrice": 15221,
-            "high24hPrice": 15221
+            "high24hPrice": 16000
         },
         {
             "id": "619d272b0f9e4513744e7699",
@@ -23689,7 +23689,7 @@
             "name": "Eagle Industries MMAC 插板胸挂 （丛林绿）",
             "shortName": "MMAC",
             "basePrice": 31061,
-            "avg24hPrice": 35501,
+            "avg24hPrice": 35583,
             "low24hPrice": 27000,
             "high24hPrice": 180000
         },
@@ -23707,8 +23707,8 @@
             "name": "FirstSpear Strandhogg 插板胸挂（丛林绿）",
             "shortName": "Strandhogg",
             "basePrice": 36118,
-            "avg24hPrice": 50268,
-            "low24hPrice": 33333,
+            "avg24hPrice": 49361,
+            "low24hPrice": 30000,
             "high24hPrice": 175000
         },
         {
@@ -23842,16 +23842,16 @@
             "name": "RSP-30 反应式信号弹（绿色）",
             "shortName": "绿色信号棒",
             "basePrice": 5732,
-            "avg24hPrice": 14094,
+            "avg24hPrice": 13484,
             "low24hPrice": 9000,
-            "high24hPrice": 29999
+            "high24hPrice": 26999
         },
         {
             "id": "62178be9d0050232da3485d9",
             "name": "ROP-30 反应式照明棒（白色）",
             "shortName": "照明棒",
             "basePrice": 10000,
-            "avg24hPrice": 19079,
+            "avg24hPrice": 19113,
             "low24hPrice": 6799,
             "high24hPrice": 72999
         },
@@ -24040,7 +24040,7 @@
             "name": "HK G36 5.56x45 突击步枪",
             "shortName": "G36",
             "basePrice": 13000,
-            "avg24hPrice": 50629,
+            "avg24hPrice": 50567,
             "low24hPrice": 30000,
             "high24hPrice": 250000
         },
@@ -24202,7 +24202,7 @@
             "name": "AK FAB Defense AGR-47手枪式握把",
             "shortName": "AGR47",
             "basePrice": 3000,
-            "avg24hPrice": 5500,
+            "avg24hPrice": 5571,
             "low24hPrice": 3449,
             "high24hPrice": 5999
         },
@@ -24211,7 +24211,7 @@
             "name": "SV-98 CNC Guns OV-SV98 KeyMod护木",
             "shortName": "OV KM",
             "basePrice": 8000,
-            "avg24hPrice": 13304,
+            "avg24hPrice": 13135,
             "low24hPrice": 10000,
             "high24hPrice": 16000
         },
@@ -24247,7 +24247,7 @@
             "name": "RSP-30 反应式信号弹（黄色）",
             "shortName": "黄色信号棒",
             "basePrice": 2152,
-            "avg24hPrice": 10568,
+            "avg24hPrice": 10588,
             "low24hPrice": 2000,
             "high24hPrice": 25000
         },
@@ -24508,7 +24508,7 @@
             "name": "M1911 Kiba Arms Geneburn定制侧握把",
             "shortName": "Geneburn",
             "basePrice": 80000,
-            "avg24hPrice": 62050,
+            "avg24hPrice": 61557,
             "low24hPrice": 45000,
             "high24hPrice": 200000
         },
@@ -24742,8 +24742,8 @@
             "name": "AI AXMC .338 LM 28英寸枪管",
             "shortName": "AXMC .338LM 28寸",
             "basePrice": 58000,
-            "avg24hPrice": 69999,
-            "low24hPrice": 69000,
+            "avg24hPrice": 69666,
+            "low24hPrice": 55555,
             "high24hPrice": 69999
         },
         {
@@ -24769,7 +24769,7 @@
             "name": "柯尔特 M45A1 .45 ACP 手枪 Mew-mew",
             "shortName": "M45A1 Mew-mew",
             "basePrice": 21108,
-            "avg24hPrice": 12599,
+            "avg24hPrice": 12733,
             "low24hPrice": 9000,
             "high24hPrice": 38000
         },
@@ -24877,7 +24877,7 @@
             "name": "Rifle Dynamics RD-704 7.62x39突击步枪",
             "shortName": "RD-704",
             "basePrice": 45000,
-            "avg24hPrice": 66286,
+            "avg24hPrice": 65568,
             "low24hPrice": 40000,
             "high24hPrice": 99999
         },
@@ -24886,7 +24886,7 @@
             "name": "AK TangoDown Battle Grip手枪式握把",
             "shortName": "TD BG",
             "basePrice": 7500,
-            "avg24hPrice": 15893,
+            "avg24hPrice": 16167,
             "low24hPrice": 8600,
             "high24hPrice": 26111
         },
@@ -24895,7 +24895,7 @@
             "name": "RD-704防尘盖",
             "shortName": "RD-704防尘盖",
             "basePrice": 2000,
-            "avg24hPrice": 99994,
+            "avg24hPrice": 99995,
             "low24hPrice": 7777,
             "high24hPrice": 99999
         },
@@ -24949,7 +24949,7 @@
             "name": "SAG AK-545 5.45x39卡宾枪",
             "shortName": "AK-545",
             "basePrice": 28300,
-            "avg24hPrice": 46356,
+            "avg24hPrice": 46474,
             "low24hPrice": 37999,
             "high24hPrice": 52000
         },
@@ -24985,7 +24985,7 @@
             "name": "S&S Precision PlateFrame 插板胸挂（Goons 特别版）",
             "shortName": "PlateFrame GE",
             "basePrice": 142398,
-            "avg24hPrice": 93686,
+            "avg24hPrice": 93299,
             "low24hPrice": 70000,
             "high24hPrice": 146665
         },
@@ -25003,7 +25003,7 @@
             "name": "AK-545 SAG导轨防尘盖",
             "shortName": "AK-545防尘盖",
             "basePrice": 2000,
-            "avg24hPrice": 58496,
+            "avg24hPrice": 49509,
             "low24hPrice": 25555,
             "high24hPrice": 100000
         },
@@ -25012,7 +25012,7 @@
             "name": "SAG AK-545 5.45x39截短卡宾枪",
             "shortName": "AK-545短",
             "basePrice": 31000,
-            "avg24hPrice": 57406,
+            "avg24hPrice": 56976,
             "low24hPrice": 30000,
             "high24hPrice": 81700
         },
@@ -25021,17 +25021,17 @@
             "name": "Crye Precision CPC 插板胸挂（Goons 特别版）",
             "shortName": "CPC GE",
             "basePrice": 123779,
-            "avg24hPrice": 136244,
+            "avg24hPrice": 137940,
             "low24hPrice": 85000,
-            "high24hPrice": 200000
+            "high24hPrice": 400000
         },
         {
             "id": "628baf0b967de16aab5a4f36",
             "name": "LBT-1961A Load Bearing胸挂 (Goons特别版)",
             "shortName": "LBCR GE",
             "basePrice": 49000,
-            "avg24hPrice": 125161,
-            "low24hPrice": 95959,
+            "avg24hPrice": 120137,
+            "low24hPrice": 78110,
             "high24hPrice": 240000
         },
         {
@@ -25039,8 +25039,8 @@
             "name": "Mystery Ranch NICE COMM 3 BVS 稳固系统（黄褐色）",
             "shortName": "COMM 3",
             "basePrice": 180000,
-            "avg24hPrice": 120375,
-            "low24hPrice": 105000,
+            "avg24hPrice": 119353,
+            "low24hPrice": 110000,
             "high24hPrice": 400000
         },
         {
@@ -25048,16 +25048,16 @@
             "name": "AK TangoDown Battle Grip手枪式握把 (FDE)",
             "shortName": "TD BG",
             "basePrice": 7900,
-            "avg24hPrice": 14980,
+            "avg24hPrice": 15132,
             "low24hPrice": 9999,
-            "high24hPrice": 20000
+            "high24hPrice": 131412
         },
         {
             "id": "628cd624459354321c4b7fa2",
             "name": "Tasmanian Tiger SK 插板胸挂（黑系复合迷彩）",
             "shortName": "TT SK",
             "basePrice": 127148,
-            "avg24hPrice": 79969,
+            "avg24hPrice": 79926,
             "low24hPrice": 78000,
             "high24hPrice": 97000
         },
@@ -25066,7 +25066,7 @@
             "name": "NPP KlASS Bagariy 防弹胸挂（数码丛林迷彩）",
             "shortName": "Bagariy",
             "basePrice": 71684,
-            "avg24hPrice": 117765,
+            "avg24hPrice": 120532,
             "low24hPrice": 77777,
             "high24hPrice": 245566
         },
@@ -25075,7 +25075,7 @@
             "name": "ECLiPSE RBAV-AF 插板胸挂（丛林绿）",
             "shortName": "RBAV-AF",
             "basePrice": 34271,
-            "avg24hPrice": 43373,
+            "avg24hPrice": 42458,
             "low24hPrice": 25234,
             "high24hPrice": 79999
         },
@@ -25084,7 +25084,7 @@
             "name": "Gruppa 99 T30背包（黑色）",
             "shortName": "T30",
             "basePrice": 64877,
-            "avg24hPrice": 80218,
+            "avg24hPrice": 79441,
             "low24hPrice": 66999,
             "high24hPrice": 100000
         },
@@ -25120,7 +25120,7 @@
             "name": "SAG AK-545 5.45x39截短卡宾枪 默认",
             "shortName": "AK-545短 默认",
             "basePrice": 88904,
-            "avg24hPrice": 57406,
+            "avg24hPrice": 56976,
             "low24hPrice": 30000,
             "high24hPrice": 81700
         },
@@ -25129,7 +25129,7 @@
             "name": "SAG AK-545 5.45x39卡宾枪 默认",
             "shortName": "AK-545 默认",
             "basePrice": 78320,
-            "avg24hPrice": 46356,
+            "avg24hPrice": 46474,
             "low24hPrice": 37999,
             "high24hPrice": 52000
         },
@@ -25138,7 +25138,7 @@
             "name": "Rifle Dynamics RD-704 7.62x39突击步枪 默认",
             "shortName": "RD-704 默认",
             "basePrice": 102338,
-            "avg24hPrice": 66286,
+            "avg24hPrice": 65568,
             "low24hPrice": 40000,
             "high24hPrice": 99999
         },
@@ -25183,7 +25183,7 @@
             "name": "HK G36 5.56x45 突击步枪 默认",
             "shortName": "G36 默认",
             "basePrice": 85950,
-            "avg24hPrice": 50629,
+            "avg24hPrice": 50567,
             "low24hPrice": 30000,
             "high24hPrice": 250000
         },
@@ -25336,7 +25336,7 @@
             "name": "Gingy钥匙串",
             "shortName": "Gingy",
             "basePrice": 80000,
-            "avg24hPrice": 54755,
+            "avg24hPrice": 54372,
             "low24hPrice": 44444,
             "high24hPrice": 66000
         },
@@ -25471,7 +25471,7 @@
             "name": "Gruppa 99 T30背包 （复合迷彩）",
             "shortName": "T30",
             "basePrice": 64877,
-            "avg24hPrice": 94427,
+            "avg24hPrice": 95040,
             "low24hPrice": 65432,
             "high24hPrice": 100000
         },
@@ -25588,16 +25588,16 @@
             "name": "Steyr AUG A1 5.56x45突击步枪",
             "shortName": "AUG A1",
             "basePrice": 26230,
-            "avg24hPrice": 41899,
+            "avg24hPrice": 41622,
             "low24hPrice": 15555,
-            "high24hPrice": 59820
+            "high24hPrice": 48999
         },
         {
             "id": "62e7c72df68e7a0676050c77",
             "name": "Steyr AUG A3 5.56x45机匣",
             "shortName": "AUG A3",
             "basePrice": 3800,
-            "avg24hPrice": 25252,
+            "avg24hPrice": 27609,
             "low24hPrice": 8500,
             "high24hPrice": 39989
         },
@@ -25795,7 +25795,7 @@
             "name": "GLOCK 19X 9x19手枪",
             "shortName": "Glock 19X",
             "basePrice": 8200,
-            "avg24hPrice": 17689,
+            "avg24hPrice": 17523,
             "low24hPrice": 10000,
             "high24hPrice": 40000
         },
@@ -25876,7 +25876,7 @@
             "name": "Steyr AUG A3 5.56x45突击步枪",
             "shortName": "AUG A3",
             "basePrice": 31000,
-            "avg24hPrice": 54128,
+            "avg24hPrice": 54554,
             "low24hPrice": 35999,
             "high24hPrice": 89000
         },
@@ -26029,7 +26029,7 @@
             "name": "OP-SKS防尘盖",
             "shortName": "OP-SKS防尘盖",
             "basePrice": 1109,
-            "avg24hPrice": 9750,
+            "avg24hPrice": 9833,
             "low24hPrice": 9500,
             "high24hPrice": 10000
         },
@@ -26083,7 +26083,7 @@
             "name": "Azimut SS \"Khamelion\"胸挂（橄榄色）",
             "shortName": "Khamelion",
             "basePrice": 50000,
-            "avg24hPrice": 65169,
+            "avg24hPrice": 64103,
             "low24hPrice": 48888,
             "high24hPrice": 68888
         },
@@ -26227,7 +26227,7 @@
             "name": "柯尔特 M4 Length AR-15兼容低轮廓护木",
             "shortName": "M4标准",
             "basePrice": 949,
-            "avg24hPrice": 6085,
+            "avg24hPrice": 6096,
             "low24hPrice": 5555,
             "high24hPrice": 6500
         },
@@ -26236,7 +26236,7 @@
             "name": "AR-15 KAC RIS低轮廓护木",
             "shortName": "KAC RIS",
             "basePrice": 2033,
-            "avg24hPrice": 12344,
+            "avg24hPrice": 11888,
             "low24hPrice": 6900,
             "high24hPrice": 41111
         },
@@ -26245,9 +26245,9 @@
             "name": "AR-15 KAC URX 3.1 10.75英寸低轮廓护木",
             "shortName": "URX 3.1 10.75英寸",
             "basePrice": 5640,
-            "avg24hPrice": 16021,
+            "avg24hPrice": 15027,
             "low24hPrice": 7000,
-            "high24hPrice": 39999
+            "high24hPrice": 20000
         },
         {
             "id": "637f57d2f5ef8c33840d36c4",
@@ -26263,7 +26263,7 @@
             "name": "Strike Industries Viper M-LOK中 AR-15低轮廓卡宾护木",
             "shortName": "Viper AR15",
             "basePrice": 5225,
-            "avg24hPrice": 14931,
+            "avg24hPrice": 14641,
             "low24hPrice": 4000,
             "high24hPrice": 30000
         },
@@ -26308,7 +26308,7 @@
             "name": "AR-15 Precision Reflex GEN III Delta Carbon护木",
             "shortName": "Delta Carbon",
             "basePrice": 32000,
-            "avg24hPrice": 33639,
+            "avg24hPrice": 33634,
             "low24hPrice": 29999,
             "high24hPrice": 34000
         },
@@ -26425,7 +26425,7 @@
             "name": "AK CNC Guns OV GP护木",
             "shortName": "OV GP",
             "basePrice": 6600,
-            "avg24hPrice": 11494,
+            "avg24hPrice": 11217,
             "low24hPrice": 7000,
             "high24hPrice": 18000
         },
@@ -26452,7 +26452,7 @@
             "name": "AR-15 Daniel Defense RIS II 9.5低轮廓护木（Coyote Brown）",
             "shortName": "RIS II 9.5",
             "basePrice": 4478,
-            "avg24hPrice": 8229,
+            "avg24hPrice": 7743,
             "low24hPrice": 5000,
             "high24hPrice": 30000
         },
@@ -26461,7 +26461,7 @@
             "name": "AR-15 Daniel Defense RIS II 12.25低轮廓护木（Coyote Brown）",
             "shortName": "RIS II 12.25",
             "basePrice": 5220,
-            "avg24hPrice": 20642,
+            "avg24hPrice": 19724,
             "low24hPrice": 13879,
             "high24hPrice": 27963
         },
@@ -26488,7 +26488,7 @@
             "name": "Shellback Tactical Banshee 插板胸挂（A-TACS AU 迷彩）",
             "shortName": "Banshee",
             "basePrice": 33760,
-            "avg24hPrice": 39592,
+            "avg24hPrice": 40843,
             "low24hPrice": 29000,
             "high24hPrice": 67000
         },
@@ -26506,7 +26506,7 @@
             "name": "Strike Industries Viper M-LOK中 AR-15低轮廓卡宾护木（FDE）",
             "shortName": "Viper AR15",
             "basePrice": 5225,
-            "avg24hPrice": 15392,
+            "avg24hPrice": 17091,
             "low24hPrice": 9000,
             "high24hPrice": 22222
         },
@@ -26515,25 +26515,25 @@
             "name": "AR-15 Daniel Defense RIS II 9.5低轮廓护木（黑）",
             "shortName": "RIS II 9.5",
             "basePrice": 4392,
-            "avg24hPrice": 13962,
+            "avg24hPrice": 12741,
             "low24hPrice": 4796,
-            "high24hPrice": 23330
+            "high24hPrice": 22000
         },
         {
             "id": "6398636bb483a550805be5e5",
             "name": "Steyr AUG A1 5.56x45突击步枪 默认",
             "shortName": "AUG A1 默认",
             "basePrice": 70937,
-            "avg24hPrice": 41899,
+            "avg24hPrice": 41622,
             "low24hPrice": 15555,
-            "high24hPrice": 59820
+            "high24hPrice": 48999
         },
         {
             "id": "63986752a28b76105a33c095",
             "name": "Steyr AUG A3 5.56x45突击步枪 默认",
             "shortName": "AUG A3 默认",
             "basePrice": 84027,
-            "avg24hPrice": 54128,
+            "avg24hPrice": 54554,
             "low24hPrice": 35999,
             "high24hPrice": 89000
         },
@@ -26560,7 +26560,7 @@
             "name": "GLOCK 19X 9x19手枪 默认",
             "shortName": "Glock 19X 默认",
             "basePrice": 19150,
-            "avg24hPrice": 17689,
+            "avg24hPrice": 17523,
             "low24hPrice": 10000,
             "high24hPrice": 40000
         },
@@ -26920,7 +26920,7 @@
             "name": "AR-15 Aeroknox AX-15 4英寸 M-LOK护木",
             "shortName": "AX-15 4寸",
             "basePrice": 8124,
-            "avg24hPrice": 16160,
+            "avg24hPrice": 15998,
             "low24hPrice": 9000,
             "high24hPrice": 18000
         },
@@ -26938,7 +26938,7 @@
             "name": "AR-15 Aeroknox AX-15 5.56x45上机匣",
             "shortName": "AX-15",
             "basePrice": 30124,
-            "avg24hPrice": 51545,
+            "avg24hPrice": 51130,
             "low24hPrice": 34444,
             "high24hPrice": 66666
         },
@@ -26947,7 +26947,7 @@
             "name": "AR-15 Aeroknox Orion手枪式握把",
             "shortName": "Orion",
             "basePrice": 13432,
-            "avg24hPrice": 21393,
+            "avg24hPrice": 21735,
             "low24hPrice": 18888,
             "high24hPrice": 55555
         },
@@ -26992,7 +26992,7 @@
             "name": "AR-15 Aeroknox AX-15 15.8英寸 M-LOK护木",
             "shortName": "AX-15 15.8寸",
             "basePrice": 47152,
-            "avg24hPrice": 41342,
+            "avg24hPrice": 42130,
             "low24hPrice": 27000,
             "high24hPrice": 54000
         },
@@ -27073,7 +27073,7 @@
             "name": "SKS Leapers UTG PRO MTU017机匣基座",
             "shortName": "MTU017",
             "basePrice": 10161,
-            "avg24hPrice": 17512,
+            "avg24hPrice": 17451,
             "low24hPrice": 16000,
             "high24hPrice": 19888
         },
@@ -27109,7 +27109,7 @@
             "name": "Tokarev SVT-40 7.62x54R步枪",
             "shortName": "SVT-40",
             "basePrice": 19331,
-            "avg24hPrice": 75525,
+            "avg24hPrice": 73642,
             "low24hPrice": 36666,
             "high24hPrice": 109109
         },
@@ -27118,7 +27118,7 @@
             "name": "KBP 9A-91 9x39紧凑型突击步枪",
             "shortName": "9A-91",
             "basePrice": 19370,
-            "avg24hPrice": 27356,
+            "avg24hPrice": 27728,
             "low24hPrice": 18000,
             "high24hPrice": 72000
         },
@@ -27226,7 +27226,7 @@
             "name": "KBP VSK-94 9x39步枪",
             "shortName": "VSK-94",
             "basePrice": 19370,
-            "avg24hPrice": 46386,
+            "avg24hPrice": 46905,
             "low24hPrice": 31999,
             "high24hPrice": 60000
         },
@@ -27280,7 +27280,7 @@
             "name": "PKP 7.62x54R 658毫米枪管",
             "shortName": "PKP 658毫米",
             "basePrice": 34364,
-            "avg24hPrice": 30131,
+            "avg24hPrice": 31013,
             "low24hPrice": 11999,
             "high24hPrice": 45000
         },
@@ -27362,7 +27362,7 @@
             "shortName": "Goliaf MLOK",
             "basePrice": 5194,
             "avg24hPrice": 9999,
-            "low24hPrice": 9999,
+            "low24hPrice": 5973,
             "high24hPrice": 19999
         },
         {
@@ -27370,7 +27370,7 @@
             "name": "AK AKdemia Dominator护木",
             "shortName": "Dominator",
             "basePrice": 6736,
-            "avg24hPrice": 9090,
+            "avg24hPrice": 9307,
             "low24hPrice": 7444,
             "high24hPrice": 12420
         },
@@ -27379,7 +27379,7 @@
             "name": "AK Alfa Arms ASPID护木",
             "shortName": "Aspid",
             "basePrice": 17814,
-            "avg24hPrice": 21860,
+            "avg24hPrice": 22161,
             "low24hPrice": 14444,
             "high24hPrice": 66666
         },
@@ -27388,7 +27388,7 @@
             "name": "AR-15 AB Arms MOD1护木",
             "shortName": "ABA M1",
             "basePrice": 11532,
-            "avg24hPrice": 12968,
+            "avg24hPrice": 12921,
             "low24hPrice": 9999,
             "high24hPrice": 13261
         },
@@ -27397,7 +27397,7 @@
             "name": "AR-15 AB Arms MOD1低轮廓护木",
             "shortName": "ABA M1",
             "basePrice": 3958,
-            "avg24hPrice": 50277,
+            "avg24hPrice": 48518,
             "low24hPrice": 10000,
             "high24hPrice": 55555
         },
@@ -28018,7 +28018,7 @@
             "name": "AK CG101 AR-type手枪式握把转换器",
             "shortName": "CG101",
             "basePrice": 1450,
-            "avg24hPrice": 19081,
+            "avg24hPrice": 18267,
             "low24hPrice": 7777,
             "high24hPrice": 30000
         },
@@ -28027,7 +28027,7 @@
             "name": "PM FAB Defense PM-G手枪式握把（橄榄褐）",
             "shortName": "PM-G橄榄褐",
             "basePrice": 3214,
-            "avg24hPrice": 3221,
+            "avg24hPrice": 3332,
             "low24hPrice": 2999,
             "high24hPrice": 3688
         },
@@ -28036,7 +28036,7 @@
             "name": "PK Zenit B-50护木",
             "shortName": "B-50",
             "basePrice": 24800,
-            "avg24hPrice": 41141,
+            "avg24hPrice": 44297,
             "low24hPrice": 28888,
             "high24hPrice": 150000
         },
@@ -28144,9 +28144,9 @@
             "name": "AK-12 5.45x39突击步枪",
             "shortName": "AK-12",
             "basePrice": 45162,
-            "avg24hPrice": 73663,
+            "avg24hPrice": 73918,
             "low24hPrice": 44444,
-            "high24hPrice": 104444
+            "high24hPrice": 100000
         },
         {
             "id": "649ec107961514b22506b10c",
@@ -28162,7 +28162,7 @@
             "name": "AK-12护木",
             "shortName": "AK-12护木",
             "basePrice": 8913,
-            "avg24hPrice": 15649,
+            "avg24hPrice": 21666,
             "low24hPrice": 9000,
             "high24hPrice": 39999
         },
@@ -28198,7 +28198,7 @@
             "name": "AK-12 导轨防尘盖",
             "shortName": "AK-12防尘盖",
             "basePrice": 3694,
-            "avg24hPrice": 16150,
+            "avg24hPrice": 13800,
             "low24hPrice": 13800,
             "high24hPrice": 18500
         },
@@ -28225,7 +28225,7 @@
             "name": "WARTECH TV-115 插板胸挂（橄榄绿）",
             "shortName": "TV-115",
             "basePrice": 36135,
-            "avg24hPrice": 41797,
+            "avg24hPrice": 41875,
             "low24hPrice": 30111,
             "high24hPrice": 69696
         },
@@ -28234,7 +28234,7 @@
             "name": "Eagle Allied Industries MBSS 插板胸挂（郊狼棕）",
             "shortName": "MBSS",
             "basePrice": 1408,
-            "avg24hPrice": 36100,
+            "avg24hPrice": 35768,
             "low24hPrice": 22000,
             "high24hPrice": 69696
         },
@@ -28513,7 +28513,7 @@
             "name": "Zulu Nylon Gear M4 低特征胸挂（丛林绿）",
             "shortName": "M4 RSCR",
             "basePrice": 8066,
-            "avg24hPrice": 22538,
+            "avg24hPrice": 22812,
             "low24hPrice": 11111,
             "high24hPrice": 35555
         },
@@ -28522,7 +28522,7 @@
             "name": "56式胸挂",
             "shortName": "56式胸挂",
             "basePrice": 9341,
-            "avg24hPrice": 19523,
+            "avg24hPrice": 19541,
             "low24hPrice": 11000,
             "high24hPrice": 30999
         },
@@ -28549,16 +28549,16 @@
             "name": "AK-12 5.45x39突击步枪 默认",
             "shortName": "AK-12 默认",
             "basePrice": 78397,
-            "avg24hPrice": 73663,
+            "avg24hPrice": 73918,
             "low24hPrice": 44444,
-            "high24hPrice": 104444
+            "high24hPrice": 100000
         },
         {
             "id": "64c151f83319a1cf380c4df7",
             "name": "Tokarev SVT-40 7.62x54R步枪 默认",
             "shortName": "SVT-40 默认",
             "basePrice": 41062,
-            "avg24hPrice": 75525,
+            "avg24hPrice": 73642,
             "low24hPrice": 36666,
             "high24hPrice": 109109
         },
@@ -28594,7 +28594,7 @@
             "name": "Tokarev SVT-40 7.62x54R步枪 Sniper",
             "shortName": "SVT-40 Sniper",
             "basePrice": 54502,
-            "avg24hPrice": 88526,
+            "avg24hPrice": 81666,
             "low24hPrice": 70000,
             "high24hPrice": 109109
         },
@@ -28801,7 +28801,7 @@
             "name": "捷格加廖夫 RPD 7.62x39 毫米轻机枪",
             "shortName": "RPD",
             "basePrice": 22638,
-            "avg24hPrice": 65299,
+            "avg24hPrice": 67893,
             "low24hPrice": 45000,
             "high24hPrice": 175000
         },
@@ -28909,8 +28909,8 @@
             "name": "AK PUFGUN SG-M2手枪式握把",
             "shortName": "SG-M2",
             "basePrice": 5300,
-            "avg24hPrice": 13869,
-            "low24hPrice": 8888,
+            "avg24hPrice": 13713,
+            "low24hPrice": 6000,
             "high24hPrice": 60000
         },
         {
@@ -28927,7 +28927,7 @@
             "name": "SVDS Lynx Arms AK手枪式握把转接器",
             "shortName": "P-SVD-S",
             "basePrice": 1240,
-            "avg24hPrice": 11346,
+            "avg24hPrice": 11393,
             "low24hPrice": 4983,
             "high24hPrice": 29999
         },
@@ -28999,16 +28999,16 @@
             "name": "Saiga-9 Hartman Gyurza护木",
             "shortName": "Gyurza-9",
             "basePrice": 12428,
-            "avg24hPrice": 9820,
-            "low24hPrice": 6000,
-            "high24hPrice": 49999
+            "avg24hPrice": 9813,
+            "low24hPrice": 6666,
+            "high24hPrice": 35555
         },
         {
             "id": "65266fd43341ed9aa903dd56",
             "name": "RPD 7.62x39 350毫米截短枪管",
             "shortName": "RPD 350毫米",
             "basePrice": 8824,
-            "avg24hPrice": 37133,
+            "avg24hPrice": 36642,
             "low24hPrice": 25000,
             "high24hPrice": 54444
         },
@@ -29233,9 +29233,9 @@
             "name": "SKS TAPCO导轨导气管防尘盖",
             "shortName": "SKS TAPCO",
             "basePrice": 1015,
-            "avg24hPrice": 10000,
-            "low24hPrice": null,
-            "high24hPrice": null
+            "avg24hPrice": 5000,
+            "low24hPrice": 5000,
+            "high24hPrice": 5000
         },
         {
             "id": "653ece125a1690d9d90491e8",
@@ -29422,9 +29422,9 @@
             "name": "AKS-74U Legal Arsenal Piligrim导轨防尘盖",
             "shortName": "Piligrim",
             "basePrice": 5060,
-            "avg24hPrice": 9336,
+            "avg24hPrice": 9303,
             "low24hPrice": 7000,
-            "high24hPrice": 18888
+            "high24hPrice": 12000
         },
         {
             "id": "655dccfdbdcc6b5df71382b6",
@@ -29467,7 +29467,7 @@
             "name": "VSS/VAL聚合物护木（黑色）",
             "shortName": "VSS/VAL",
             "basePrice": 1123,
-            "avg24hPrice": 31333,
+            "avg24hPrice": 31481,
             "low24hPrice": 20000,
             "high24hPrice": 35555
         },
@@ -29486,7 +29486,7 @@
             "shortName": "SR-3M",
             "basePrice": 1623,
             "avg24hPrice": 19420,
-            "low24hPrice": 18420,
+            "low24hPrice": 19420,
             "high24hPrice": 19420
         },
         {
@@ -29521,9 +29521,9 @@
             "name": "Tehinkom RK-PT-25巡逻背包（数码丛林迷彩）",
             "shortName": "RK-PT-25",
             "basePrice": 27351,
-            "avg24hPrice": 22844,
+            "avg24hPrice": 22479,
             "low24hPrice": 16500,
-            "high24hPrice": 30000
+            "high24hPrice": 26665
         },
         {
             "id": "656df4fec921ad01000481a2",
@@ -29539,7 +29539,7 @@
             "name": "Mystery Ranch SATL Bridger突击背包（叶绿色）",
             "shortName": "SATL",
             "basePrice": 90074,
-            "avg24hPrice": 120562,
+            "avg24hPrice": 121585,
             "low24hPrice": 90000,
             "high24hPrice": 300000
         },
@@ -29566,7 +29566,7 @@
             "name": "Direct Action Dragon Egg Mark II背包（黑色）",
             "shortName": "Dragon Egg MKII",
             "basePrice": 30425,
-            "avg24hPrice": 36014,
+            "avg24hPrice": 36155,
             "low24hPrice": 22222,
             "high24hPrice": 99999
         },
@@ -31456,7 +31456,7 @@
             "name": "KBP 9A-91 9x39紧凑型突击步枪 默认",
             "shortName": "9A-91 默认",
             "basePrice": 37878,
-            "avg24hPrice": 27356,
+            "avg24hPrice": 27728,
             "low24hPrice": 18000,
             "high24hPrice": 72000
         },
@@ -31474,7 +31474,7 @@
             "name": "KBP VSK-94 9x39步枪 默认",
             "shortName": "VSK-94 默认",
             "basePrice": 55230,
-            "avg24hPrice": 46386,
+            "avg24hPrice": 46905,
             "low24hPrice": 31999,
             "high24hPrice": 60000
         },
@@ -31492,7 +31492,7 @@
             "name": "捷格加廖夫 RPD 7.62x39 毫米轻机枪 默认",
             "shortName": "RPD 默认",
             "basePrice": 66097,
-            "avg24hPrice": 65299,
+            "avg24hPrice": 67893,
             "low24hPrice": 45000,
             "high24hPrice": 175000
         },
@@ -31717,8 +31717,8 @@
             "name": "U.S Ordnance M60E4 7.62x51轻机枪",
             "shortName": "Mk 43 Mod 1",
             "basePrice": 63423,
-            "avg24hPrice": 79582,
-            "low24hPrice": 68000,
+            "avg24hPrice": 79377,
+            "low24hPrice": 51000,
             "high24hPrice": 82000
         },
         {
@@ -31789,7 +31789,7 @@
             "name": "M60E4 7.62x51 475毫米重型枪管",
             "shortName": "E4 475毫米",
             "basePrice": 41251,
-            "avg24hPrice": 41777,
+            "avg24hPrice": 41269,
             "low24hPrice": 38000,
             "high24hPrice": 150000
         },
@@ -31798,7 +31798,7 @@
             "name": "M60E3 7.62x51 584毫米枪管",
             "shortName": "E3 584毫米",
             "basePrice": 36754,
-            "avg24hPrice": 34141,
+            "avg24hPrice": 34199,
             "low24hPrice": 26000,
             "high24hPrice": 42000
         },
@@ -31879,7 +31879,7 @@
             "name": "20x1毫米玩具枪",
             "shortName": "玩具枪",
             "basePrice": 24516,
-            "avg24hPrice": 37890,
+            "avg24hPrice": 34464,
             "low24hPrice": 23900,
             "high24hPrice": 79000
         },
@@ -31915,7 +31915,7 @@
             "name": "20x1毫米玩具枪 默认",
             "shortName": "玩具枪 默认",
             "basePrice": 25456,
-            "avg24hPrice": 37890,
+            "avg24hPrice": 34464,
             "low24hPrice": 23900,
             "high24hPrice": 79000
         },
@@ -32014,16 +32014,16 @@
             "name": "U.S Ordnance M60E6 7.62x51轻机枪",
             "shortName": "M60E6",
             "basePrice": 69835,
-            "avg24hPrice": 93243,
+            "avg24hPrice": 93479,
             "low24hPrice": 46999,
-            "high24hPrice": 250000
+            "high24hPrice": 200000
         },
         {
             "id": "661cec09b2c6356b4d0c7a36",
             "name": "U.S Ordnance M60E6 7.62x51轻机枪（FDE）",
             "shortName": "M60E6",
             "basePrice": 69835,
-            "avg24hPrice": 97386,
+            "avg24hPrice": 98499,
             "low24hPrice": 70000,
             "high24hPrice": 124555
         },
@@ -32590,8 +32590,8 @@
             "name": "UZI PRO A3 Tactical M-LOK护木",
             "shortName": "A3 MLOK",
             "basePrice": 6845,
-            "avg24hPrice": 15696,
-            "low24hPrice": 7000,
+            "avg24hPrice": 15777,
+            "low24hPrice": 11975,
             "high24hPrice": 18135
         },
         {
@@ -32644,8 +32644,8 @@
             "name": "UZI PRO 9x19 114毫米枪管",
             "shortName": "PRO 114毫米",
             "basePrice": 4325,
-            "avg24hPrice": 22866,
-            "low24hPrice": 17777,
+            "avg24hPrice": 22015,
+            "low24hPrice": 14666,
             "high24hPrice": 25000
         },
         {
@@ -33157,7 +33157,7 @@
             "name": "沙漠之鹰L6 .50 AE 152毫米枪管（白色虎纹）",
             "shortName": "L6 152毫米",
             "basePrice": 3452,
-            "avg24hPrice": 35083,
+            "avg24hPrice": 38495,
             "low24hPrice": 28000,
             "high24hPrice": 59999
         },
@@ -33211,7 +33211,7 @@
             "name": "沙漠之鹰L6手枪套筒（白色虎纹）",
             "shortName": "L6套筒",
             "basePrice": 5412,
-            "avg24hPrice": 22946,
+            "avg24hPrice": 26210,
             "low24hPrice": 20000,
             "high24hPrice": 88888
         },
@@ -33310,7 +33310,7 @@
             "name": "Partizan的包",
             "shortName": "Partizan",
             "basePrice": 36856,
-            "avg24hPrice": 130001,
+            "avg24hPrice": 129437,
             "low24hPrice": 84111,
             "high24hPrice": 189999
         },
@@ -33391,8 +33391,8 @@
             "name": "U.S Ordnance M60E4 7.62x51轻机枪 默认",
             "shortName": "Mk 43 Mod 1 默认",
             "basePrice": 143717,
-            "avg24hPrice": 79582,
-            "low24hPrice": 68000,
+            "avg24hPrice": 79377,
+            "low24hPrice": 51000,
             "high24hPrice": 82000
         },
         {
@@ -33400,7 +33400,7 @@
             "name": "U.S Ordnance M60E6 7.62x51轻机枪（FDE） 默认",
             "shortName": "M60E6 默认",
             "basePrice": 207308,
-            "avg24hPrice": 97386,
+            "avg24hPrice": 98499,
             "low24hPrice": 70000,
             "high24hPrice": 124555
         },
@@ -33409,9 +33409,9 @@
             "name": "U.S Ordnance M60E6 7.62x51轻机枪 默认",
             "shortName": "M60E6 默认",
             "basePrice": 158583,
-            "avg24hPrice": 93243,
+            "avg24hPrice": 93479,
             "low24hPrice": 46999,
-            "high24hPrice": 250000
+            "high24hPrice": 200000
         },
         {
             "id": "66b09282ae030a24a5663815",
@@ -33526,7 +33526,7 @@
             "name": "Camelbak Tri-Zip背包（多地形迷彩）",
             "shortName": "Tri-Zip",
             "basePrice": 61325,
-            "avg24hPrice": 69281,
+            "avg24hPrice": 69195,
             "low24hPrice": 50000,
             "high24hPrice": 88888
         },
@@ -33535,7 +33535,7 @@
             "name": "Vertx Ready Pack背包（红色）",
             "shortName": "ReadyPack",
             "basePrice": 12152,
-            "avg24hPrice": 18158,
+            "avg24hPrice": 17830,
             "low24hPrice": 12000,
             "high24hPrice": 22000
         },
@@ -33616,7 +33616,7 @@
             "name": "Stich Profi Stich Defense mod.2防弹插板胸挂（多用途迷彩）",
             "shortName": "SD mod.2",
             "basePrice": 155126,
-            "avg24hPrice": 96861,
+            "avg24hPrice": 96848,
             "low24hPrice": 55555,
             "high24hPrice": 133333
         },
@@ -33625,7 +33625,7 @@
             "name": "Tasmanian Tiger MKIII 插板胸挂（棕褐色）",
             "shortName": "TT MKIII",
             "basePrice": 132155,
-            "avg24hPrice": 85359,
+            "avg24hPrice": 85514,
             "low24hPrice": 32222,
             "high24hPrice": 135004
         },
@@ -33634,7 +33634,7 @@
             "name": "Stich Profi V2 插板胸挂（黑色）",
             "shortName": "SP PC V2",
             "basePrice": 54042,
-            "avg24hPrice": 79248,
+            "avg24hPrice": 78564,
             "low24hPrice": 48999,
             "high24hPrice": 240000
         },
@@ -33994,9 +33994,9 @@
             "name": "HK G36 Slim Line HKey 护木",
             "shortName": "G36 Slim Line",
             "basePrice": 7245,
-            "avg24hPrice": 14303,
+            "avg24hPrice": 13949,
             "low24hPrice": 7777,
-            "high24hPrice": 30000
+            "high24hPrice": 28888
         },
         {
             "id": "6706a159c67236b2f703bb95",
@@ -34066,8 +34066,8 @@
             "name": "AA-12 12 铅径 417 毫米螺纹枪管",
             "shortName": "AA-12 417mm",
             "basePrice": 14468,
-            "avg24hPrice": 22091,
-            "low24hPrice": 17000,
+            "avg24hPrice": 22572,
+            "low24hPrice": 16000,
             "high24hPrice": 29000
         },
         {
@@ -34147,7 +34147,7 @@
             "name": "Steyr AUG A3 Vltor 5.56x45 机匣",
             "shortName": "A3 Vltor",
             "basePrice": 21512,
-            "avg24hPrice": 19758,
+            "avg24hPrice": 19743,
             "low24hPrice": 12000,
             "high24hPrice": 30000
         },
@@ -34228,7 +34228,7 @@
             "name": "Steyr AUG A3 5.56x45 突击步枪（黑色）",
             "shortName": "AUG A3",
             "basePrice": 31000,
-            "avg24hPrice": 59550,
+            "avg24hPrice": 59115,
             "low24hPrice": 47000,
             "high24hPrice": 82000
         },
@@ -34309,7 +34309,7 @@
             "name": "Steyr AUG A3 5.56x45 突击步枪（黑色） 默认",
             "shortName": "AUG A3 默认",
             "basePrice": 91595,
-            "avg24hPrice": 59550,
+            "avg24hPrice": 59115,
             "low24hPrice": 47000,
             "high24hPrice": 82000
         },
@@ -34516,7 +34516,7 @@
             "name": "Sako TRG M10 11英寸护木组件",
             "shortName": "M10 11\"",
             "basePrice": 19800,
-            "avg24hPrice": 17282,
+            "avg24hPrice": 17318,
             "low24hPrice": 9000,
             "high24hPrice": 150900
         },
@@ -34525,7 +34525,7 @@
             "name": "Sako TRG M10 M-LOK 15英寸护木组件",
             "shortName": "M10 15\" M-LOK",
             "basePrice": 22300,
-            "avg24hPrice": 19305,
+            "avg24hPrice": 18831,
             "low24hPrice": 12000,
             "high24hPrice": 80000
         },
@@ -34606,7 +34606,7 @@
             "name": "LBT-1476A 3 日行军背包 (高原复合迷彩)",
             "shortName": "LBT-1476A",
             "basePrice": 28500,
-            "avg24hPrice": 26648,
+            "avg24hPrice": 26586,
             "low24hPrice": 21000,
             "high24hPrice": 55555
         },
@@ -34624,7 +34624,7 @@
             "name": "Spiritus Systems Bank Robber 胸挂 (高原复合迷彩)",
             "shortName": "Bank Robber",
             "basePrice": 8200,
-            "avg24hPrice": 19162,
+            "avg24hPrice": 19322,
             "low24hPrice": 8000,
             "high24hPrice": 27500
         },
@@ -34651,7 +34651,7 @@
             "name": "Aklys Defense 迅猛龙 .300 Blackout 突击步枪",
             "shortName": "迅猛龙 .300 BLK",
             "basePrice": 63453,
-            "avg24hPrice": 74009,
+            "avg24hPrice": 72934,
             "low24hPrice": 44444,
             "high24hPrice": 170000
         },
@@ -34678,7 +34678,7 @@
             "name": "Mystery Ranch Terraframe 背包（橄榄绿）",
             "shortName": "Terraframe",
             "basePrice": 49550,
-            "avg24hPrice": 35133,
+            "avg24hPrice": 34772,
             "low24hPrice": 27000,
             "high24hPrice": 50000
         },
@@ -34687,7 +34687,7 @@
             "name": "Mystery Ranch Terraframe 背包（圣诞特装版）",
             "shortName": "Terraframe 圣诞版",
             "basePrice": 59460,
-            "avg24hPrice": 36833,
+            "avg24hPrice": 36200,
             "low24hPrice": 27777,
             "high24hPrice": 65000
         },
@@ -34696,7 +34696,7 @@
             "name": "SOK-12 Chaos Titan 四面导轨护木",
             "shortName": "Titan 四轨",
             "basePrice": 15539,
-            "avg24hPrice": 37936,
+            "avg24hPrice": 37054,
             "low24hPrice": 20000,
             "high24hPrice": 110000
         },
@@ -35254,7 +35254,7 @@
             "name": "Aklys Defense 迅猛龙 .300 Blackout 突击步枪 默认",
             "shortName": "迅猛龙 .300 BLK 默认",
             "basePrice": 120342,
-            "avg24hPrice": 74009,
+            "avg24hPrice": 72934,
             "low24hPrice": 44444,
             "high24hPrice": 170000
         },
@@ -35272,8 +35272,8 @@
             "name": "防弹插板箱",
             "shortName": "插板",
             "basePrice": 750000,
-            "avg24hPrice": 817792,
-            "low24hPrice": 772000,
+            "avg24hPrice": 818534,
+            "low24hPrice": 780000,
             "high24hPrice": 850000
         },
         {
@@ -35335,7 +35335,7 @@
             "name": "SOK-12 Kiba Arms定制生化风格导轨防尘盖 ",
             "shortName": "SOK-12 ZC",
             "basePrice": 7634,
-            "avg24hPrice": 10329,
+            "avg24hPrice": 10268,
             "low24hPrice": 7000,
             "high24hPrice": 50000
         },
@@ -35472,16 +35472,16 @@
             "basePrice": 8750,
             "avg24hPrice": 9999,
             "low24hPrice": 7777,
-            "high24hPrice": 10500
+            "high24hPrice": 20000
         },
         {
             "id": "67614a225152c0eaed08ec86",
             "name": "MPX GEN2 4 英寸 M-LOK 护木",
             "shortName": "MPX GEN2 4\"",
             "basePrice": 5980,
-            "avg24hPrice": 6529,
+            "avg24hPrice": 6520,
             "low24hPrice": 6000,
-            "high24hPrice": 7000
+            "high24hPrice": 6999
         },
         {
             "id": "67614a31062e6212f5058c38",
@@ -35489,7 +35489,7 @@
             "shortName": "MPX GEN2 8\"",
             "basePrice": 8964,
             "avg24hPrice": 10062,
-            "low24hPrice": 10062,
+            "low24hPrice": 9828,
             "high24hPrice": 10062
         },
         {
@@ -35497,7 +35497,7 @@
             "name": "MPX GEN2 6 英寸 M-LOK 护木",
             "shortName": "MPX GEN2 6\"",
             "basePrice": 7512,
-            "avg24hPrice": 9222,
+            "avg24hPrice": 9312,
             "low24hPrice": 8000,
             "high24hPrice": 10000
         },
@@ -35596,7 +35596,7 @@
             "name": "FN SCAR-H X-17 7.62x51突击步枪",
             "shortName": "X-17",
             "basePrice": 29422,
-            "avg24hPrice": 34582,
+            "avg24hPrice": 33742,
             "low24hPrice": 20000,
             "high24hPrice": 67677
         },
@@ -37027,7 +37027,7 @@
             "name": "M1895/MXLR Ranger Point Precision M-LOK handguard",
             "shortName": "RPP M-LOK",
             "basePrice": 7180,
-            "avg24hPrice": 15481,
+            "avg24hPrice": 15499,
             "low24hPrice": 12000,
             "high24hPrice": 17999
         },
@@ -37036,7 +37036,7 @@
             "name": "M1895/MXLR Magpul ELG M-LOK handguard",
             "shortName": "ELG M-LOK",
             "basePrice": 6450,
-            "avg24hPrice": 19926,
+            "avg24hPrice": 20091,
             "low24hPrice": 11111,
             "high24hPrice": 30000
         },
@@ -37045,7 +37045,7 @@
             "name": "M1895/MXLR Ranger Point Precision COSTA M-LOK handguard",
             "shortName": "RPP COSTA",
             "basePrice": 7950,
-            "avg24hPrice": 19801,
+            "avg24hPrice": 19791,
             "low24hPrice": 13000,
             "high24hPrice": 19999
         },
@@ -37054,7 +37054,7 @@
             "name": "MXLR standard handguard",
             "shortName": "MXLR HG",
             "basePrice": 3480,
-            "avg24hPrice": 3727,
+            "avg24hPrice": 3724,
             "low24hPrice": 2000,
             "high24hPrice": 3777
         },
@@ -37171,7 +37171,7 @@
             "name": "钥匙箱",
             "shortName": "钥匙",
             "basePrice": 496000,
-            "avg24hPrice": 320557,
+            "avg24hPrice": 320195,
             "low24hPrice": 300000,
             "high24hPrice": 470000
         },
@@ -37369,16 +37369,16 @@
             "name": "M1895/MXLR Ranger Point Precision M-LOK handguard (FDE)",
             "shortName": "RPP M-LOK",
             "basePrice": 7180,
-            "avg24hPrice": 14759,
-            "low24hPrice": 13999,
-            "high24hPrice": 18987
+            "avg24hPrice": 14602,
+            "low24hPrice": 13000,
+            "high24hPrice": 16666
         },
         {
             "id": "67ff24c0abb53266190dfc66",
             "name": "M1895/MXLR Ranger Point Precision M-LOK handguard (Green)",
             "shortName": "RPP M-LOK",
             "basePrice": 7180,
-            "avg24hPrice": 21922,
+            "avg24hPrice": 21763,
             "low24hPrice": 12555,
             "high24hPrice": 25000
         },
@@ -37396,16 +37396,16 @@
             "name": "M1895/MXLR Ranger Point Precision COSTA M-LOK handguard (FDE)",
             "shortName": "RPP COSTA",
             "basePrice": 7950,
-            "avg24hPrice": 16460,
+            "avg24hPrice": 15852,
             "low24hPrice": 7948,
-            "high24hPrice": 34000
+            "high24hPrice": 33333
         },
         {
             "id": "67ff279dea587611b008095d",
             "name": "M1895/MXLR Ranger Point Precision COSTA M-LOK handguard (Green)",
             "shortName": "RPP COSTA",
             "basePrice": 7950,
-            "avg24hPrice": 26314,
+            "avg24hPrice": 27577,
             "low24hPrice": 17000,
             "high24hPrice": 50000
         },
@@ -37441,16 +37441,16 @@
             "name": "MDR BLK LBL ALX Bipod 20 handguard (FDE)",
             "shortName": "ALX B 20",
             "basePrice": 20800,
-            "avg24hPrice": 24469,
+            "avg24hPrice": 23501,
             "low24hPrice": 17777,
-            "high24hPrice": 44444
+            "high24hPrice": 33333
         },
         {
             "id": "680f55788692125dc00a3354",
             "name": "MDR BLK LBL ALX Bipod 20 handguard (Black)",
             "shortName": "ALX B 20",
             "basePrice": 20800,
-            "avg24hPrice": 64684,
+            "avg24hPrice": 64130,
             "low24hPrice": 33000,
             "high24hPrice": 200000
         },
@@ -37459,7 +37459,7 @@
             "name": "MDR BLK LBL ALX Bipod 16 handguard (FDE)",
             "shortName": "ALX B 16",
             "basePrice": 18900,
-            "avg24hPrice": 18902,
+            "avg24hPrice": 18880,
             "low24hPrice": 12222,
             "high24hPrice": 20000
         },
@@ -37468,9 +37468,9 @@
             "name": "MDR BLK LBL ALX Bipod 16 handguard (Black)",
             "shortName": "ALX B 16",
             "basePrice": 18900,
-            "avg24hPrice": 31797,
-            "low24hPrice": 18500,
-            "high24hPrice": 50000
+            "avg24hPrice": 31307,
+            "low24hPrice": 16666,
+            "high24hPrice": 35000
         },
         {
             "id": "680f6d9a4d7624d36e06527b",
@@ -37513,7 +37513,7 @@
             "name": "MDR BLK LBL ALX 20 handguard (FDE)",
             "shortName": "ALX 20",
             "basePrice": 16900,
-            "avg24hPrice": 28351,
+            "avg24hPrice": 32925,
             "low24hPrice": 16000,
             "high24hPrice": 55555
         },
@@ -37522,7 +37522,7 @@
             "name": "MDR BLK LBL ALX 20 handguard (Black)",
             "shortName": "ALX 20",
             "basePrice": 16900,
-            "avg24hPrice": 26047,
+            "avg24hPrice": 25931,
             "low24hPrice": 17777,
             "high24hPrice": 39999
         },
@@ -37540,7 +37540,7 @@
             "name": "MDR BLK LBL ALX 16 handguard (FDE)",
             "shortName": "ALX 16",
             "basePrice": 14600,
-            "avg24hPrice": 27112,
+            "avg24hPrice": 26730,
             "low24hPrice": 15000,
             "high24hPrice": 35000
         },
@@ -37549,7 +37549,7 @@
             "name": "MDR BLK LBL ALX 16 handguard (Black)",
             "shortName": "ALX 16",
             "basePrice": 14600,
-            "avg24hPrice": 36273,
+            "avg24hPrice": 35808,
             "low24hPrice": 14444,
             "high24hPrice": 40000
         },
@@ -37558,9 +37558,9 @@
             "name": "MDR Micron M-LOK handguard (FDE)",
             "shortName": "Micron",
             "basePrice": 6900,
-            "avg24hPrice": 10923,
+            "avg24hPrice": 11857,
             "low24hPrice": 5999,
-            "high24hPrice": 15000
+            "high24hPrice": 35400
         },
         {
             "id": "6810d2c6485a5ea11b01e3ad",
@@ -37576,7 +37576,7 @@
             "name": "MDR Micron M-LOK handguard (Black)",
             "shortName": "Micron",
             "basePrice": 6900,
-            "avg24hPrice": 32286,
+            "avg24hPrice": 30705,
             "low24hPrice": 6800,
             "high24hPrice": 88888
         },
@@ -37603,7 +37603,7 @@
             "name": "MCX Lancer Carbon Fiber M-LOK 10.5 inch handguard",
             "shortName": "CF 10.5\"",
             "basePrice": 9500,
-            "avg24hPrice": 14376,
+            "avg24hPrice": 14043,
             "low24hPrice": 10000,
             "high24hPrice": 20000
         },
@@ -37612,7 +37612,7 @@
             "name": "MCX Lancer Carbon Fiber M-LOK 12 inch handguard",
             "shortName": "CF 12\"",
             "basePrice": 10200,
-            "avg24hPrice": 13821,
+            "avg24hPrice": 13781,
             "low24hPrice": 12000,
             "high24hPrice": 18000
         },
@@ -37621,7 +37621,7 @@
             "name": "MCX Lancer Carbon Fiber M-LOK 18 inch handguard",
             "shortName": "CF 18\"",
             "basePrice": 11400,
-            "avg24hPrice": 22949,
+            "avg24hPrice": 22877,
             "low24hPrice": 16000,
             "high24hPrice": 50000
         },
@@ -37657,7 +37657,7 @@
             "name": "AK-12 L.A.C. Akvilon-15 handguard",
             "shortName": "Akvilon-15",
             "basePrice": 12537,
-            "avg24hPrice": 21258,
+            "avg24hPrice": 20986,
             "low24hPrice": 18000,
             "high24hPrice": 25555
         },
@@ -37666,7 +37666,7 @@
             "name": "AK-12 Tactical Ideas N-4 handguard",
             "shortName": "N-4",
             "basePrice": 9050,
-            "avg24hPrice": 16245,
+            "avg24hPrice": 15748,
             "low24hPrice": 10000,
             "high24hPrice": 66420
         },
@@ -37675,7 +37675,7 @@
             "name": "AK-12 Zenit Sport-12 handguard",
             "shortName": "Sport-12",
             "basePrice": 9340,
-            "avg24hPrice": 21703,
+            "avg24hPrice": 20848,
             "low24hPrice": 10000,
             "high24hPrice": 33333
         },
@@ -37684,7 +37684,7 @@
             "name": "AK-12 Zenit Sport-12 handguard cover",
             "shortName": "Sport-12 cover",
             "basePrice": 2849,
-            "avg24hPrice": 17574,
+            "avg24hPrice": 17232,
             "low24hPrice": 4444,
             "high24hPrice": 33333
         },
@@ -37720,7 +37720,7 @@
             "name": "RPD DS Arms Railed Handguard",
             "shortName": "DSA RPD",
             "basePrice": 6800,
-            "avg24hPrice": 24447,
+            "avg24hPrice": 23099,
             "low24hPrice": 9889,
             "high24hPrice": 49999
         },
@@ -37729,7 +37729,7 @@
             "name": "RPD 7.62x39 DS Arms 370mm barrel",
             "shortName": "RPD 370mm",
             "basePrice": 13382,
-            "avg24hPrice": 16363,
+            "avg24hPrice": 16577,
             "low24hPrice": 13300,
             "high24hPrice": 50000
         },
@@ -37945,7 +37945,7 @@
             "name": "AS VAL NB MOD.4 Kit handguard",
             "shortName": "MOD.4 Kit",
             "basePrice": 9814,
-            "avg24hPrice": 16361,
+            "avg24hPrice": 15536,
             "low24hPrice": 9999,
             "high24hPrice": 21000
         },
@@ -38062,7 +38062,7 @@
             "name": "AS VAL Zenit RK-3 pistol grip",
             "shortName": "RK-3k",
             "basePrice": 11120,
-            "avg24hPrice": 17361,
+            "avg24hPrice": 17654,
             "low24hPrice": 10000,
             "high24hPrice": 140000
         },
@@ -38314,7 +38314,7 @@
             "name": "9A-91 TTS System handguard",
             "shortName": "TTS 9A",
             "basePrice": 7325,
-            "avg24hPrice": 18043,
+            "avg24hPrice": 18019,
             "low24hPrice": 11111,
             "high24hPrice": 20000
         },
@@ -38341,7 +38341,7 @@
             "name": "SR-3M Karden rail handguard",
             "shortName": "SR-3MK",
             "basePrice": 6584,
-            "avg24hPrice": 12960,
+            "avg24hPrice": 12973,
             "low24hPrice": 6500,
             "high24hPrice": 26666
         },
@@ -38368,7 +38368,7 @@
             "name": "Kalashnikov AK-308 7.62x51 assault rifle",
             "shortName": "AK-308",
             "basePrice": 52500,
-            "avg24hPrice": 57290,
+            "avg24hPrice": 57543,
             "low24hPrice": 35000,
             "high24hPrice": 72000
         },
@@ -38395,7 +38395,7 @@
             "name": "AK-308 railed dust cover",
             "shortName": "AK-308 DC",
             "basePrice": 5845,
-            "avg24hPrice": 21823,
+            "avg24hPrice": 21666,
             "low24hPrice": 12000,
             "high24hPrice": 25000
         },
@@ -38539,17 +38539,17 @@
             "name": "6B45 armored rig (General Purpose, EMR)",
             "shortName": "6B45",
             "basePrice": 97708,
-            "avg24hPrice": 109397,
+            "avg24hPrice": 108669,
             "low24hPrice": 91000,
-            "high24hPrice": 125000
+            "high24hPrice": 120000
         },
         {
             "id": "68948aebd8f2b85fb705e2b0",
             "name": "6B45 armored rig (Medic, EMR)",
             "shortName": "6B45",
             "basePrice": 96708,
-            "avg24hPrice": 112255,
-            "low24hPrice": 88888,
+            "avg24hPrice": 112438,
+            "low24hPrice": 96666,
             "high24hPrice": 150000
         },
         {
@@ -38557,16 +38557,16 @@
             "name": "6B45 armored rig (Assault, EMR)",
             "shortName": "6B45",
             "basePrice": 100708,
-            "avg24hPrice": 128783,
+            "avg24hPrice": 128875,
             "low24hPrice": 98888,
-            "high24hPrice": 150000
+            "high24hPrice": 175000
         },
         {
             "id": "6895bb82c4519957df062f82",
             "name": "Radian Weapons Model 1 FA 5.56x45 assault rifle",
             "shortName": "Model 1",
             "basePrice": 26397,
-            "avg24hPrice": 405942,
+            "avg24hPrice": 408686,
             "low24hPrice": 160000,
             "high24hPrice": 1500000
         },
@@ -38575,8 +38575,8 @@
             "name": "AR-15 Radian Model 1 14 inch handguard",
             "shortName": "Radian 14\"",
             "basePrice": 22900,
-            "avg24hPrice": 90666,
-            "low24hPrice": 39999,
+            "avg24hPrice": 91900,
+            "low24hPrice": 43333,
             "high24hPrice": 200000
         },
         {
@@ -38584,7 +38584,7 @@
             "name": "AR-15 Radian Weapons Model 1 5.56x45 upper receiver",
             "shortName": "Model 1",
             "basePrice": 34845,
-            "avg24hPrice": 193470,
+            "avg24hPrice": 193270,
             "low24hPrice": 111111,
             "high24hPrice": 355555
         },
@@ -39007,7 +39007,7 @@
             "name": "Colt M16A1 5.56x45 assault rifle",
             "shortName": "M16A1",
             "basePrice": 17650,
-            "avg24hPrice": 75868,
+            "avg24hPrice": 75438,
             "low24hPrice": 51111,
             "high24hPrice": 250000
         },
@@ -39016,9 +39016,9 @@
             "name": "Colt M16A2 5.56x45 assault rifle",
             "shortName": "M16A2",
             "basePrice": 16950,
-            "avg24hPrice": 60097,
+            "avg24hPrice": 59753,
             "low24hPrice": 44444,
-            "high24hPrice": 299999
+            "high24hPrice": 170000
         },
         {
             "id": "68a63a9522b1e0bd360afe5f",
@@ -39061,7 +39061,7 @@
             "name": "M16A1E1 5.56x45 upper receiver",
             "shortName": "M16A1E1",
             "basePrice": 4417,
-            "avg24hPrice": 5851,
+            "avg24hPrice": 6000,
             "low24hPrice": 5555,
             "high24hPrice": 6000
         },
@@ -39160,9 +39160,9 @@
             "name": "AR-15 KAC M5 RAS lower handguard",
             "shortName": "M5 RAS lower",
             "basePrice": 3120,
-            "avg24hPrice": 26402,
+            "avg24hPrice": 24001,
             "low24hPrice": 11111,
-            "high24hPrice": 49999
+            "high24hPrice": 45555
         },
         {
             "id": "68a63d1522b1e0bd360afe67",
@@ -39602,7 +39602,7 @@
             "shortName": "TKPD DC",
             "basePrice": 5560,
             "avg24hPrice": 6000,
-            "low24hPrice": 4000,
+            "low24hPrice": 6000,
             "high24hPrice": 6000
         },
         {
@@ -40114,7 +40114,7 @@
             "name": "Custom Guns NL545 (DI) 5.45x39 assault rifle",
             "shortName": "NL545 DI",
             "basePrice": 19600,
-            "avg24hPrice": 139572,
+            "avg24hPrice": 139669,
             "low24hPrice": 50000,
             "high24hPrice": 250000
         },
@@ -40123,7 +40123,7 @@
             "name": "NL545 (DI) 5.45x39 upper receiver",
             "shortName": "NL545 DI",
             "basePrice": 18900,
-            "avg24hPrice": 33259,
+            "avg24hPrice": 33042,
             "low24hPrice": 17888,
             "high24hPrice": 50000
         },
@@ -40132,9 +40132,9 @@
             "name": "NL545 (DI) 5.45x39 16.3 inch barrel",
             "shortName": "NL545 DI 16.3\"",
             "basePrice": 31800,
-            "avg24hPrice": 42825,
+            "avg24hPrice": 43214,
             "low24hPrice": 31000,
-            "high24hPrice": 53333
+            "high24hPrice": 55555
         },
         {
             "id": "68c16f15efac701f800dfd36",
@@ -40159,7 +40159,7 @@
             "name": "AR-15 DLG Tactical DLG-138 pistol grip (Black)",
             "shortName": "DLG138",
             "basePrice": 1790,
-            "avg24hPrice": 6652,
+            "avg24hPrice": 6460,
             "low24hPrice": 2057,
             "high24hPrice": 50000
         },
@@ -40168,7 +40168,7 @@
             "name": "AR-15 DLG Tactical DLG-138 pistol grip (FDE)",
             "shortName": "DLG138",
             "basePrice": 1790,
-            "avg24hPrice": 3797,
+            "avg24hPrice": 3570,
             "low24hPrice": 2000,
             "high24hPrice": 19777
         },
@@ -40195,7 +40195,7 @@
             "name": "AR-15 Custom Guns 10.5 inch M-LOK handguard",
             "shortName": "CGNL 10.5\"",
             "basePrice": 15200,
-            "avg24hPrice": 24076,
+            "avg24hPrice": 23737,
             "low24hPrice": 16500,
             "high24hPrice": 50000
         },
@@ -40204,7 +40204,7 @@
             "name": "AR-15 Custom Guns 14 inch M-LOK handguard",
             "shortName": "CGNL 14\"",
             "basePrice": 16300,
-            "avg24hPrice": 21512,
+            "avg24hPrice": 21314,
             "low24hPrice": 15000,
             "high24hPrice": 66666
         },
@@ -40213,7 +40213,7 @@
             "name": "Custom Guns NL545 (GP) 5.45x39 assault rifle",
             "shortName": "NL545 GP",
             "basePrice": 21900,
-            "avg24hPrice": 153460,
+            "avg24hPrice": 152853,
             "low24hPrice": 47777,
             "high24hPrice": 400000
         },
@@ -40231,7 +40231,7 @@
             "name": "NL545 (GP) 5.45x39 16.5 inch barrel",
             "shortName": "NL545 GP 16.5\"",
             "basePrice": 33900,
-            "avg24hPrice": 47034,
+            "avg24hPrice": 47009,
             "low24hPrice": 39000,
             "high24hPrice": 67777
         },
@@ -40240,7 +40240,7 @@
             "name": "NL545 (GP) 5.45x39 11.5 inch barrel",
             "shortName": "NL545 GP 11.5\"",
             "basePrice": 22400,
-            "avg24hPrice": 41964,
+            "avg24hPrice": 41918,
             "low24hPrice": 30000,
             "high24hPrice": 44888
         },
@@ -40258,8 +40258,8 @@
             "name": "NL545 10.5 inch M-LOK handguard (FDE)",
             "shortName": "NL545 10.5\"",
             "basePrice": 15600,
-            "avg24hPrice": 18844,
-            "low24hPrice": 15000,
+            "avg24hPrice": 18908,
+            "low24hPrice": 12222,
             "high24hPrice": 24500
         },
         {
@@ -40276,7 +40276,7 @@
             "name": "AR-15 5.56x45 Centurion Arms Mk12 18 inch barrel",
             "shortName": "Mk12 18\"",
             "basePrice": 37900,
-            "avg24hPrice": 57817,
+            "avg24hPrice": 57903,
             "low24hPrice": 42999,
             "high24hPrice": 84400
         },
@@ -40312,7 +40312,7 @@
             "name": "AR-15 Sierra Precision SPR pistol grip",
             "shortName": "SP SPR",
             "basePrice": 7846,
-            "avg24hPrice": 13625,
+            "avg24hPrice": 13503,
             "low24hPrice": 8888,
             "high24hPrice": 19999
         },
@@ -40321,7 +40321,7 @@
             "name": "AR-15 Precision Reflex GEN III Round Carbon 12 inch handguard",
             "shortName": "Round Carbon",
             "basePrice": 12800,
-            "avg24hPrice": 17417,
+            "avg24hPrice": 17445,
             "low24hPrice": 13000,
             "high24hPrice": 55989
         },
@@ -40330,7 +40330,7 @@
             "name": "AR-15 KAC Free Float Rifle RAS 12 inch handguard",
             "shortName": "FF RAS 12\"",
             "basePrice": 12180,
-            "avg24hPrice": 23292,
+            "avg24hPrice": 23196,
             "low24hPrice": 12222,
             "high24hPrice": 35000
         },
@@ -40438,7 +40438,7 @@
             "name": "AR-15 Precision Reflex GEN III Round Carbon 12 inch handguard (FDE)",
             "shortName": "Round Carbon",
             "basePrice": 12800,
-            "avg24hPrice": 16994,
+            "avg24hPrice": 16941,
             "low24hPrice": 12000,
             "high24hPrice": 19419
         },
@@ -40798,7 +40798,7 @@
             "name": "Radian Weapons Model 1 FA 5.56x45 assault rifle 默认",
             "shortName": "Model 1 默认",
             "basePrice": 168870,
-            "avg24hPrice": 405942,
+            "avg24hPrice": 408686,
             "low24hPrice": 160000,
             "high24hPrice": 1500000
         },
@@ -40897,7 +40897,7 @@
             "name": "AK Zenit RK-3 pistol grip (FDE)",
             "shortName": "RK-3",
             "basePrice": 8120,
-            "avg24hPrice": 17582,
+            "avg24hPrice": 17401,
             "low24hPrice": 11111,
             "high24hPrice": 24444
         },
@@ -40924,7 +40924,7 @@
             "name": "Custom Guns NL545 (GP) 5.45x39 assault rifle Default",
             "shortName": "NL545 GP Default",
             "basePrice": 142510,
-            "avg24hPrice": 153460,
+            "avg24hPrice": 152853,
             "low24hPrice": 47777,
             "high24hPrice": 400000
         },
@@ -40933,7 +40933,7 @@
             "name": "Custom Guns NL545 (DI) 5.45x39 assault rifle Default",
             "shortName": "NL545 DI Default",
             "basePrice": 126842,
-            "avg24hPrice": 139572,
+            "avg24hPrice": 139669,
             "low24hPrice": 50000,
             "high24hPrice": 250000
         },
@@ -40942,7 +40942,7 @@
             "name": "Colt M16A1 5.56x45 assault rifle M16A1E1",
             "shortName": "M16A1 M16A1E1",
             "basePrice": 77976,
-            "avg24hPrice": 75868,
+            "avg24hPrice": 75438,
             "low24hPrice": 51111,
             "high24hPrice": 250000
         },
@@ -40951,9 +40951,9 @@
             "name": "Colt M16A2 5.56x45 assault rifle Default",
             "shortName": "M16A2 Default",
             "basePrice": 80455,
-            "avg24hPrice": 60097,
+            "avg24hPrice": 59753,
             "low24hPrice": 44444,
-            "high24hPrice": 299999
+            "high24hPrice": 170000
         },
         {
             "id": "68d66a305275b8087c0ac98a",
@@ -40996,7 +40996,7 @@
             "name": "Kalashnikov AK-308 7.62x51 assault rifle Default",
             "shortName": "AK-308 Default",
             "basePrice": 93043,
-            "avg24hPrice": 57290,
+            "avg24hPrice": 57543,
             "low24hPrice": 35000,
             "high24hPrice": 72000
         },
@@ -42517,7 +42517,7 @@
             "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle (Taupe)",
             "shortName": "SR-25",
             "basePrice": 24605,
-            "avg24hPrice": 110534,
+            "avg24hPrice": 113354,
             "low24hPrice": 76666,
             "high24hPrice": 499999
         },
@@ -42526,7 +42526,7 @@
             "name": "SR-25 7.62x51 upper receiver (Taupe)",
             "shortName": "SR-25",
             "basePrice": 6800,
-            "avg24hPrice": 14027,
+            "avg24hPrice": 15928,
             "low24hPrice": 7111,
             "high24hPrice": 150000
         },
@@ -42562,7 +42562,7 @@
             "name": "AR-10 KAC URX 3.1 13.5 inch handguard",
             "shortName": "URX3.1 13.5\"",
             "basePrice": 13160,
-            "avg24hPrice": 14760,
+            "avg24hPrice": 14803,
             "low24hPrice": 11111,
             "high24hPrice": 15210
         },
@@ -42598,7 +42598,7 @@
             "name": "AR-10 KAC URX 2 12.5 inch handguard (Taupe)",
             "shortName": "URX2 12.5\"",
             "basePrice": 10249,
-            "avg24hPrice": 16739,
+            "avg24hPrice": 15725,
             "low24hPrice": 9000,
             "high24hPrice": 29999
         },
@@ -42607,7 +42607,7 @@
             "name": "AR-10 KAC URX 3.1 13.5 inch handguard (Taupe)",
             "shortName": "URX3.1 13.5\"",
             "basePrice": 13160,
-            "avg24hPrice": 15478,
+            "avg24hPrice": 15237,
             "low24hPrice": 12222,
             "high24hPrice": 25555
         },
@@ -42805,7 +42805,7 @@
             "name": "Crye Precision JPC Plate Carrier (MultiCam)",
             "shortName": "JPC",
             "basePrice": 110526,
-            "avg24hPrice": 87558,
+            "avg24hPrice": 91381,
             "low24hPrice": 65000,
             "high24hPrice": 250000
         },
@@ -42814,7 +42814,7 @@
             "name": "Tac-Kek JayPC plate carrier (Black)",
             "shortName": "JayPC",
             "basePrice": 65805,
-            "avg24hPrice": 58784,
+            "avg24hPrice": 60863,
             "low24hPrice": 38888,
             "high24hPrice": 77777
         },
@@ -42823,7 +42823,7 @@
             "name": "Tac-Kek JayPC plate carrier (OD Green)",
             "shortName": "JayPC",
             "basePrice": 76017,
-            "avg24hPrice": 65239,
+            "avg24hPrice": 66394,
             "low24hPrice": 35666,
             "high24hPrice": 110000
         },

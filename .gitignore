@@ -6,6 +6,8 @@ __pycache__/
 # custom
 .idea/
 main.exe
+Build/
+_internal/
 # C extensions
 *.so
 
