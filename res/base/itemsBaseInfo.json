@@ -820,7 +820,7 @@
             "name": "FORT Kiver-M 防弹头盔",
             "shortName": "Kiver-M",
             "basePrice": 31121,
-            "avg24hPrice": 34718,
+            "avg24hPrice": 34731,
             "low24hPrice": 27000,
             "high24hPrice": 40000
         },
@@ -847,7 +847,7 @@
             "name": "PACA 软质防弹背心",
             "shortName": "PACA",
             "basePrice": 26263,
-            "avg24hPrice": 29612,
+            "avg24hPrice": 29663,
             "low24hPrice": 25000,
             "high24hPrice": 31000
         },
@@ -1108,7 +1108,7 @@
             "name": "五号电池",
             "shortName": "AA电池",
             "basePrice": 652,
-            "avg24hPrice": 14066,
+            "avg24hPrice": 13944,
             "low24hPrice": 8888,
             "high24hPrice": 16666
         },
@@ -1117,7 +1117,7 @@
             "name": "一号电池",
             "shortName": "D型电池",
             "basePrice": 2207,
-            "avg24hPrice": 13438,
+            "avg24hPrice": 13168,
             "low24hPrice": 5999,
             "high24hPrice": 30000
         },
@@ -1126,7 +1126,7 @@
             "name": "盖革-穆勒计数器",
             "shortName": "盖革计数器",
             "basePrice": 16684,
-            "avg24hPrice": 36484,
+            "avg24hPrice": 36749,
             "low24hPrice": 19999,
             "high24hPrice": 46999
         },
@@ -1144,7 +1144,7 @@
             "name": "Crickent打火机",
             "shortName": "Crickent",
             "basePrice": 1320,
-            "avg24hPrice": 13388,
+            "avg24hPrice": 13066,
             "low24hPrice": 8999,
             "high24hPrice": 28999
         },
@@ -1153,7 +1153,7 @@
             "name": "Zibbo打火机",
             "shortName": "Zibbo",
             "basePrice": 9617,
-            "avg24hPrice": 19545,
+            "avg24hPrice": 20007,
             "low24hPrice": 11999,
             "high24hPrice": 29887
         },
@@ -1162,7 +1162,7 @@
             "name": "损坏的GPhone",
             "shortName": "GPhone",
             "basePrice": 18682,
-            "avg24hPrice": 13442,
+            "avg24hPrice": 13311,
             "low24hPrice": 11400,
             "high24hPrice": 33500
         },
@@ -1666,7 +1666,7 @@
             "name": "棒球帽",
             "shortName": "帽",
             "basePrice": 1021,
-            "avg24hPrice": 13301,
+            "avg24hPrice": 13213,
             "low24hPrice": 7700,
             "high24hPrice": 14444
         },
@@ -1675,7 +1675,7 @@
             "name": "巴拉克拉瓦头套",
             "shortName": "巴拉克拉瓦",
             "basePrice": 2589,
-            "avg24hPrice": 9083,
+            "avg24hPrice": 9065,
             "low24hPrice": 2345,
             "high24hPrice": 28000
         },
@@ -1693,7 +1693,7 @@
             "name": "半面巾",
             "shortName": "面巾",
             "basePrice": 2614,
-            "avg24hPrice": 9629,
+            "avg24hPrice": 9580,
             "low24hPrice": 8000,
             "high24hPrice": 20000
         },
@@ -1711,7 +1711,7 @@
             "name": "汽车蓄电池",
             "shortName": "蓄电池",
             "basePrice": 61563,
-            "avg24hPrice": 48660,
+            "avg24hPrice": 49271,
             "low24hPrice": 32949,
             "high24hPrice": 74909
         },
@@ -1720,7 +1720,7 @@
             "name": "项链",
             "shortName": "项链",
             "basePrice": 7235,
-            "avg24hPrice": 6166,
+            "avg24hPrice": 6270,
             "low24hPrice": 4000,
             "high24hPrice": 13999
         },
@@ -1729,17 +1729,17 @@
             "name": "金项链",
             "shortName": "金链",
             "basePrice": 38177,
-            "avg24hPrice": 29210,
-            "low24hPrice": 20000,
-            "high24hPrice": 33999
+            "avg24hPrice": 29683,
+            "low24hPrice": 23333,
+            "high24hPrice": 34000
         },
         {
             "id": "573475fb24597737fb1379e1",
             "name": "阿波伦联盟香烟 ",
             "shortName": "香烟",
             "basePrice": 2500,
-            "avg24hPrice": 13917,
-            "low24hPrice": 9000,
+            "avg24hPrice": 14220,
+            "low24hPrice": 9999,
             "high24hPrice": 18900
         },
         {
@@ -1747,7 +1747,7 @@
             "name": "马宝路香烟",
             "shortName": "香烟",
             "basePrice": 2210,
-            "avg24hPrice": 15076,
+            "avg24hPrice": 15081,
             "low24hPrice": 7000,
             "high24hPrice": 97444
         },
@@ -1756,7 +1756,7 @@
             "name": "云尔斯顿香烟",
             "shortName": "香烟",
             "basePrice": 7984,
-            "avg24hPrice": 8210,
+            "avg24hPrice": 8235,
             "low24hPrice": 5444,
             "high24hPrice": 33233
         },
@@ -1765,7 +1765,7 @@
             "name": "无彩香烟",
             "shortName": "香烟",
             "basePrice": 3120,
-            "avg24hPrice": 6153,
+            "avg24hPrice": 6315,
             "low24hPrice": 2000,
             "high24hPrice": 11111
         },
@@ -1783,16 +1783,16 @@
             "name": "CPU风扇",
             "shortName": "CPU风扇",
             "basePrice": 4670,
-            "avg24hPrice": 18735,
+            "avg24hPrice": 19270,
             "low24hPrice": 9990,
-            "high24hPrice": 23199
+            "high24hPrice": 23200
         },
         {
             "id": "573477e124597737dd42e191",
             "name": "电脑CPU",
             "shortName": "CPU",
             "basePrice": 13914,
-            "avg24hPrice": 13302,
+            "avg24hPrice": 13295,
             "low24hPrice": 6455,
             "high24hPrice": 29999
         },
@@ -1801,7 +1801,7 @@
             "name": "DVD光驱",
             "shortName": "DVD",
             "basePrice": 8295,
-            "avg24hPrice": 15488,
+            "avg24hPrice": 15709,
             "low24hPrice": 9000,
             "high24hPrice": 100000
         },
@@ -1810,7 +1810,7 @@
             "name": "马雕像",
             "shortName": "马雕",
             "basePrice": 11448,
-            "avg24hPrice": 8359,
+            "avg24hPrice": 8358,
             "low24hPrice": 6500,
             "high24hPrice": 44000
         },
@@ -1819,16 +1819,16 @@
             "name": "绝缘胶带",
             "shortName": "胶带",
             "basePrice": 2019,
-            "avg24hPrice": 18045,
+            "avg24hPrice": 18438,
             "low24hPrice": 6666,
-            "high24hPrice": 22333
+            "high24hPrice": 24444
         },
         {
             "id": "57347b8b24597737dd42e192",
             "name": "经典火柴",
             "shortName": "火柴",
             "basePrice": 2020,
-            "avg24hPrice": 20519,
+            "avg24hPrice": 20768,
             "low24hPrice": 15000,
             "high24hPrice": 30999
         },
@@ -1837,7 +1837,7 @@
             "name": "内存条",
             "shortName": "内存",
             "basePrice": 139000,
-            "avg24hPrice": 105204,
+            "avg24hPrice": 105519,
             "low24hPrice": 88000,
             "high24hPrice": 110000
         },
@@ -1846,7 +1846,7 @@
             "name": "管道胶带",
             "shortName": "管道胶带",
             "basePrice": 2499,
-            "avg24hPrice": 18932,
+            "avg24hPrice": 19209,
             "low24hPrice": 12554,
             "high24hPrice": 24111
         },
@@ -1855,7 +1855,7 @@
             "name": "供电单元",
             "shortName": "PSU",
             "basePrice": 7936,
-            "avg24hPrice": 40496,
+            "avg24hPrice": 42277,
             "low24hPrice": 23333,
             "high24hPrice": 59719
         },
@@ -1864,7 +1864,7 @@
             "name": "螺栓",
             "shortName": "螺栓",
             "basePrice": 11000,
-            "avg24hPrice": 21205,
+            "avg24hPrice": 21460,
             "low24hPrice": 15000,
             "high24hPrice": 22888
         },
@@ -1873,16 +1873,16 @@
             "name": "螺母",
             "shortName": "螺母",
             "basePrice": 8700,
-            "avg24hPrice": 15299,
+            "avg24hPrice": 15575,
             "low24hPrice": 9000,
-            "high24hPrice": 17431
+            "high24hPrice": 17467
         },
         {
             "id": "57347c93245977448d35f6e3",
             "name": "牙膏",
             "shortName": "牙膏",
             "basePrice": 1927,
-            "avg24hPrice": 15668,
+            "avg24hPrice": 16341,
             "low24hPrice": 4888,
             "high24hPrice": 25999
         },
@@ -1891,8 +1891,8 @@
             "name": "显示卡",
             "shortName": "显卡",
             "basePrice": 198000,
-            "avg24hPrice": 416296,
-            "low24hPrice": 380000,
+            "avg24hPrice": 414925,
+            "low24hPrice": 376666,
             "high24hPrice": 440000
         },
         {
@@ -1900,7 +1900,7 @@
             "name": "T形插座",
             "shortName": "T-Plug",
             "basePrice": 2481,
-            "avg24hPrice": 18469,
+            "avg24hPrice": 19038,
             "low24hPrice": 11000,
             "high24hPrice": 89000
         },
@@ -2836,7 +2836,7 @@
             "name": "打印纸",
             "shortName": "纸",
             "basePrice": 2337,
-            "avg24hPrice": 47935,
+            "avg24hPrice": 46572,
             "low24hPrice": 29999,
             "high24hPrice": 68988
         },
@@ -4456,16 +4456,16 @@
             "name": "USB适配器",
             "shortName": "USB-A",
             "basePrice": 1737,
-            "avg24hPrice": 10615,
+            "avg24hPrice": 10968,
             "low24hPrice": 5000,
-            "high24hPrice": 15550
+            "high24hPrice": 85000
         },
         {
             "id": "590a358486f77429692b2790",
             "name": "可充电电池",
             "shortName": "充电电池",
             "basePrice": 17035,
-            "avg24hPrice": 11389,
+            "avg24hPrice": 11303,
             "low24hPrice": 10000,
             "high24hPrice": 16888
         },
@@ -4474,7 +4474,7 @@
             "name": "固体燃料",
             "shortName": "固体燃料",
             "basePrice": 42175,
-            "avg24hPrice": 27365,
+            "avg24hPrice": 27426,
             "low24hPrice": 26444,
             "high24hPrice": 35950
         },
@@ -4483,7 +4483,7 @@
             "name": "损坏的硬盘",
             "shortName": "HDD",
             "basePrice": 7491,
-            "avg24hPrice": 25296,
+            "avg24hPrice": 24940,
             "low24hPrice": 16666,
             "high24hPrice": 29999
         },
@@ -4492,7 +4492,7 @@
             "name": "电磁铁",
             "shortName": "磁铁",
             "basePrice": 12713,
-            "avg24hPrice": 20603,
+            "avg24hPrice": 20961,
             "low24hPrice": 13999,
             "high24hPrice": 64645
         },
@@ -4501,7 +4501,7 @@
             "name": "印制电路板",
             "shortName": "电路板",
             "basePrice": 12749,
-            "avg24hPrice": 14146,
+            "avg24hPrice": 14261,
             "low24hPrice": 10000,
             "high24hPrice": 19995
         },
@@ -4510,8 +4510,8 @@
             "name": "火花塞",
             "shortName": "火花塞",
             "basePrice": 10989,
-            "avg24hPrice": 8450,
-            "low24hPrice": 6000,
+            "avg24hPrice": 8331,
+            "low24hPrice": 5676,
             "high24hPrice": 11856
         },
         {
@@ -4519,7 +4519,7 @@
             "name": "节能灯泡",
             "shortName": "节能灯",
             "basePrice": 10822,
-            "avg24hPrice": 22838,
+            "avg24hPrice": 23188,
             "low24hPrice": 17750,
             "high24hPrice": 27777
         },
@@ -4528,7 +4528,7 @@
             "name": "紫外线灯泡",
             "shortName": "紫外线灯泡",
             "basePrice": 15554,
-            "avg24hPrice": 10604,
+            "avg24hPrice": 10533,
             "low24hPrice": 8000,
             "high24hPrice": 12000
         },
@@ -4537,7 +4537,7 @@
             "name": "气体分析仪",
             "shortName": "分析仪",
             "basePrice": 21697,
-            "avg24hPrice": 24966,
+            "avg24hPrice": 24865,
             "low24hPrice": 18999,
             "high24hPrice": 49999
         },
@@ -4546,16 +4546,16 @@
             "name": "钳子",
             "shortName": "钳子",
             "basePrice": 8000,
-            "avg24hPrice": 19079,
+            "avg24hPrice": 19364,
             "low24hPrice": 9000,
-            "high24hPrice": 128000
+            "high24hPrice": 32555
         },
         {
             "id": "590c2c9c86f774245b1f03f2",
             "name": "施工用测量卷尺",
             "shortName": "测量卷尺",
             "basePrice": 3769,
-            "avg24hPrice": 9944,
+            "avg24hPrice": 10007,
             "low24hPrice": 5333,
             "high24hPrice": 22222
         },
@@ -4564,7 +4564,7 @@
             "name": "螺丝刀",
             "shortName": "螺丝刀",
             "basePrice": 3500,
-            "avg24hPrice": 18614,
+            "avg24hPrice": 20910,
             "low24hPrice": 10000,
             "high24hPrice": 41000
         },
@@ -4573,8 +4573,8 @@
             "name": "一套工具",
             "shortName": "工具",
             "basePrice": 31000,
-            "avg24hPrice": 27665,
-            "low24hPrice": 17777,
+            "avg24hPrice": 26685,
+            "low24hPrice": 17697,
             "high24hPrice": 40420
         },
         {
@@ -4582,25 +4582,25 @@
             "name": "扳手",
             "shortName": "扳手",
             "basePrice": 3544,
-            "avg24hPrice": 14366,
+            "avg24hPrice": 14557,
             "low24hPrice": 7777,
-            "high24hPrice": 150000
+            "high24hPrice": 195000
         },
         {
             "id": "590c31c586f774245e3141b2",
             "name": "一包钉子",
             "shortName": "钉子",
             "basePrice": 4105,
-            "avg24hPrice": 14724,
+            "avg24hPrice": 15147,
             "low24hPrice": 7777,
-            "high24hPrice": 17000
+            "high24hPrice": 17300
         },
         {
             "id": "590c346786f77423e50ed342",
             "name": "Xenomorph发泡密封胶",
             "shortName": "Xeno",
             "basePrice": 33778,
-            "avg24hPrice": 34167,
+            "avg24hPrice": 34462,
             "low24hPrice": 22211,
             "high24hPrice": 41699
         },
@@ -4609,7 +4609,7 @@
             "name": "Shustrilo发泡密封胶",
             "shortName": "Shus",
             "basePrice": 35502,
-            "avg24hPrice": 42847,
+            "avg24hPrice": 42197,
             "low24hPrice": 31111,
             "high24hPrice": 58950
         },
@@ -4636,7 +4636,7 @@
             "name": "防毒面具滤罐",
             "shortName": "滤罐",
             "basePrice": 10039,
-            "avg24hPrice": 42041,
+            "avg24hPrice": 42453,
             "low24hPrice": 32000,
             "high24hPrice": 50000
         },
@@ -4645,8 +4645,8 @@
             "name": "“Kite”火药",
             "shortName": "火药",
             "basePrice": 14000,
-            "avg24hPrice": 12744,
-            "low24hPrice": 9999,
+            "avg24hPrice": 12729,
+            "low24hPrice": 11111,
             "high24hPrice": 15572
         },
         {
@@ -4654,16 +4654,16 @@
             "name": "100毫升WD-40",
             "shortName": "WD-40",
             "basePrice": 6958,
-            "avg24hPrice": 6908,
+            "avg24hPrice": 7088,
             "low24hPrice": 3333,
-            "high24hPrice": 10000
+            "high24hPrice": 44444
         },
         {
             "id": "590c5c9f86f77477c91c36e7",
             "name": "400毫升WD-40",
             "shortName": "WD-40",
             "basePrice": 17261,
-            "avg24hPrice": 13954,
+            "avg24hPrice": 13827,
             "low24hPrice": 9000,
             "high24hPrice": 30000
         },
@@ -4780,16 +4780,16 @@
             "name": "古董茶壶",
             "shortName": "茶壶",
             "basePrice": 46900,
-            "avg24hPrice": 33396,
+            "avg24hPrice": 33370,
             "low24hPrice": 27000,
-            "high24hPrice": 75000
+            "high24hPrice": 80000
         },
         {
             "id": "590de7e986f7741b096e5f32",
             "name": "古董花瓶",
             "shortName": "花瓶",
             "basePrice": 67800,
-            "avg24hPrice": 42967,
+            "avg24hPrice": 42976,
             "low24hPrice": 30000,
             "high24hPrice": 54725
         },
@@ -5761,7 +5761,7 @@
             "name": "Ox漂白剂",
             "shortName": "漂白剂",
             "basePrice": 5988,
-            "avg24hPrice": 18027,
+            "avg24hPrice": 17841,
             "low24hPrice": 12000,
             "high24hPrice": 19997
         },
@@ -5779,7 +5779,7 @@
             "name": "Clin 玻璃清洁剂",
             "shortName": "清洁剂",
             "basePrice": 7118,
-            "avg24hPrice": 24918,
+            "avg24hPrice": 24947,
             "low24hPrice": 15500,
             "high24hPrice": 150000
         },
@@ -5788,7 +5788,7 @@
             "name": "Paid杀蟑剂",
             "shortName": "Paid",
             "basePrice": 5892,
-            "avg24hPrice": 22538,
+            "avg24hPrice": 22413,
             "low24hPrice": 16999,
             "high24hPrice": 189999
         },
@@ -5797,7 +5797,7 @@
             "name": "碳酸氢钠",
             "shortName": "小苏打",
             "basePrice": 6347,
-            "avg24hPrice": 19943,
+            "avg24hPrice": 19575,
             "low24hPrice": 13333,
             "high24hPrice": 28888
         },
@@ -5806,16 +5806,16 @@
             "name": "波纹软管",
             "shortName": "软管",
             "basePrice": 9523,
-            "avg24hPrice": 32934,
+            "avg24hPrice": 33246,
             "low24hPrice": 19999,
-            "high24hPrice": 34998
+            "high24hPrice": 34999
         },
         {
             "id": "59e35de086f7741778269d84",
             "name": "电钻",
             "shortName": "电钻",
             "basePrice": 32943,
-            "avg24hPrice": 20972,
+            "avg24hPrice": 20981,
             "low24hPrice": 18799,
             "high24hPrice": 29308
         },
@@ -5824,8 +5824,8 @@
             "name": "一包螺钉",
             "shortName": "螺钉",
             "basePrice": 3140,
-            "avg24hPrice": 12906,
-            "low24hPrice": 7500,
+            "avg24hPrice": 12516,
+            "low24hPrice": 7000,
             "high24hPrice": 15555
         },
         {
@@ -5833,7 +5833,7 @@
             "name": "盐水溶液",
             "shortName": "NaCl",
             "basePrice": 8508,
-            "avg24hPrice": 38846,
+            "avg24hPrice": 39797,
             "low24hPrice": 22000,
             "high24hPrice": 270000
         },
@@ -5842,7 +5842,7 @@
             "name": "过氧化氢溶液（双氧水）",
             "shortName": "H2O2",
             "basePrice": 12168,
-            "avg24hPrice": 10941,
+            "avg24hPrice": 11124,
             "low24hPrice": 8000,
             "high24hPrice": 15444
         },
@@ -5851,7 +5851,7 @@
             "name": "青铜狮雕",
             "shortName": "狮雕",
             "basePrice": 162935,
-            "avg24hPrice": 105303,
+            "avg24hPrice": 104878,
             "low24hPrice": 100000,
             "high24hPrice": 200420
         },
@@ -5860,7 +5860,7 @@
             "name": "木头钟",
             "shortName": "钟",
             "basePrice": 83316,
-            "avg24hPrice": 57975,
+            "avg24hPrice": 58016,
             "low24hPrice": 49888,
             "high24hPrice": 67999
         },
@@ -5869,7 +5869,7 @@
             "name": "猫雕像",
             "shortName": "猫雕",
             "basePrice": 62308,
-            "avg24hPrice": 39285,
+            "avg24hPrice": 39280,
             "low24hPrice": 29999,
             "high24hPrice": 42000
         },
@@ -5878,8 +5878,8 @@
             "name": "有机玻璃片",
             "shortName": "有机玻璃",
             "basePrice": 8658,
-            "avg24hPrice": 20153,
-            "low24hPrice": 14999,
+            "avg24hPrice": 20053,
+            "low24hPrice": 14000,
             "high24hPrice": 24420
         },
         {
@@ -5887,7 +5887,7 @@
             "name": "电源线",
             "shortName": "电源线",
             "basePrice": 12623,
-            "avg24hPrice": 27238,
+            "avg24hPrice": 27464,
             "low24hPrice": 21000,
             "high24hPrice": 31500
         },
@@ -6103,7 +6103,7 @@
             "name": "BNTI Module-3M 防弹背心",
             "shortName": "Module-3M",
             "basePrice": 21453,
-            "avg24hPrice": 21952,
+            "avg24hPrice": 22241,
             "low24hPrice": 15000,
             "high24hPrice": 25252
         },
@@ -6130,7 +6130,7 @@
             "name": "带耳罩的苏联毛帽",
             "shortName": "苏联毛帽",
             "basePrice": 5013,
-            "avg24hPrice": 11125,
+            "avg24hPrice": 11165,
             "low24hPrice": 7555,
             "high24hPrice": 15000
         },
@@ -6139,7 +6139,7 @@
             "name": "防破片护目镜",
             "shortName": "AF目镜",
             "basePrice": 2181,
-            "avg24hPrice": 17687,
+            "avg24hPrice": 17691,
             "low24hPrice": 10000,
             "high24hPrice": 22222
         },
@@ -6166,7 +6166,7 @@
             "name": "防毒面罩",
             "shortName": "防毒",
             "basePrice": 1786,
-            "avg24hPrice": 10787,
+            "avg24hPrice": 10711,
             "low24hPrice": 6666,
             "high24hPrice": 55111
         },
@@ -6355,7 +6355,7 @@
             "name": "劳力土潜水金腕表",
             "shortName": "劳力土",
             "basePrice": 71049,
-            "avg24hPrice": 50736,
+            "avg24hPrice": 50784,
             "low24hPrice": 40670,
             "high24hPrice": 76999
         },
@@ -6364,7 +6364,7 @@
             "name": "碱性换热器表面洗涤剂",
             "shortName": "碱",
             "basePrice": 8457,
-            "avg24hPrice": 10522,
+            "avg24hPrice": 10414,
             "low24hPrice": 6000,
             "high24hPrice": 15111
         },
@@ -6373,7 +6373,7 @@
             "name": "5升丙烷罐",
             "shortName": "丙烷",
             "basePrice": 12646,
-            "avg24hPrice": 33778,
+            "avg24hPrice": 34119,
             "low24hPrice": 27000,
             "high24hPrice": 44799
         },
@@ -7093,7 +7093,7 @@
             "name": "Wilcox Skull Lock头罩基座",
             "shortName": "SLock",
             "basePrice": 19724,
-            "avg24hPrice": 13592,
+            "avg24hPrice": 13444,
             "low24hPrice": 11000,
             "high24hPrice": 70000
         },
@@ -7615,7 +7615,7 @@
             "name": "森林爷爷帽",
             "shortName": "帽",
             "basePrice": 500,
-            "avg24hPrice": 10480,
+            "avg24hPrice": 10299,
             "low24hPrice": 3999,
             "high24hPrice": 23000
         },
@@ -7624,7 +7624,7 @@
             "name": "圣诞老人帽",
             "shortName": "帽",
             "basePrice": 500,
-            "avg24hPrice": 16379,
+            "avg24hPrice": 16292,
             "low24hPrice": 4000,
             "high24hPrice": 50000
         },
@@ -8569,8 +8569,8 @@
             "name": "USEC 棒球帽（灰褐色）",
             "shortName": "USEC",
             "basePrice": 1642,
-            "avg24hPrice": 10766,
-            "low24hPrice": 100,
+            "avg24hPrice": 10985,
+            "low24hPrice": 1111,
             "high24hPrice": 12322
         },
         {
@@ -8596,7 +8596,7 @@
             "name": "警帽",
             "shortName": "警帽",
             "basePrice": 1505,
-            "avg24hPrice": 13175,
+            "avg24hPrice": 12962,
             "low24hPrice": 4999,
             "high24hPrice": 39999
         },
@@ -8605,7 +8605,7 @@
             "name": "圆框太阳镜",
             "shortName": "圆框",
             "basePrice": 3084,
-            "avg24hPrice": 16575,
+            "avg24hPrice": 17332,
             "low24hPrice": 9869,
             "high24hPrice": 57000
         },
@@ -8623,7 +8623,7 @@
             "name": "Raybench Hipster Reserve太阳镜",
             "shortName": "雷硼",
             "basePrice": 3580,
-            "avg24hPrice": 19601,
+            "avg24hPrice": 19499,
             "low24hPrice": 12222,
             "high24hPrice": 39900
         },
@@ -8632,9 +8632,9 @@
             "name": "Kinda牛仔帽",
             "shortName": "牛仔帽",
             "basePrice": 19513,
-            "avg24hPrice": 30306,
+            "avg24hPrice": 30256,
             "low24hPrice": 17999,
-            "high24hPrice": 51111
+            "high24hPrice": 35999
         },
         {
             "id": "5aa2ba19e5b5b00014028f4e",
@@ -8650,7 +8650,7 @@
             "name": "UX PRO无檐小便帽",
             "shortName": "UXPRO",
             "basePrice": 2043,
-            "avg24hPrice": 10353,
+            "avg24hPrice": 11001,
             "low24hPrice": 5900,
             "high24hPrice": 22222
         },
@@ -8695,7 +8695,7 @@
             "name": "6B47 Ratnik-BSh 头盔（数码迷彩盔罩）",
             "shortName": "6B47",
             "basePrice": 35410,
-            "avg24hPrice": 39547,
+            "avg24hPrice": 39690,
             "low24hPrice": 33333,
             "high24hPrice": 45000
         },
@@ -8704,8 +8704,8 @@
             "name": "UNTAR头盔",
             "shortName": "UNTAR",
             "basePrice": 28333,
-            "avg24hPrice": 34336,
-            "low24hPrice": 23000,
+            "avg24hPrice": 35641,
+            "low24hPrice": 27888,
             "high24hPrice": 45555
         },
         {
@@ -8713,7 +8713,7 @@
             "name": "SSSh-94 SFERA-S 头盔",
             "shortName": "SFERA-S",
             "basePrice": 31999,
-            "avg24hPrice": 24342,
+            "avg24hPrice": 24015,
             "low24hPrice": 18888,
             "high24hPrice": 30000
         },
@@ -8749,7 +8749,7 @@
             "name": "ZSh-1-2M头盔",
             "shortName": "ZSh-1-2M",
             "basePrice": 48929,
-            "avg24hPrice": 41713,
+            "avg24hPrice": 40977,
             "low24hPrice": 30000,
             "high24hPrice": 70000
         },
@@ -8758,7 +8758,7 @@
             "name": "ZSh-1-2M 头盔（Black）",
             "shortName": "ZSh-1-2M",
             "basePrice": 44599,
-            "avg24hPrice": 36527,
+            "avg24hPrice": 36068,
             "low24hPrice": 20000,
             "high24hPrice": 55000
         },
@@ -8920,8 +8920,8 @@
             "name": "MF-UNTAR防弹背心",
             "shortName": "MF-UN",
             "basePrice": 34225,
-            "avg24hPrice": 50984,
-            "low24hPrice": 29999,
+            "avg24hPrice": 51660,
+            "low24hPrice": 36777,
             "high24hPrice": 88886
         },
         {
@@ -8929,7 +8929,7 @@
             "name": "BNTI Gzhel-K 防弹衣",
             "shortName": "Gzhel-K",
             "basePrice": 74098,
-            "avg24hPrice": 102461,
+            "avg24hPrice": 104384,
             "low24hPrice": 95555,
             "high24hPrice": 1000000
         },
@@ -8974,7 +8974,7 @@
             "name": "带眼洞滑雪头套",
             "shortName": "滑雪头套",
             "basePrice": 5556,
-            "avg24hPrice": 4510,
+            "avg24hPrice": 4574,
             "low24hPrice": 3000,
             "high24hPrice": 9000
         },
@@ -8983,7 +8983,7 @@
             "name": "Cold Fear 隔热巴拉克拉瓦头套",
             "shortName": "CF",
             "basePrice": 3454,
-            "avg24hPrice": 10120,
+            "avg24hPrice": 10034,
             "low24hPrice": 4700,
             "high24hPrice": 79999
         },
@@ -8992,7 +8992,7 @@
             "name": "幽灵头套",
             "shortName": "幽灵",
             "basePrice": 6788,
-            "avg24hPrice": 15822,
+            "avg24hPrice": 16332,
             "low24hPrice": 7425,
             "high24hPrice": 25000
         },
@@ -9001,7 +9001,7 @@
             "name": "提花头巾（绿色）",
             "shortName": "提花",
             "basePrice": 4258,
-            "avg24hPrice": 12277,
+            "avg24hPrice": 12095,
             "low24hPrice": 5554,
             "high24hPrice": 20950
         },
@@ -9784,7 +9784,7 @@
             "name": "Elite钳子",
             "shortName": "钳子",
             "basePrice": 29000,
-            "avg24hPrice": 18787,
+            "avg24hPrice": 18829,
             "low24hPrice": 18000,
             "high24hPrice": 20000
         },
@@ -9793,7 +9793,7 @@
             "name": "检眼镜",
             "shortName": "检眼镜",
             "basePrice": 84912,
-            "avg24hPrice": 64733,
+            "avg24hPrice": 64815,
             "low24hPrice": 50000,
             "high24hPrice": 74499
         },
@@ -9811,7 +9811,7 @@
             "name": "充电宝",
             "shortName": "充电宝",
             "basePrice": 20391,
-            "avg24hPrice": 28518,
+            "avg24hPrice": 28656,
             "low24hPrice": 19000,
             "high24hPrice": 38888
         },
@@ -10405,7 +10405,7 @@
             "name": "HighCom Striker ULACH IIIA 头盔（黑色）",
             "shortName": "ULACH",
             "basePrice": 93579,
-            "avg24hPrice": 106610,
+            "avg24hPrice": 106681,
             "low24hPrice": 86666,
             "high24hPrice": 145000
         },
@@ -10414,8 +10414,8 @@
             "name": "HighCom Striker ULACH IIIA 头盔（沙漠黄）",
             "shortName": "ULACH",
             "basePrice": 87426,
-            "avg24hPrice": 81725,
-            "low24hPrice": 62202,
+            "avg24hPrice": 82397,
+            "low24hPrice": 66000,
             "high24hPrice": 95666
         },
         {
@@ -10423,7 +10423,7 @@
             "name": "HighCom Striker ACHHC IIIA 头盔（黑色）",
             "shortName": "ACHHC",
             "basePrice": 52160,
-            "avg24hPrice": 62944,
+            "avg24hPrice": 63046,
             "low24hPrice": 46000,
             "high24hPrice": 75999
         },
@@ -10432,7 +10432,7 @@
             "name": "HighCom Striker ACHHC IIIA 头盔（橄榄绿）",
             "shortName": "ACHHC",
             "basePrice": 53040,
-            "avg24hPrice": 51616,
+            "avg24hPrice": 51338,
             "low24hPrice": 45000,
             "high24hPrice": 58811
         },
@@ -10459,7 +10459,7 @@
             "name": "提花头巾（黄褐色）",
             "shortName": "提花头巾",
             "basePrice": 4040,
-            "avg24hPrice": 8814,
+            "avg24hPrice": 8625,
             "low24hPrice": 5000,
             "high24hPrice": 10999
         },
@@ -10468,8 +10468,8 @@
             "name": "氯丁橡胶面具",
             "shortName": "面具",
             "basePrice": 5244,
-            "avg24hPrice": 7465,
-            "low24hPrice": 2000,
+            "avg24hPrice": 7261,
+            "low24hPrice": 3000,
             "high24hPrice": 23000
         },
         {
@@ -10478,15 +10478,15 @@
             "shortName": "头巾",
             "basePrice": 1995,
             "avg24hPrice": 888,
-            "low24hPrice": 888,
-            "high24hPrice": 888
+            "low24hPrice": null,
+            "high24hPrice": null
         },
         {
             "id": "5b4327aa5acfc400175496e0",
             "name": "军用科技奔尼帽",
             "shortName": "奔尼帽",
             "basePrice": 2170,
-            "avg24hPrice": 3660,
+            "avg24hPrice": 3395,
             "low24hPrice": 1999,
             "high24hPrice": 14000
         },
@@ -10495,7 +10495,7 @@
             "name": "绒球毛线帽",
             "shortName": "绒球帽",
             "basePrice": 4560,
-            "avg24hPrice": 11816,
+            "avg24hPrice": 11904,
             "low24hPrice": 8500,
             "high24hPrice": 20000
         },
@@ -10504,7 +10504,7 @@
             "name": "DevTac浪人面罩",
             "shortName": "浪人面罩",
             "basePrice": 69442,
-            "avg24hPrice": 194621,
+            "avg24hPrice": 196633,
             "low24hPrice": 150000,
             "high24hPrice": 500000
         },
@@ -10513,18 +10513,18 @@
             "name": "轻型加固破碎面具",
             "shortName": "破碎面具",
             "basePrice": 7500,
-            "avg24hPrice": 26404,
+            "avg24hPrice": 25508,
             "low24hPrice": 7999,
-            "high24hPrice": 37999
+            "high24hPrice": 36000
         },
         {
             "id": "5b432b6c5acfc4001a599bf0",
             "name": "恐怖骷髅面具",
             "shortName": "骷髅",
             "basePrice": 6211,
-            "avg24hPrice": 14980,
-            "low24hPrice": 3900,
-            "high24hPrice": 99009
+            "avg24hPrice": 15306,
+            "low24hPrice": 5900,
+            "high24hPrice": 75555
         },
         {
             "id": "5b432b965acfc47a8774094e",
@@ -10549,25 +10549,25 @@
             "name": "GP-5防毒面具",
             "shortName": "GP-5",
             "basePrice": 6386,
-            "avg24hPrice": 9270,
+            "avg24hPrice": 9068,
             "low24hPrice": 4600,
-            "high24hPrice": 15500
+            "high24hPrice": 13333
         },
         {
             "id": "5b432d215acfc4771e1c6624",
             "name": "LZSh 轻型头盔（橄榄绿）",
             "shortName": "LZSh",
             "basePrice": 32145,
-            "avg24hPrice": 28474,
+            "avg24hPrice": 27973,
             "low24hPrice": 18888,
-            "high24hPrice": 43000
+            "high24hPrice": 40000
         },
         {
             "id": "5b432f3d5acfc4704b4a1dfb",
             "name": "Momex巴拉克拉瓦头套",
             "shortName": "Momex",
             "basePrice": 3211,
-            "avg24hPrice": 10749,
+            "avg24hPrice": 11175,
             "low24hPrice": 3500,
             "high24hPrice": 18997
         },
@@ -10576,7 +10576,7 @@
             "name": "医用输血工具",
             "shortName": "输血工具",
             "basePrice": 9765,
-            "avg24hPrice": 11601,
+            "avg24hPrice": 11572,
             "low24hPrice": 6111,
             "high24hPrice": 14000
         },
@@ -10585,7 +10585,7 @@
             "name": "燃油添加剂",
             "shortName": "燃油添加剂",
             "basePrice": 60604,
-            "avg24hPrice": 39678,
+            "avg24hPrice": 39535,
             "low24hPrice": 35555,
             "high24hPrice": 44000
         },
@@ -10657,7 +10657,7 @@
             "name": "IOTV Gen4 防弹衣（全面防护型，复合迷彩）",
             "shortName": "Gen4全防护",
             "basePrice": 100483,
-            "avg24hPrice": 98248,
+            "avg24hPrice": 102496,
             "low24hPrice": 74999,
             "high24hPrice": 375000
         },
@@ -10666,7 +10666,7 @@
             "name": "IOTV Gen4 防弹衣（突击型，复合迷彩）",
             "shortName": "Gen4突击型",
             "basePrice": 86681,
-            "avg24hPrice": 81551,
+            "avg24hPrice": 85516,
             "low24hPrice": 59900,
             "high24hPrice": 200000
         },
@@ -10675,8 +10675,8 @@
             "name": "IOTV Gen4 防弹衣（高机动型，复合迷彩）",
             "shortName": "Gen4高机动型",
             "basePrice": 83289,
-            "avg24hPrice": 64765,
-            "low24hPrice": 48888,
+            "avg24hPrice": 67369,
+            "low24hPrice": 49999,
             "high24hPrice": 144444
         },
         {
@@ -10684,7 +10684,7 @@
             "name": "BNTI Kirasa-N 防弹衣",
             "shortName": "Kirasa-N",
             "basePrice": 20740,
-            "avg24hPrice": 44383,
+            "avg24hPrice": 43655,
             "low24hPrice": 31420,
             "high24hPrice": 100000
         },
@@ -11566,7 +11566,7 @@
             "name": "金色1GPhone",
             "shortName": "1GPhone",
             "basePrice": 44639,
-            "avg24hPrice": 28441,
+            "avg24hPrice": 28432,
             "low24hPrice": 28200,
             "high24hPrice": 30000
         },
@@ -11584,7 +11584,7 @@
             "name": "金公鸡",
             "shortName": "金鸡",
             "basePrice": 90566,
-            "avg24hPrice": 76971,
+            "avg24hPrice": 77316,
             "low24hPrice": 62000,
             "high24hPrice": 98888
         },
@@ -11595,14 +11595,14 @@
             "basePrice": 60290,
             "avg24hPrice": 37999,
             "low24hPrice": 30000,
-            "high24hPrice": 56000
+            "high24hPrice": 50000
         },
         {
             "id": "5bc9be8fd4351e00334cae6e",
             "name": "42nd Signature Blend英式茶",
             "shortName": "42",
             "basePrice": 27754,
-            "avg24hPrice": 18051,
+            "avg24hPrice": 18085,
             "low24hPrice": 16999,
             "high24hPrice": 42000
         },
@@ -11611,9 +11611,9 @@
             "name": "破旧的古董书",
             "shortName": "书",
             "basePrice": 63029,
-            "avg24hPrice": 39724,
+            "avg24hPrice": 39710,
             "low24hPrice": 30000,
-            "high24hPrice": 40000
+            "high24hPrice": 39999
         },
         {
             "id": "5bc9c1e2d4351e00367fbcf0",
@@ -11638,7 +11638,7 @@
             "name": "古董火镰",
             "shortName": "火镰",
             "basePrice": 63402,
-            "avg24hPrice": 39998,
+            "avg24hPrice": 40102,
             "low24hPrice": 24000,
             "high24hPrice": 75000
         },
@@ -11674,7 +11674,7 @@
             "name": "瘦长鬼面具",
             "shortName": "面具",
             "basePrice": 16000,
-            "avg24hPrice": 17998,
+            "avg24hPrice": 17345,
             "low24hPrice": 9999,
             "high24hPrice": 45000
         },
@@ -11683,7 +11683,7 @@
             "name": "Misha Mayorov的面具",
             "shortName": "面具",
             "basePrice": 15000,
-            "avg24hPrice": 13693,
+            "avg24hPrice": 12846,
             "low24hPrice": 9499,
             "high24hPrice": 27999
         },
@@ -11692,8 +11692,8 @@
             "name": "杰森面具",
             "shortName": "面具",
             "basePrice": 15000,
-            "avg24hPrice": 20040,
-            "low24hPrice": 12222,
+            "avg24hPrice": 22179,
+            "low24hPrice": 13222,
             "high24hPrice": 33333
         },
         {
@@ -11701,7 +11701,7 @@
             "name": "假胡子",
             "shortName": "胡子",
             "basePrice": 22689,
-            "avg24hPrice": 15782,
+            "avg24hPrice": 15518,
             "low24hPrice": 13333,
             "high24hPrice": 50000
         },
@@ -11710,7 +11710,7 @@
             "name": "Kotton无檐小便帽",
             "shortName": "Kotton",
             "basePrice": 24006,
-            "avg24hPrice": 15826,
+            "avg24hPrice": 15917,
             "low24hPrice": 9000,
             "high24hPrice": 29900
         },
@@ -12340,16 +12340,16 @@
             "name": "便携式除颤器",
             "shortName": "除颤器",
             "basePrice": 224600,
-            "avg24hPrice": 152096,
+            "avg24hPrice": 154686,
             "low24hPrice": 141499,
-            "high24hPrice": 210000
+            "high24hPrice": 249999
         },
         {
             "id": "5c052f6886f7746b1e3db148",
             "name": "军用COFDM无线信号发射器",
             "shortName": "SG-C10",
             "basePrice": 145500,
-            "avg24hPrice": 113912,
+            "avg24hPrice": 114031,
             "low24hPrice": 97500,
             "high24hPrice": 130888
         },
@@ -12358,7 +12358,7 @@
             "name": "UHF RFID固定式读取器 ",
             "shortName": "RFIDR",
             "basePrice": 48000,
-            "avg24hPrice": 85291,
+            "avg24hPrice": 85505,
             "low24hPrice": 75000,
             "high24hPrice": 100000
         },
@@ -12367,8 +12367,8 @@
             "name": "VPX闪存模块",
             "shortName": "VPX",
             "basePrice": 152400,
-            "avg24hPrice": 100461,
-            "low24hPrice": 94999,
+            "avg24hPrice": 100807,
+            "low24hPrice": 94444,
             "high24hPrice": 115000
         },
         {
@@ -12376,7 +12376,7 @@
             "name": "Virtex可编程处理器",
             "shortName": "Virtex",
             "basePrice": 120000,
-            "avg24hPrice": 76493,
+            "avg24hPrice": 76539,
             "low24hPrice": 62000,
             "high24hPrice": 140000
         },
@@ -12385,7 +12385,7 @@
             "name": "LEDX皮肤透照仪",
             "shortName": "LEDX",
             "basePrice": 970000,
-            "avg24hPrice": 634737,
+            "avg24hPrice": 635488,
             "low24hPrice": 588888,
             "high24hPrice": 688888
         },
@@ -12448,9 +12448,9 @@
             "name": "Armasight夜视镜头罩基座",
             "shortName": "夜视镜头罩",
             "basePrice": 19100,
-            "avg24hPrice": 48273,
+            "avg24hPrice": 47466,
             "low24hPrice": 23333,
-            "high24hPrice": 138000
+            "high24hPrice": 99000
         },
         {
             "id": "5c0672ed0db834001b7353f3",
@@ -12475,7 +12475,7 @@
             "name": "电线",
             "shortName": "电线",
             "basePrice": 7400,
-            "avg24hPrice": 13852,
+            "avg24hPrice": 13781,
             "low24hPrice": 10999,
             "high24hPrice": 15555
         },
@@ -12484,7 +12484,7 @@
             "name": "电容",
             "shortName": "电容",
             "basePrice": 2500,
-            "avg24hPrice": 17941,
+            "avg24hPrice": 17981,
             "low24hPrice": 5998,
             "high24hPrice": 90000
         },
@@ -12520,7 +12520,7 @@
             "name": "SSh-68头盔（1968钢盔）",
             "shortName": "SSh-68",
             "basePrice": 26201,
-            "avg24hPrice": 25266,
+            "avg24hPrice": 25386,
             "low24hPrice": 17000,
             "high24hPrice": 29083
         },
@@ -12637,7 +12637,7 @@
             "name": "Maska-1SCh 防弹头盔（橄榄绿）",
             "shortName": "Maska-1SCh",
             "basePrice": 62132,
-            "avg24hPrice": 70631,
+            "avg24hPrice": 70012,
             "low24hPrice": 59000,
             "high24hPrice": 135000
         },
@@ -12799,7 +12799,7 @@
             "name": "PSH-97 \"Jeta\"头盔",
             "shortName": "Djeta",
             "basePrice": 10299,
-            "avg24hPrice": 10789,
+            "avg24hPrice": 10669,
             "low24hPrice": 8000,
             "high24hPrice": 13987
         },
@@ -12808,7 +12808,7 @@
             "name": "Pyramex Proximity防护眼镜",
             "shortName": "Proximity",
             "basePrice": 3200,
-            "avg24hPrice": 7219,
+            "avg24hPrice": 7189,
             "low24hPrice": 3551,
             "high24hPrice": 14600
         },
@@ -12925,9 +12925,9 @@
             "name": "6B13 突击甲（丛林迷彩）",
             "shortName": "6B13 FL",
             "basePrice": 30655,
-            "avg24hPrice": 33051,
+            "avg24hPrice": 32674,
             "low24hPrice": 20000,
-            "high24hPrice": 77777
+            "high24hPrice": 70000
         },
         {
             "id": "5c0e530286f7747fa1419862",
@@ -12979,16 +12979,16 @@
             "name": "6B13 突击甲（数码丛林迷彩）",
             "shortName": "6B13 EMR",
             "basePrice": 30655,
-            "avg24hPrice": 32648,
+            "avg24hPrice": 31765,
             "low24hPrice": 23900,
-            "high24hPrice": 89999
+            "high24hPrice": 80000
         },
         {
             "id": "5c0e541586f7747fa54205c9",
             "name": "6B13 M 突击甲（Killa 版）",
             "shortName": "6B13 Killa",
             "basePrice": 208541,
-            "avg24hPrice": 126938,
+            "avg24hPrice": 128243,
             "low24hPrice": 99999,
             "high24hPrice": 299999
         },
@@ -12997,7 +12997,7 @@
             "name": "6B23-2 防弹衣（山地丛林迷彩）",
             "shortName": "6B23-2 山地",
             "basePrice": 34794,
-            "avg24hPrice": 53340,
+            "avg24hPrice": 51492,
             "low24hPrice": 41999,
             "high24hPrice": 80000
         },
@@ -13006,8 +13006,8 @@
             "name": "6B23-1护甲（数码丛林迷彩）",
             "shortName": "6B23-1",
             "basePrice": 25077,
-            "avg24hPrice": 42627,
-            "low24hPrice": 27000,
+            "avg24hPrice": 42557,
+            "low24hPrice": 33333,
             "high24hPrice": 50000
         },
         {
@@ -13015,7 +13015,7 @@
             "name": "BNTI Zhuk 防弹衣（战地记者版）",
             "shortName": "Zhuk",
             "basePrice": 16319,
-            "avg24hPrice": 39448,
+            "avg24hPrice": 38482,
             "low24hPrice": 25899,
             "high24hPrice": 88000
         },
@@ -13024,7 +13024,7 @@
             "name": "BNTI Zhuk 防弹衣（数码丛林迷彩）",
             "shortName": "Zhuk-6a",
             "basePrice": 141150,
-            "avg24hPrice": 101319,
+            "avg24hPrice": 105364,
             "low24hPrice": 86666,
             "high24hPrice": 300000
         },
@@ -13033,9 +13033,9 @@
             "name": "HighCom Trooper TFO 防弹背心（复合迷彩）",
             "shortName": "Trooper",
             "basePrice": 75760,
-            "avg24hPrice": 57407,
-            "low24hPrice": 43000,
-            "high24hPrice": 120000
+            "avg24hPrice": 57209,
+            "low24hPrice": 42000,
+            "high24hPrice": 100000
         },
         {
             "id": "5c0e66e2d174af02a96252f4",
@@ -13105,7 +13105,7 @@
             "name": "Maska-1SCh 防弹头盔（Killa 版）",
             "shortName": "Maska-1SCh KE",
             "basePrice": 67397,
-            "avg24hPrice": 71673,
+            "avg24hPrice": 71758,
             "low24hPrice": 40000,
             "high24hPrice": 140000
         },
@@ -13267,8 +13267,8 @@
             "name": "Tetriz便携式游戏机",
             "shortName": "Tetriz",
             "basePrice": 120000,
-            "avg24hPrice": 292961,
-            "low24hPrice": 240000,
+            "avg24hPrice": 290564,
+            "low24hPrice": 222222,
             "high24hPrice": 302420
         },
         {
@@ -13285,16 +13285,16 @@
             "name": "损坏的GPhone X",
             "shortName": "GPX",
             "basePrice": 32000,
-            "avg24hPrice": 30455,
+            "avg24hPrice": 30538,
             "low24hPrice": 24555,
-            "high24hPrice": 34444
+            "high24hPrice": 44000
         },
         {
             "id": "5c1267ee86f77416ec610f72",
             "name": "Prokill带链奖章",
             "shortName": "Prokill",
             "basePrice": 85000,
-            "avg24hPrice": 94997,
+            "avg24hPrice": 95975,
             "low24hPrice": 78888,
             "high24hPrice": 128888
         },
@@ -13303,8 +13303,8 @@
             "name": "尼龙绳索",
             "shortName": "绳索",
             "basePrice": 22500,
-            "avg24hPrice": 27491,
-            "low24hPrice": 16666,
+            "avg24hPrice": 27613,
+            "low24hPrice": 17998,
             "high24hPrice": 31111
         },
         {
@@ -13321,16 +13321,16 @@
             "name": "肥皂",
             "shortName": "肥皂",
             "basePrice": 3890,
-            "avg24hPrice": 12353,
+            "avg24hPrice": 12518,
             "low24hPrice": 9500,
-            "high24hPrice": 13899
+            "high24hPrice": 14499
         },
         {
             "id": "5c13cef886f774072e618e82",
             "name": "卫生纸",
             "shortName": "厕纸",
             "basePrice": 8800,
-            "avg24hPrice": 22393,
+            "avg24hPrice": 23267,
             "low24hPrice": 15999,
             "high24hPrice": 130000
         },
@@ -13420,7 +13420,7 @@
             "name": "Oakley SI M Frame 护目镜",
             "shortName": "M Frame",
             "basePrice": 4700,
-            "avg24hPrice": 14873,
+            "avg24hPrice": 14890,
             "low24hPrice": 7000,
             "high24hPrice": 30000
         },
@@ -13429,7 +13429,7 @@
             "name": "假白胡子",
             "shortName": "胡子",
             "basePrice": 7500,
-            "avg24hPrice": 10968,
+            "avg24hPrice": 10671,
             "low24hPrice": 4444,
             "high24hPrice": 87090
         },
@@ -14590,7 +14590,7 @@
             "name": "Vulkan-5（LShZ-5）重型头盔",
             "shortName": "Vulkan-5",
             "basePrice": 146491,
-            "avg24hPrice": 277074,
+            "avg24hPrice": 275603,
             "low24hPrice": 200000,
             "high24hPrice": 750000
         },
@@ -14608,8 +14608,8 @@
             "name": "FORT Redut-M护甲",
             "shortName": "Redut-M",
             "basePrice": 118737,
-            "avg24hPrice": 73059,
-            "low24hPrice": 55000,
+            "avg24hPrice": 73366,
+            "low24hPrice": 66000,
             "high24hPrice": 350000
         },
         {
@@ -15589,7 +15589,7 @@
             "name": "军用电缆",
             "shortName": "军用电缆",
             "basePrice": 41200,
-            "avg24hPrice": 36949,
+            "avg24hPrice": 37490,
             "low24hPrice": 25999,
             "high24hPrice": 308888
         },
@@ -15598,7 +15598,7 @@
             "name": "军用电路板",
             "shortName": "MCB",
             "basePrice": 40000,
-            "avg24hPrice": 38277,
+            "avg24hPrice": 37895,
             "low24hPrice": 28000,
             "high24hPrice": 73226
         },
@@ -15607,7 +15607,7 @@
             "name": "相控阵单元",
             "shortName": "AESA",
             "basePrice": 166000,
-            "avg24hPrice": 120859,
+            "avg24hPrice": 120625,
             "low24hPrice": 99999,
             "high24hPrice": 140000
         },
@@ -15616,7 +15616,7 @@
             "name": "Iridium军用热成像模块",
             "shortName": "Iridium",
             "basePrice": 81200,
-            "avg24hPrice": 53924,
+            "avg24hPrice": 53923,
             "low24hPrice": 50000,
             "high24hPrice": 510000
         },
@@ -15625,7 +15625,7 @@
             "name": "军用转速计",
             "shortName": "MGT",
             "basePrice": 62000,
-            "avg24hPrice": 52476,
+            "avg24hPrice": 52291,
             "low24hPrice": 39999,
             "high24hPrice": 71100
         },
@@ -15634,7 +15634,7 @@
             "name": "军用电源滤波器",
             "shortName": "滤波器",
             "basePrice": 55000,
-            "avg24hPrice": 180484,
+            "avg24hPrice": 181799,
             "low24hPrice": 122222,
             "high24hPrice": 193999
         },
@@ -15643,7 +15643,7 @@
             "name": "6-STEN-140-M军用电池",
             "shortName": "坦克电池",
             "basePrice": 330000,
-            "avg24hPrice": 222280,
+            "avg24hPrice": 222563,
             "low24hPrice": 154100,
             "high24hPrice": 269899
         },
@@ -15652,8 +15652,8 @@
             "name": "OFZ 30х160毫米炮弹 ",
             "shortName": "OFZ ",
             "basePrice": 56000,
-            "avg24hPrice": 36017,
-            "low24hPrice": 31111,
+            "avg24hPrice": 36507,
+            "low24hPrice": 33333,
             "high24hPrice": 75420
         },
         {
@@ -15904,8 +15904,8 @@
             "name": "FP-100过滤吸收器",
             "shortName": "FP-100",
             "basePrice": 82000,
-            "avg24hPrice": 306537,
-            "low24hPrice": 250000,
+            "avg24hPrice": 308853,
+            "low24hPrice": 276000,
             "high24hPrice": 380000
         },
         {
@@ -15913,7 +15913,7 @@
             "name": "电动马达",
             "shortName": "马达",
             "basePrice": 43000,
-            "avg24hPrice": 66976,
+            "avg24hPrice": 65732,
             "low24hPrice": 41000,
             "high24hPrice": 75555
         },
@@ -15922,7 +15922,7 @@
             "name": "NIXXOR镜头",
             "shortName": "NIXXOR",
             "basePrice": 25300,
-            "avg24hPrice": 21852,
+            "avg24hPrice": 21288,
             "low24hPrice": 11111,
             "high24hPrice": 30000
         },
@@ -15931,25 +15931,25 @@
             "name": "完好的液晶显示屏",
             "shortName": "LCD",
             "basePrice": 38000,
-            "avg24hPrice": 26086,
+            "avg24hPrice": 26216,
             "low24hPrice": 23333,
-            "high24hPrice": 28800
+            "high24hPrice": 62999
         },
         {
             "id": "5d1b309586f77425227d1676",
             "name": "损坏的液晶显示屏",
             "shortName": "坏掉的LCD",
             "basePrice": 21500,
-            "avg24hPrice": 26577,
+            "avg24hPrice": 27212,
             "low24hPrice": 17777,
-            "high24hPrice": 37000
+            "high24hPrice": 37975
         },
         {
             "id": "5d1b313086f77425227d1678",
             "name": "相位控制继电器",
             "shortName": "继电器",
             "basePrice": 6473,
-            "avg24hPrice": 22336,
+            "avg24hPrice": 23010,
             "low24hPrice": 10998,
             "high24hPrice": 28999
         },
@@ -15958,16 +15958,16 @@
             "name": "手摇钻",
             "shortName": "手钻",
             "basePrice": 60000,
-            "avg24hPrice": 52162,
+            "avg24hPrice": 51480,
             "low24hPrice": 39500,
-            "high24hPrice": 78000
+            "high24hPrice": 75968
         },
         {
             "id": "5d1b31ce86f7742523398394",
             "name": "圆嘴钳",
             "shortName": "R形钳",
             "basePrice": 27000,
-            "avg24hPrice": 18807,
+            "avg24hPrice": 18632,
             "low24hPrice": 12222,
             "high24hPrice": 31500
         },
@@ -15976,7 +15976,7 @@
             "name": "压力表",
             "shortName": "压力表",
             "basePrice": 61200,
-            "avg24hPrice": 41934,
+            "avg24hPrice": 41925,
             "low24hPrice": 38554,
             "high24hPrice": 50000
         },
@@ -15985,7 +15985,7 @@
             "name": "模拟温度计",
             "shortName": "温度计",
             "basePrice": 45600,
-            "avg24hPrice": 28774,
+            "avg24hPrice": 28790,
             "low24hPrice": 28497,
             "high24hPrice": 31691
         },
@@ -16003,7 +16003,7 @@
             "name": "金属燃料桶",
             "shortName": "金属桶",
             "basePrice": 48000,
-            "avg24hPrice": 206026,
+            "avg24hPrice": 207826,
             "low24hPrice": 189999,
             "high24hPrice": 210000
         },
@@ -16012,8 +16012,8 @@
             "name": "野营燃料桶",
             "shortName": "塑料桶",
             "basePrice": 50000,
-            "avg24hPrice": 77016,
-            "low24hPrice": 52000,
+            "avg24hPrice": 78038,
+            "low24hPrice": 59999,
             "high24hPrice": 83233
         },
         {
@@ -16030,7 +16030,7 @@
             "name": "滤水器",
             "shortName": "过滤器",
             "basePrice": 24500,
-            "avg24hPrice": 135910,
+            "avg24hPrice": 135962,
             "low24hPrice": 119999,
             "high24hPrice": 144356
         },
@@ -16039,7 +16039,7 @@
             "name": "电灯泡",
             "shortName": "灯泡",
             "basePrice": 9500,
-            "avg24hPrice": 9438,
+            "avg24hPrice": 9254,
             "low24hPrice": 3333,
             "high24hPrice": 13500
         },
@@ -16048,7 +16048,7 @@
             "name": "硅胶管",
             "shortName": "管子",
             "basePrice": 18900,
-            "avg24hPrice": 26615,
+            "avg24hPrice": 25783,
             "low24hPrice": 13000,
             "high24hPrice": 38996
         },
@@ -16057,7 +16057,7 @@
             "name": "一堆药",
             "shortName": "药",
             "basePrice": 6500,
-            "avg24hPrice": 19998,
+            "avg24hPrice": 19999,
             "low24hPrice": 17777,
             "high24hPrice": 20888
         },
@@ -16066,7 +16066,7 @@
             "name": "一次性注射器",
             "shortName": "注射器",
             "basePrice": 8540,
-            "avg24hPrice": 14584,
+            "avg24hPrice": 14825,
             "low24hPrice": 10000,
             "high24hPrice": 16998
         },
@@ -16093,7 +16093,7 @@
             "name": "螺旋散热器",
             "shortName": "散热器",
             "basePrice": 14500,
-            "avg24hPrice": 63441,
+            "avg24hPrice": 63549,
             "low24hPrice": 51999,
             "high24hPrice": 69665
         },
@@ -16102,7 +16102,7 @@
             "name": "武器零件",
             "shortName": "武器零件",
             "basePrice": 14240,
-            "avg24hPrice": 16244,
+            "avg24hPrice": 16213,
             "low24hPrice": 9999,
             "high24hPrice": 29000
         },
@@ -16165,7 +16165,7 @@
             "name": "黄金骷髅指环",
             "shortName": "骷髅指环",
             "basePrice": 55000,
-            "avg24hPrice": 39826,
+            "avg24hPrice": 39823,
             "low24hPrice": 31111,
             "high24hPrice": 70000
         },
@@ -16543,7 +16543,7 @@
             "name": "Schaman洗发水",
             "shortName": "洗发水",
             "basePrice": 7000,
-            "avg24hPrice": 25010,
+            "avg24hPrice": 25121,
             "low24hPrice": 20000,
             "high24hPrice": 30000
         },
@@ -16552,7 +16552,7 @@
             "name": "金属切割剪刀",
             "shortName": "切割剪刀",
             "basePrice": 22300,
-            "avg24hPrice": 14143,
+            "avg24hPrice": 14158,
             "low24hPrice": 12333,
             "high24hPrice": 15000
         },
@@ -16561,16 +16561,16 @@
             "name": "Ortodontox牙膏",
             "shortName": "Ortodontox",
             "basePrice": 5400,
-            "avg24hPrice": 5244,
+            "avg24hPrice": 5320,
             "low24hPrice": 3000,
-            "high24hPrice": 7420
+            "high24hPrice": 12000
         },
         {
             "id": "5d40425986f7743185265461",
             "name": "剪线钳",
             "shortName": "剪线钳",
             "basePrice": 17000,
-            "avg24hPrice": 12403,
+            "avg24hPrice": 12051,
             "low24hPrice": 10000,
             "high24hPrice": 32000
         },
@@ -16579,9 +16579,9 @@
             "name": "长平头螺丝刀",
             "shortName": "长平头",
             "basePrice": 33000,
-            "avg24hPrice": 21308,
+            "avg24hPrice": 21309,
             "low24hPrice": 19888,
-            "high24hPrice": 39999
+            "high24hPrice": 29999
         },
         {
             "id": "5d43021ca4b9362eab4b5e25",
@@ -16777,7 +16777,7 @@
             "name": "MSA ACH TC-2001 MICH系列头盔",
             "shortName": "TC-2001",
             "basePrice": 52139,
-            "avg24hPrice": 47337,
+            "avg24hPrice": 47474,
             "low24hPrice": 30000,
             "high24hPrice": 52222
         },
@@ -16786,25 +16786,25 @@
             "name": "MSA ACH TC-2002 MICH系列头盔",
             "shortName": "TC-2002",
             "basePrice": 49251,
-            "avg24hPrice": 46670,
+            "avg24hPrice": 46347,
             "low24hPrice": 34999,
-            "high24hPrice": 59999
+            "high24hPrice": 59855
         },
         {
             "id": "5d5fca1ea4b93635fd598c07",
             "name": "Crossbow战术目镜",
             "shortName": "Crossbow",
             "basePrice": 3500,
-            "avg24hPrice": 7397,
-            "low24hPrice": 3333,
-            "high24hPrice": 10000
+            "avg24hPrice": 7519,
+            "low24hPrice": 4000,
+            "high24hPrice": 8999
         },
         {
             "id": "5d63d33b86f7746ea9275524",
             "name": "平头螺丝刀",
             "shortName": "平头",
             "basePrice": 14000,
-            "avg24hPrice": 10682,
+            "avg24hPrice": 10529,
             "low24hPrice": 8500,
             "high24hPrice": 95000
         },
@@ -16822,8 +16822,8 @@
             "name": "Oakley SI Gascan 墨镜",
             "shortName": "Gascan",
             "basePrice": 5600,
-            "avg24hPrice": 8360,
-            "low24hPrice": 4000,
+            "avg24hPrice": 8462,
+            "low24hPrice": 5000,
             "high24hPrice": 30000
         },
         {
@@ -16831,16 +16831,16 @@
             "name": "雷硼飞行员墨镜",
             "shortName": "飞行墨镜",
             "basePrice": 6700,
-            "avg24hPrice": 10774,
+            "avg24hPrice": 9843,
             "low24hPrice": 1222,
-            "high24hPrice": 29999
+            "high24hPrice": 25000
         },
         {
             "id": "5d6d3716a4b9361bc8618872",
             "name": "BNTI LShZ-2DTM 头盔（黑色）",
             "shortName": "LSHZ-2DTM",
             "basePrice": 78199,
-            "avg24hPrice": 96092,
+            "avg24hPrice": 96708,
             "low24hPrice": 68888,
             "high24hPrice": 250000
         },
@@ -16849,7 +16849,7 @@
             "name": "LSHZ-2DTM面罩",
             "shortName": "面罩",
             "basePrice": 33350,
-            "avg24hPrice": 78322,
+            "avg24hPrice": 78607,
             "low24hPrice": 37000,
             "high24hPrice": 89999
         },
@@ -17056,16 +17056,16 @@
             "name": "“Eagle”火药",
             "shortName": "火药",
             "basePrice": 32000,
-            "avg24hPrice": 42416,
+            "avg24hPrice": 42223,
             "low24hPrice": 36665,
-            "high24hPrice": 44888
+            "high24hPrice": 44499
         },
         {
             "id": "5d6fc87386f77449db3db94e",
             "name": "“Hawk”火药",
             "shortName": "火药",
             "basePrice": 35000,
-            "avg24hPrice": 31608,
+            "avg24hPrice": 31672,
             "low24hPrice": 25111,
             "high24hPrice": 35000
         },
@@ -17335,7 +17335,7 @@
             "name": "Door Kicker 奔尼帽",
             "shortName": "Door Kicker",
             "basePrice": 10200,
-            "avg24hPrice": 7999,
+            "avg24hPrice": 7989,
             "low24hPrice": 6000,
             "high24hPrice": 10000
         },
@@ -17758,9 +17758,9 @@
             "name": "6B2 防弹衣（丛林迷彩）",
             "shortName": "6B2",
             "basePrice": 17942,
-            "avg24hPrice": 22880,
+            "avg24hPrice": 22415,
             "low24hPrice": 15000,
-            "high24hPrice": 35000
+            "high24hPrice": 34000
         },
         {
             "id": "5df8a42886f77412640e2e75",
@@ -17785,7 +17785,7 @@
             "name": "TSH-4M-L软质坦克乘员头盔",
             "shortName": "坦克头盔",
             "basePrice": 6000,
-            "avg24hPrice": 12166,
+            "avg24hPrice": 12434,
             "low24hPrice": 5555,
             "high24hPrice": 20000
         },
@@ -18253,7 +18253,7 @@
             "name": "GreenBat锂电池",
             "shortName": "GreenBat ",
             "basePrice": 26000,
-            "avg24hPrice": 129275,
+            "avg24hPrice": 128601,
             "low24hPrice": 109995,
             "high24hPrice": 142222
         },
@@ -18262,7 +18262,7 @@
             "name": "Cyclon 蓄电池组",
             "shortName": "Cyclon ",
             "basePrice": 85000,
-            "avg24hPrice": 67870,
+            "avg24hPrice": 68385,
             "low24hPrice": 55555,
             "high24hPrice": 6222222
         },
@@ -18271,7 +18271,7 @@
             "name": "Repellent杀虫剂",
             "shortName": "杀虫剂",
             "basePrice": 8457,
-            "avg24hPrice": 20634,
+            "avg24hPrice": 20133,
             "low24hPrice": 13000,
             "high24hPrice": 35995
         },
@@ -18280,7 +18280,7 @@
             "name": "Smoked Chimney下水道清洁剂",
             "shortName": "洁厕灵",
             "basePrice": 9457,
-            "avg24hPrice": 24489,
+            "avg24hPrice": 23818,
             "low24hPrice": 14999,
             "high24hPrice": 30999
         },
@@ -18289,7 +18289,7 @@
             "name": "一包氯石灰",
             "shortName": "氯石灰",
             "basePrice": 11000,
-            "avg24hPrice": 12062,
+            "avg24hPrice": 12311,
             "low24hPrice": 6288,
             "high24hPrice": 28888
         },
@@ -18298,7 +18298,7 @@
             "name": "Poxeram冷焊膏",
             "shortName": "Poxeram",
             "basePrice": 19400,
-            "avg24hPrice": 13663,
+            "avg24hPrice": 13704,
             "low24hPrice": 11500,
             "high24hPrice": 28887
         },
@@ -18307,16 +18307,16 @@
             "name": "KEKTAPE管道胶带",
             "shortName": "KEK",
             "basePrice": 24000,
-            "avg24hPrice": 29763,
+            "avg24hPrice": 30492,
             "low24hPrice": 20000,
-            "high24hPrice": 38998
+            "high24hPrice": 39000
         },
         {
             "id": "5e2af2bc86f7746d3f3c33fc",
             "name": "Hunter火柴",
             "shortName": "火柴",
             "basePrice": 3800,
-            "avg24hPrice": 10402,
+            "avg24hPrice": 10293,
             "low24hPrice": 4999,
             "high24hPrice": 15440
         },
@@ -18325,7 +18325,7 @@
             "name": "SurvL幸存者打火机",
             "shortName": "SurvL",
             "basePrice": 16000,
-            "avg24hPrice": 24494,
+            "avg24hPrice": 25292,
             "low24hPrice": 19000,
             "high24hPrice": 53945
         },
@@ -18334,7 +18334,7 @@
             "name": "Cordura聚酰胺面料",
             "shortName": "Cordura面料",
             "basePrice": 13200,
-            "avg24hPrice": 13625,
+            "avg24hPrice": 13640,
             "low24hPrice": 11111,
             "high24hPrice": 15888
         },
@@ -18343,7 +18343,7 @@
             "name": "绒布布料",
             "shortName": "绒布",
             "basePrice": 4000,
-            "avg24hPrice": 17155,
+            "avg24hPrice": 17409,
             "low24hPrice": 10000,
             "high24hPrice": 24321
         },
@@ -18352,8 +18352,8 @@
             "name": "防撕布料",
             "shortName": "防撕布",
             "basePrice": 5800,
-            "avg24hPrice": 15209,
-            "low24hPrice": 13100,
+            "avg24hPrice": 15133,
+            "low24hPrice": 12222,
             "high24hPrice": 19898
         },
         {
@@ -18361,16 +18361,16 @@
             "name": "芳纶纤维布料",
             "shortName": "芳纶布",
             "basePrice": 8800,
-            "avg24hPrice": 20598,
+            "avg24hPrice": 20839,
             "low24hPrice": 16000,
-            "high24hPrice": 23499
+            "high24hPrice": 25998
         },
         {
             "id": "5e2af51086f7746d3f3c3402",
             "name": "UZRGM手榴弹引信",
             "shortName": "引信",
             "basePrice": 8100,
-            "avg24hPrice": 18891,
+            "avg24hPrice": 19131,
             "low24hPrice": 12222,
             "high24hPrice": 27000
         },
@@ -18433,8 +18433,8 @@
             "name": "LBT-6094A Slick 插板背心（黑色）",
             "shortName": "Slick",
             "basePrice": 254200,
-            "avg24hPrice": 162839,
-            "low24hPrice": 150000,
+            "avg24hPrice": 161691,
+            "low24hPrice": 128000,
             "high24hPrice": 226969
         },
         {
@@ -18478,7 +18478,7 @@
             "name": "MSA Gallet TC 800 High Cut 作战头盔",
             "shortName": "TC 800",
             "basePrice": 54120,
-            "avg24hPrice": 67132,
+            "avg24hPrice": 67693,
             "low24hPrice": 38888,
             "high24hPrice": 80000
         },
@@ -18496,7 +18496,7 @@
             "name": "乌鸦雕像",
             "shortName": "乌鸦",
             "basePrice": 48000,
-            "avg24hPrice": 30345,
+            "avg24hPrice": 30371,
             "low24hPrice": 24180,
             "high24hPrice": 45000
         },
@@ -18505,8 +18505,8 @@
             "name": "一罐Dr. Lupo的咖啡豆",
             "shortName": "Lupo's",
             "basePrice": 52000,
-            "avg24hPrice": 33015,
-            "low24hPrice": 28999,
+            "avg24hPrice": 33066,
+            "low24hPrice": 32222,
             "high24hPrice": 49999
         },
         {
@@ -18514,7 +18514,7 @@
             "name": "Shroud 半面巾",
             "shortName": "Shroud",
             "basePrice": 42000,
-            "avg24hPrice": 26915,
+            "avg24hPrice": 26924,
             "low24hPrice": 21111,
             "high24hPrice": 39000
         },
@@ -18523,7 +18523,7 @@
             "name": "Pestily 瘟疫面具",
             "shortName": "瘟疫面罩",
             "basePrice": 94900,
-            "avg24hPrice": 61638,
+            "avg24hPrice": 61490,
             "low24hPrice": 56777,
             "high24hPrice": 90000
         },
@@ -18901,7 +18901,7 @@
             "name": "FORT Defender-2 护甲",
             "shortName": "Defender-2",
             "basePrice": 80609,
-            "avg24hPrice": 64980,
+            "avg24hPrice": 66805,
             "low24hPrice": 44444,
             "high24hPrice": 100000
         },
@@ -18991,7 +18991,7 @@
             "name": "Tac-Kek Fast MT 头盔（不防弹的仿制品）",
             "shortName": "TK Fast MT",
             "basePrice": 11000,
-            "avg24hPrice": 19607,
+            "avg24hPrice": 19681,
             "low24hPrice": 11111,
             "high24hPrice": 25000
         },
@@ -19045,7 +19045,7 @@
             "name": "Diamond Age Bastion 头盔（黑色）",
             "shortName": "DA Bastion",
             "basePrice": 59545,
-            "avg24hPrice": 67960,
+            "avg24hPrice": 68203,
             "low24hPrice": 50000,
             "high24hPrice": 79999
         },
@@ -19693,7 +19693,7 @@
             "name": "NPP KlASS 刚玉-VM护甲（黑色）",
             "shortName": "Korund-VM",
             "basePrice": 60426,
-            "avg24hPrice": 99528,
+            "avg24hPrice": 101017,
             "low24hPrice": 59998,
             "high24hPrice": 145000
         },
@@ -19963,8 +19963,8 @@
             "name": "Veritas吉他拨片",
             "shortName": "Veritas",
             "basePrice": 55000,
-            "avg24hPrice": 36020,
-            "low24hPrice": 28000,
+            "avg24hPrice": 35987,
+            "low24hPrice": 30000,
             "high24hPrice": 68888
         },
         {
@@ -19990,7 +19990,7 @@
             "name": "Rivals 2020 臂带",
             "shortName": "Rivals",
             "basePrice": 20000,
-            "avg24hPrice": 97748,
+            "avg24hPrice": 146020,
             "low24hPrice": 17777,
             "high24hPrice": 500000
         },
@@ -20674,7 +20674,7 @@
             "name": "5.11 Hexgrid 插板背心",
             "shortName": "Hexgrid",
             "basePrice": 150996,
-            "avg24hPrice": 95960,
+            "avg24hPrice": 97606,
             "low24hPrice": 92222,
             "high24hPrice": 130000
         },
@@ -20710,8 +20710,8 @@
             "name": "Smoke巴拉克拉瓦头套",
             "shortName": "Smoke",
             "basePrice": 44300,
-            "avg24hPrice": 30292,
-            "low24hPrice": 20000,
+            "avg24hPrice": 30306,
+            "low24hPrice": 24000,
             "high24hPrice": 36666
         },
         {
@@ -20998,7 +20998,7 @@
             "name": "NPP KIASS Condor 护目镜",
             "shortName": "Condor",
             "basePrice": 15600,
-            "avg24hPrice": 22729,
+            "avg24hPrice": 22535,
             "low24hPrice": 10000,
             "high24hPrice": 33333
         },
@@ -21070,7 +21070,7 @@
             "name": "黑色军帽",
             "shortName": "帽子",
             "basePrice": 4353,
-            "avg24hPrice": 19513,
+            "avg24hPrice": 19400,
             "low24hPrice": 8500,
             "high24hPrice": 30000
         },
@@ -21115,7 +21115,7 @@
             "name": "GP-7防毒面具",
             "shortName": "GP-7",
             "basePrice": 8386,
-            "avg24hPrice": 50408,
+            "avg24hPrice": 49626,
             "low24hPrice": 39900,
             "high24hPrice": 62221
         },
@@ -21133,8 +21133,8 @@
             "name": "LBT 6094A Slick 插板背心（黄褐色）",
             "shortName": "Slick",
             "basePrice": 250456,
-            "avg24hPrice": 161933,
-            "low24hPrice": 99999,
+            "avg24hPrice": 161859,
+            "low24hPrice": 154999,
             "high24hPrice": 250000
         },
         {
@@ -21142,9 +21142,9 @@
             "name": "LBT 6094A Slick 插板背心（橄榄绿）",
             "shortName": "Slick",
             "basePrice": 257945,
-            "avg24hPrice": 159409,
+            "avg24hPrice": 159336,
             "low24hPrice": 120000,
-            "high24hPrice": 179999
+            "high24hPrice": 170000
         },
         {
             "id": "6038d614d10cbf667352dd44",
@@ -21169,16 +21169,16 @@
             "name": "棘轮扳手",
             "shortName": "棘轮",
             "basePrice": 124000,
-            "avg24hPrice": 80966,
+            "avg24hPrice": 80173,
             "low24hPrice": 75555,
-            "high24hPrice": 1000000
+            "high24hPrice": 95000
         },
         {
             "id": "60391b0fb847c71012789415",
             "name": "TP-200 砖型TNT",
             "shortName": "TP-200",
             "basePrice": 35000,
-            "avg24hPrice": 29445,
+            "avg24hPrice": 31317,
             "low24hPrice": 21111,
             "high24hPrice": 49999
         },
@@ -21592,7 +21592,7 @@
             "name": "NFM THOR 隐蔽型强化防弹背心",
             "shortName": "THOR 隐蔽型",
             "basePrice": 26097,
-            "avg24hPrice": 93380,
+            "avg24hPrice": 95476,
             "low24hPrice": 54555,
             "high24hPrice": 115555
         },
@@ -21682,7 +21682,7 @@
             "name": "BOSS鸭舌帽",
             "shortName": "帽子",
             "basePrice": 8353,
-            "avg24hPrice": 15726,
+            "avg24hPrice": 15393,
             "low24hPrice": 9000,
             "high24hPrice": 24999
         },
@@ -21709,7 +21709,7 @@
             "name": "LVNDMARK的老鼠药",
             "shortName": "鼠药",
             "basePrice": 50892,
-            "avg24hPrice": 32921,
+            "avg24hPrice": 33009,
             "low24hPrice": 29000,
             "high24hPrice": 40999
         },
@@ -21727,7 +21727,7 @@
             "name": "Loot Lord毛绒玩具",
             "shortName": "Loot Lord",
             "basePrice": 83029,
-            "avg24hPrice": 54714,
+            "avg24hPrice": 54737,
             "low24hPrice": 48111,
             "high24hPrice": 78000
         },
@@ -21745,7 +21745,7 @@
             "name": "Evasion臂带",
             "shortName": "Evasion",
             "basePrice": 45000,
-            "avg24hPrice": 28719,
+            "avg24hPrice": 29069,
             "low24hPrice": 24444,
             "high24hPrice": 33111
         },
@@ -21754,7 +21754,7 @@
             "name": "Stich Profi Chimera 奔尼帽",
             "shortName": "Chimera",
             "basePrice": 3170,
-            "avg24hPrice": 3687,
+            "avg24hPrice": 3605,
             "low24hPrice": 1888,
             "high24hPrice": 4000
         },
@@ -21790,9 +21790,9 @@
             "name": "Bomber 无檐小便帽",
             "shortName": "Bomber",
             "basePrice": 29700,
-            "avg24hPrice": 32986,
+            "avg24hPrice": 32059,
             "low24hPrice": 19000,
-            "high24hPrice": 50000
+            "high24hPrice": 44444
         },
         {
             "id": "60db29ce99594040e04c4a27",
@@ -22366,7 +22366,7 @@
             "name": "食尸鬼面具",
             "shortName": "食尸鬼",
             "basePrice": 35533,
-            "avg24hPrice": 33436,
+            "avg24hPrice": 33884,
             "low24hPrice": 21999,
             "high24hPrice": 88888
         },
@@ -22375,7 +22375,7 @@
             "name": "无头鬼面具",
             "shortName": "无头鬼",
             "basePrice": 21125,
-            "avg24hPrice": 19195,
+            "avg24hPrice": 18322,
             "low24hPrice": 14000,
             "high24hPrice": 44444
         },
@@ -22789,7 +22789,7 @@
             "name": "Jack Pyke Hunting LLCS奔尼帽",
             "shortName": "LLCS",
             "basePrice": 9556,
-            "avg24hPrice": 15638,
+            "avg24hPrice": 15104,
             "low24hPrice": 8950,
             "high24hPrice": 39999
         },
@@ -23320,8 +23320,8 @@
             "name": "\"BEAR\" 臂带",
             "shortName": "BEAR",
             "basePrice": 50000,
-            "avg24hPrice": 339380,
-            "low24hPrice": 85750,
+            "avg24hPrice": 294745,
+            "low24hPrice": 77777,
             "high24hPrice": 1000000
         },
         {
@@ -23356,7 +23356,7 @@
             "name": "实验室雇员臂带",
             "shortName": "Labs",
             "basePrice": 28000,
-            "avg24hPrice": 20436,
+            "avg24hPrice": 19302,
             "low24hPrice": 16000,
             "high24hPrice": 33999
         },
@@ -23374,8 +23374,8 @@
             "name": "TerraGroup 臂带",
             "shortName": "TG",
             "basePrice": 52000,
-            "avg24hPrice": 153228,
-            "low24hPrice": 50000,
+            "avg24hPrice": 157013,
+            "low24hPrice": 75000,
             "high24hPrice": 300000
         },
         {
@@ -23392,7 +23392,7 @@
             "name": "\"USEC\" 臂带",
             "shortName": "USEC",
             "basePrice": 50000,
-            "avg24hPrice": 248813,
+            "avg24hPrice": 199257,
             "low24hPrice": 40000,
             "high24hPrice": 777777
         },
@@ -23401,7 +23401,7 @@
             "name": "军用波纹软管",
             "shortName": "军用波纹软管",
             "basePrice": 21263,
-            "avg24hPrice": 32818,
+            "avg24hPrice": 33747,
             "low24hPrice": 24000,
             "high24hPrice": 50000
         },
@@ -23428,7 +23428,7 @@
             "name": "管道扳手",
             "shortName": "管道扳手",
             "basePrice": 132000,
-            "avg24hPrice": 83306,
+            "avg24hPrice": 83343,
             "low24hPrice": 83199,
             "high24hPrice": 84000
         },
@@ -23437,7 +23437,7 @@
             "name": "Bulbex剪线器",
             "shortName": "Bulbex",
             "basePrice": 105000,
-            "avg24hPrice": 66714,
+            "avg24hPrice": 66708,
             "low24hPrice": 66244,
             "high24hPrice": 70000
         },
@@ -23446,7 +23446,7 @@
             "name": "医疗工具",
             "shortName": "医疗工具",
             "basePrice": 7500,
-            "avg24hPrice": 6008,
+            "avg24hPrice": 6134,
             "low24hPrice": 4885,
             "high24hPrice": 13000
         },
@@ -23698,9 +23698,9 @@
             "name": "NFM \"HJELM\" 头盔",
             "shortName": "HJELM",
             "basePrice": 58131,
-            "avg24hPrice": 38297,
-            "low24hPrice": 21000,
-            "high24hPrice": 80000
+            "avg24hPrice": 38289,
+            "low24hPrice": 28750,
+            "high24hPrice": 70000
         },
         {
             "id": "61bcc89aef0f505f0c6cd0fc",
@@ -23716,7 +23716,7 @@
             "name": "金属零件",
             "shortName": "金属零件",
             "basePrice": 5000,
-            "avg24hPrice": 30281,
+            "avg24hPrice": 30749,
             "low24hPrice": 21000,
             "high24hPrice": 34000
         },
@@ -23734,8 +23734,8 @@
             "name": "针线盒",
             "shortName": "Krasavch.",
             "basePrice": 38000,
-            "avg24hPrice": 24469,
-            "low24hPrice": 23777,
+            "avg24hPrice": 24361,
+            "low24hPrice": 23500,
             "high24hPrice": 25000
         },
         {
@@ -23743,7 +23743,7 @@
             "name": "气焊护目镜",
             "shortName": "气焊",
             "basePrice": 30000,
-            "avg24hPrice": 19582,
+            "avg24hPrice": 19571,
             "low24hPrice": 17666,
             "high24hPrice": 30000
         },
@@ -23752,7 +23752,7 @@
             "name": "皮帽",
             "shortName": "帽子",
             "basePrice": 4000,
-            "avg24hPrice": 17433,
+            "avg24hPrice": 17206,
             "low24hPrice": 8000,
             "high24hPrice": 39998
         },
@@ -25093,7 +25093,7 @@
             "name": "Big Pipe的头巾",
             "shortName": "头巾",
             "basePrice": 21000,
-            "avg24hPrice": 35546,
+            "avg24hPrice": 34904,
             "low24hPrice": 25000,
             "high24hPrice": 100000
         },
@@ -25300,7 +25300,7 @@
             "name": "BEAR Buddy毛绒玩具",
             "shortName": "BEAR Buddy",
             "basePrice": 86700,
-            "avg24hPrice": 55380,
+            "avg24hPrice": 55846,
             "low24hPrice": 38870,
             "high24hPrice": 80000
         },
@@ -25309,7 +25309,7 @@
             "name": "Axel鹦鹉雕像",
             "shortName": "Axel",
             "basePrice": 51000,
-            "avg24hPrice": 32736,
+            "avg24hPrice": 32670,
             "low24hPrice": 32133,
             "high24hPrice": 41000
         },
@@ -25318,7 +25318,7 @@
             "name": "记者证（为NoiceGuy签发）",
             "shortName": "记者证",
             "basePrice": 50000,
-            "avg24hPrice": 31920,
+            "avg24hPrice": 31922,
             "low24hPrice": 30999,
             "high24hPrice": 60000
         },
@@ -25327,7 +25327,7 @@
             "name": "金蛋",
             "shortName": "金蛋",
             "basePrice": 68000,
-            "avg24hPrice": 43387,
+            "avg24hPrice": 43401,
             "low24hPrice": 32222,
             "high24hPrice": 50000
         },
@@ -25345,8 +25345,8 @@
             "name": "DRD防弹衣",
             "shortName": "DRD",
             "basePrice": 55802,
-            "avg24hPrice": 41520,
-            "low24hPrice": 29999,
+            "avg24hPrice": 40923,
+            "low24hPrice": 25555,
             "high24hPrice": 100000
         },
         {
@@ -25354,7 +25354,7 @@
             "name": "Baddie的红胡子",
             "shortName": "Baddie",
             "basePrice": 35000,
-            "avg24hPrice": 22152,
+            "avg24hPrice": 22315,
             "low24hPrice": 10000,
             "high24hPrice": 59000
         },
@@ -25363,7 +25363,7 @@
             "name": "Glorious E轻型防弹面具",
             "shortName": "Glorious",
             "basePrice": 47250,
-            "avg24hPrice": 31045,
+            "avg24hPrice": 31433,
             "low24hPrice": 25000,
             "high24hPrice": 49999
         },
@@ -25372,7 +25372,7 @@
             "name": "JohnB \"Liquid DNB\"墨镜",
             "shortName": "JohnB",
             "basePrice": 12000,
-            "avg24hPrice": 21668,
+            "avg24hPrice": 20005,
             "low24hPrice": 11000,
             "high24hPrice": 144798
         },
@@ -25408,9 +25408,9 @@
             "name": "罐装白盐",
             "shortName": "盐",
             "basePrice": 8000,
-            "avg24hPrice": 25093,
+            "avg24hPrice": 25509,
             "low24hPrice": 17000,
-            "high24hPrice": 32111
+            "high24hPrice": 88888
         },
         {
             "id": "62a09f32621468534a797acb",
@@ -25426,7 +25426,7 @@
             "name": "OLOLO瓶装复合维生素",
             "shortName": "维生素",
             "basePrice": 25090,
-            "avg24hPrice": 22865,
+            "avg24hPrice": 23032,
             "low24hPrice": 17000,
             "high24hPrice": 26000
         },
@@ -25435,16 +25435,16 @@
             "name": "缝纫锥",
             "shortName": "缝纫锥",
             "basePrice": 15274,
-            "avg24hPrice": 9826,
+            "avg24hPrice": 9840,
             "low24hPrice": 7500,
-            "high24hPrice": 10000
+            "high24hPrice": 97777
         },
         {
             "id": "62a0a0bb621468534a797ad5",
             "name": "\"Master\"锉刀套装",
             "shortName": "Master",
             "basePrice": 35000,
-            "avg24hPrice": 22214,
+            "avg24hPrice": 22216,
             "low24hPrice": 21000,
             "high24hPrice": 32222
         },
@@ -25489,9 +25489,9 @@
             "name": "Oakley SI Batwolf 墨镜",
             "shortName": "Batwolf",
             "basePrice": 20700,
-            "avg24hPrice": 19688,
+            "avg24hPrice": 19159,
             "low24hPrice": 11111,
-            "high24hPrice": 40000
+            "high24hPrice": 32855
         },
         {
             "id": "62a9cb937377a65d7b070cef",
@@ -26047,8 +26047,8 @@
             "name": "恐怖头颅面具",
             "shortName": "骷髅",
             "basePrice": 21125,
-            "avg24hPrice": 121687,
-            "low24hPrice": 50000,
+            "avg24hPrice": 124289,
+            "low24hPrice": 58000,
             "high24hPrice": 250000
         },
         {
@@ -26092,7 +26092,7 @@
             "name": "Zryachiy巴拉克拉瓦",
             "shortName": "Zryachiy",
             "basePrice": 20000,
-            "avg24hPrice": 259090,
+            "avg24hPrice": 249999,
             "low24hPrice": 175000,
             "high24hPrice": 300000
         },
@@ -26110,7 +26110,7 @@
             "name": "Hexatac HPC 插板背心（黑系复合迷彩）",
             "shortName": "HPC",
             "basePrice": 54398,
-            "avg24hPrice": 50017,
+            "avg24hPrice": 50972,
             "low24hPrice": 38888,
             "high24hPrice": 77777
         },
@@ -26344,7 +26344,7 @@
             "name": "Arseniy包装荞麦",
             "shortName": "荞麦",
             "basePrice": 22300,
-            "avg24hPrice": 41618,
+            "avg24hPrice": 40017,
             "low24hPrice": 25666,
             "high24hPrice": 52500
         },
@@ -26353,7 +26353,7 @@
             "name": "Aquapeps饮用水净化片",
             "shortName": "Aquapeps",
             "basePrice": 30090,
-            "avg24hPrice": 27486,
+            "avg24hPrice": 28699,
             "low24hPrice": 19000,
             "high24hPrice": 40000
         },
@@ -26362,7 +26362,7 @@
             "name": "电子元件",
             "shortName": "电子元件",
             "basePrice": 18000,
-            "avg24hPrice": 29736,
+            "avg24hPrice": 29871,
             "low24hPrice": 19550,
             "high24hPrice": 35000
         },
@@ -26614,7 +26614,7 @@
             "name": "Fierce Blow重击锤",
             "shortName": "重击锤",
             "basePrice": 132000,
-            "avg24hPrice": 114202,
+            "avg24hPrice": 116070,
             "low24hPrice": 98000,
             "high24hPrice": 250000
         },
@@ -28243,7 +28243,7 @@
             "name": "Interceptor OTV防弹衣（通用迷彩）",
             "shortName": "OTV",
             "basePrice": 30493,
-            "avg24hPrice": 50386,
+            "avg24hPrice": 49474,
             "low24hPrice": 34444,
             "high24hPrice": 155555
         },
@@ -28369,7 +28369,7 @@
             "name": "Granit 防弹插板（侧边）",
             "shortName": "Granit侧板",
             "basePrice": 14521,
-            "avg24hPrice": 91961,
+            "avg24hPrice": 90797,
             "low24hPrice": 64444,
             "high24hPrice": 100000
         },
@@ -28378,7 +28378,7 @@
             "name": "ESBI IV 级防弹插板（侧边）",
             "shortName": "ESBI IV侧板",
             "basePrice": 16120,
-            "avg24hPrice": 178494,
+            "avg24hPrice": 179134,
             "low24hPrice": 80000,
             "high24hPrice": 200000
         },
@@ -28531,16 +28531,16 @@
             "name": "NPP KlASS Kora-Kulon防弹衣",
             "shortName": "Kora-Kulon",
             "basePrice": 43242,
-            "avg24hPrice": 42173,
+            "avg24hPrice": 41558,
             "low24hPrice": 24500,
-            "high24hPrice": 49999
+            "high24hPrice": 48000
         },
         {
             "id": "64be79e2bf8412471d0d9bcc",
             "name": "NPP KlASS Kora-Kulon防弹衣（数码迷彩）",
             "shortName": "Kora-Kulon数字迷彩",
             "basePrice": 43242,
-            "avg24hPrice": 32667,
+            "avg24hPrice": 32861,
             "low24hPrice": 23420,
             "high24hPrice": 45555
         },
@@ -29314,7 +29314,7 @@
             "name": "6B12防弹插板（前部）",
             "shortName": "6B12 前板",
             "basePrice": 12418,
-            "avg24hPrice": 21764,
+            "avg24hPrice": 22033,
             "low24hPrice": 11111,
             "high24hPrice": 60000
         },
@@ -29323,7 +29323,7 @@
             "name": "Korund-VM防弹插板（侧边）",
             "shortName": "Korund-VM侧边",
             "basePrice": 7627,
-            "avg24hPrice": 18438,
+            "avg24hPrice": 18211,
             "low24hPrice": 10000,
             "high24hPrice": 39999
         },
@@ -29341,8 +29341,8 @@
             "name": "SSAPI level III+ 防弹插板（侧边）",
             "shortName": "SSAPI III+侧板",
             "basePrice": 8804,
-            "avg24hPrice": 20121,
-            "low24hPrice": 11900,
+            "avg24hPrice": 20483,
+            "low24hPrice": 12222,
             "high24hPrice": 29999
         },
         {
@@ -29359,7 +29359,7 @@
             "name": "BEAR干员小人",
             "shortName": "BEAR",
             "basePrice": 75000,
-            "avg24hPrice": 47548,
+            "avg24hPrice": 47566,
             "low24hPrice": 45000,
             "high24hPrice": 48000
         },
@@ -29368,16 +29368,16 @@
             "name": "USEC干员小人",
             "shortName": "USEC",
             "basePrice": 75000,
-            "avg24hPrice": 47295,
+            "avg24hPrice": 47296,
             "low24hPrice": 42111,
-            "high24hPrice": 48000
+            "high24hPrice": 50000
         },
         {
             "id": "655c669103999d3c810c025b",
             "name": "邪教徒小人",
             "shortName": "邪教徒",
             "basePrice": 100000,
-            "avg24hPrice": 69797,
+            "avg24hPrice": 69520,
             "low24hPrice": 62999,
             "high24hPrice": 100000
         },
@@ -29386,7 +29386,7 @@
             "name": "Mutkevich政客小人",
             "shortName": "Mutkevich",
             "basePrice": 100000,
-            "avg24hPrice": 70018,
+            "avg24hPrice": 71931,
             "low24hPrice": 55000,
             "high24hPrice": 148888
         },
@@ -29395,17 +29395,17 @@
             "name": "Scav小人",
             "shortName": "Scav",
             "basePrice": 50000,
-            "avg24hPrice": 31871,
+            "avg24hPrice": 31946,
             "low24hPrice": 30000,
-            "high24hPrice": 40000
+            "high24hPrice": 100000
         },
         {
             "id": "655c67782a1356436041c9c5",
             "name": "Ryzhy小人",
             "shortName": "Ryzhy",
             "basePrice": 50000,
-            "avg24hPrice": 35953,
-            "low24hPrice": 31500,
+            "avg24hPrice": 36005,
+            "low24hPrice": 29000,
             "high24hPrice": 95000
         },
         {
@@ -29413,7 +29413,7 @@
             "name": "“圣诞老人”小人",
             "shortName": "圣诞老人",
             "basePrice": 100000,
-            "avg24hPrice": 66815,
+            "avg24hPrice": 66615,
             "low24hPrice": 62123,
             "high24hPrice": 155555
         },
@@ -29557,7 +29557,7 @@
             "name": "6B13定制防弹插板（黑色）",
             "shortName": "6B13背部",
             "basePrice": 12038,
-            "avg24hPrice": 51714,
+            "avg24hPrice": 49056,
             "low24hPrice": 37000,
             "high24hPrice": 364000
         },
@@ -29575,7 +29575,7 @@
             "name": "Zhuk-3防弹插板（前部）",
             "shortName": "Zhuk-3前部",
             "basePrice": 10185,
-            "avg24hPrice": 23910,
+            "avg24hPrice": 23700,
             "low24hPrice": 12700,
             "high24hPrice": 30000
         },
@@ -29584,7 +29584,7 @@
             "name": "6B33防弹插板（前部）",
             "shortName": "6B33前部",
             "basePrice": 15207,
-            "avg24hPrice": 22630,
+            "avg24hPrice": 22211,
             "low24hPrice": 16000,
             "high24hPrice": 40000
         },
@@ -29593,7 +29593,7 @@
             "name": "Granit 4防弹插板（前部）",
             "shortName": "Granit 4前部",
             "basePrice": 34756,
-            "avg24hPrice": 54655,
+            "avg24hPrice": 52577,
             "low24hPrice": 40000,
             "high24hPrice": 85000
         },
@@ -29611,8 +29611,8 @@
             "name": "Korund-VM防弹插板（前部）",
             "shortName": "Korund-VM前部",
             "basePrice": 32780,
-            "avg24hPrice": 49127,
-            "low24hPrice": 31000,
+            "avg24hPrice": 49365,
+            "low24hPrice": 41111,
             "high24hPrice": 111111
         },
         {
@@ -29629,7 +29629,7 @@
             "name": "AR500 Legacy Plate防弹插板",
             "shortName": "AR500 LP",
             "basePrice": 12580,
-            "avg24hPrice": 22123,
+            "avg24hPrice": 21897,
             "low24hPrice": 13000,
             "high24hPrice": 34000
         },
@@ -29638,7 +29638,7 @@
             "name": "SPRTN Omega防弹插板",
             "shortName": "SPRTN Omega",
             "basePrice": 18241,
-            "avg24hPrice": 26464,
+            "avg24hPrice": 27044,
             "low24hPrice": 16888,
             "high24hPrice": 89000
         },
@@ -29647,7 +29647,7 @@
             "name": "Global Armor’s Steel防弹插板",
             "shortName": "GA Steel",
             "basePrice": 16079,
-            "avg24hPrice": 23732,
+            "avg24hPrice": 23989,
             "low24hPrice": 16000,
             "high24hPrice": 88888
         },
@@ -29656,7 +29656,7 @@
             "name": "Kiba Arms Titan防弹插板",
             "shortName": "KA Titan",
             "basePrice": 21620,
-            "avg24hPrice": 48636,
+            "avg24hPrice": 48195,
             "low24hPrice": 16666,
             "high24hPrice": 99999
         },
@@ -29710,7 +29710,7 @@
             "name": "PRTCTR轻量化防弹插板",
             "shortName": "PRTCTR轻量化",
             "basePrice": 13018,
-            "avg24hPrice": 17535,
+            "avg24hPrice": 17499,
             "low24hPrice": 8600,
             "high24hPrice": 44444
         },
@@ -29719,7 +29719,7 @@
             "name": "Monoclete三级PE防弹插板",
             "shortName": "Monoclete PE",
             "basePrice": 18620,
-            "avg24hPrice": 31703,
+            "avg24hPrice": 31070,
             "low24hPrice": 16666,
             "high24hPrice": 45555
         },
@@ -29755,7 +29755,7 @@
             "name": "SPRTN Elaphros防弹插板",
             "shortName": "SPRTN Elaphros",
             "basePrice": 17254,
-            "avg24hPrice": 36669,
+            "avg24hPrice": 36541,
             "low24hPrice": 18999,
             "high24hPrice": 750000
         },
@@ -29764,7 +29764,7 @@
             "name": "NewSphereTech三级防弹插板",
             "shortName": "NST三级",
             "basePrice": 16842,
-            "avg24hPrice": 27691,
+            "avg24hPrice": 27759,
             "low24hPrice": 13333,
             "high24hPrice": 44444
         },
@@ -31024,7 +31024,7 @@
             "name": "幽灵半面巾",
             "shortName": "幽灵",
             "basePrice": 6523,
-            "avg24hPrice": 12399,
+            "avg24hPrice": 12277,
             "low24hPrice": 5999,
             "high24hPrice": 17444
         },
@@ -31033,8 +31033,8 @@
             "name": "Gus 棒球帽",
             "shortName": "Gus",
             "basePrice": 3612,
-            "avg24hPrice": 61138,
-            "low24hPrice": 16558,
+            "avg24hPrice": 63096,
+            "low24hPrice": 17777,
             "high24hPrice": 70000
         },
         {
@@ -31042,7 +31042,7 @@
             "name": "Basmach皮革帽",
             "shortName": "Basmach",
             "basePrice": 3753,
-            "avg24hPrice": 30360,
+            "avg24hPrice": 34714,
             "low24hPrice": 15000,
             "high24hPrice": 65000
         },
@@ -31411,7 +31411,7 @@
             "name": "6B23-2防弹插板（黑色）",
             "shortName": "6B23-2背部",
             "basePrice": 11201,
-            "avg24hPrice": 24628,
+            "avg24hPrice": 25922,
             "low24hPrice": 12000,
             "high24hPrice": 64420
         },
@@ -32275,7 +32275,7 @@
             "name": "Den 小人",
             "shortName": "Den",
             "basePrice": 75000,
-            "avg24hPrice": 50289,
+            "avg24hPrice": 50106,
             "low24hPrice": 44123,
             "high24hPrice": 69000
         },
@@ -32293,7 +32293,7 @@
             "name": "Reshala 小人",
             "shortName": "Reshala",
             "basePrice": 100000,
-            "avg24hPrice": 64140,
+            "avg24hPrice": 65874,
             "low24hPrice": 62222,
             "high24hPrice": 99989
         },
@@ -32302,7 +32302,7 @@
             "name": "Killa 小人",
             "shortName": "Killa",
             "basePrice": 100000,
-            "avg24hPrice": 65093,
+            "avg24hPrice": 65028,
             "low24hPrice": 59999,
             "high24hPrice": 80000
         },
@@ -32311,7 +32311,7 @@
             "name": "Tagilla 小人",
             "shortName": "Tagilla",
             "basePrice": 100000,
-            "avg24hPrice": 66259,
+            "avg24hPrice": 66213,
             "low24hPrice": 62998,
             "high24hPrice": 80000
         },
@@ -33499,7 +33499,7 @@
             "name": "Tamatthi 苦无飞刀（仿制品）",
             "shortName": "Tamatthi",
             "basePrice": 85643,
-            "avg24hPrice": 54365,
+            "avg24hPrice": 54487,
             "low24hPrice": 41170,
             "high24hPrice": 61000
         },
@@ -33508,7 +33508,7 @@
             "name": "Viibiin运动鞋",
             "shortName": "Viibiin",
             "basePrice": 56745,
-            "avg24hPrice": 44770,
+            "avg24hPrice": 45183,
             "low24hPrice": 38000,
             "high24hPrice": 77700
         },
@@ -33517,9 +33517,9 @@
             "name": "Inseq燃气管扳手",
             "shortName": "Inseq",
             "basePrice": 37573,
-            "avg24hPrice": 31237,
+            "avg24hPrice": 30621,
             "low24hPrice": 23333,
-            "high24hPrice": 40000
+            "high24hPrice": 35999
         },
         {
             "id": "66b5f22b78bbc0200425f904",
@@ -33544,7 +33544,7 @@
             "name": "Ballistic Armor Co. Bastion头盔（黑色）",
             "shortName": "BAC Bastion",
             "basePrice": 69444,
-            "avg24hPrice": 78776,
+            "avg24hPrice": 78680,
             "low24hPrice": 54000,
             "high24hPrice": 110000
         },
@@ -33553,7 +33553,7 @@
             "name": "Ballistic Armor Co. Bastion头盔（橄榄绿）",
             "shortName": "BAC Bastion",
             "basePrice": 65823,
-            "avg24hPrice": 61864,
+            "avg24hPrice": 61961,
             "low24hPrice": 40000,
             "high24hPrice": 73000
         },
@@ -33562,8 +33562,8 @@
             "name": "Ballistic Armor Co. Bastion头盔（多地形迷彩）",
             "shortName": "BAC Bastion",
             "basePrice": 62412,
-            "avg24hPrice": 63447,
-            "low24hPrice": 44444,
+            "avg24hPrice": 64404,
+            "low24hPrice": 51000,
             "high24hPrice": 83000
         },
         {
@@ -33670,7 +33670,7 @@
             "name": "Devtac 浪人防弹头盔",
             "shortName": "浪人",
             "basePrice": 55553,
-            "avg24hPrice": 35779,
+            "avg24hPrice": 35418,
             "low24hPrice": 24444,
             "high24hPrice": 60666
         },
@@ -34615,8 +34615,8 @@
             "name": "6B47 Ratnik-BSh 头盔（极地数码迷彩盔罩）",
             "shortName": "6B47 EMRA",
             "basePrice": 35675,
-            "avg24hPrice": 39293,
-            "low24hPrice": 29000,
+            "avg24hPrice": 39589,
+            "low24hPrice": 29222,
             "high24hPrice": 55555
         },
         {
@@ -34669,9 +34669,9 @@
             "name": "6B13 M 突击甲（圣诞特装版）",
             "shortName": "6B13 圣诞",
             "basePrice": 208541,
-            "avg24hPrice": 153455,
+            "avg24hPrice": 150560,
             "low24hPrice": 109888,
-            "high24hPrice": 300000
+            "high24hPrice": 206500
         },
         {
             "id": "674da107c512807d1a0e7436",
@@ -34777,7 +34777,7 @@
             "name": "一罐酸黄瓜",
             "shortName": "酸黄瓜",
             "basePrice": 93435,
-            "avg24hPrice": 59631,
+            "avg24hPrice": 59929,
             "low24hPrice": 47654,
             "high24hPrice": 85000
         },
@@ -34804,8 +34804,8 @@
             "name": "SHYSHKA 圣诞树续命药水",
             "shortName": "SHYSHKA",
             "basePrice": 86634,
-            "avg24hPrice": 54799,
-            "low24hPrice": 53887,
+            "avg24hPrice": 54812,
+            "low24hPrice": 51111,
             "high24hPrice": 66000
         },
         {
@@ -34813,7 +34813,7 @@
             "name": "MTEK FLUX 防弹头盔（高原复合迷彩）",
             "shortName": "FLUX",
             "basePrice": 97711,
-            "avg24hPrice": 66282,
+            "avg24hPrice": 65899,
             "low24hPrice": 50000,
             "high24hPrice": 100000
         },
@@ -34822,7 +34822,7 @@
             "name": "MTEK FLUX 防弹头盔（橄榄绿）",
             "shortName": "FLUX",
             "basePrice": 97525,
-            "avg24hPrice": 70572,
+            "avg24hPrice": 70536,
             "low24hPrice": 49999,
             "high24hPrice": 108252
         },
@@ -34831,7 +34831,7 @@
             "name": "MTEK STRIKE 防弹头盔（灰褐色）",
             "shortName": "STRIKE",
             "basePrice": 102334,
-            "avg24hPrice": 63792,
+            "avg24hPrice": 63738,
             "low24hPrice": 44333,
             "high24hPrice": 622222
         },
@@ -34840,7 +34840,7 @@
             "name": "MTEK STRIKE 防弹头盔（灰褐/荒漠复合迷彩）",
             "shortName": "STRIKE",
             "basePrice": 103241,
-            "avg24hPrice": 63117,
+            "avg24hPrice": 62845,
             "low24hPrice": 39999,
             "high24hPrice": 69420
         },
@@ -34849,7 +34849,7 @@
             "name": "Maska-1SCh 防弹头盔（圣诞特装版）",
             "shortName": "Maska-1SCh 圣诞",
             "basePrice": 67397,
-            "avg24hPrice": 135728,
+            "avg24hPrice": 134608,
             "low24hPrice": 98888,
             "high24hPrice": 750000
         },
@@ -35191,16 +35191,16 @@
             "name": "精灵帽",
             "shortName": "精灵",
             "basePrice": 3400,
-            "avg24hPrice": 31032,
+            "avg24hPrice": 29490,
             "low24hPrice": 9000,
-            "high24hPrice": 100000
+            "high24hPrice": 50000
         },
         {
             "id": "675aae1c26dc64e17800fee6",
             "name": "鹿角帽",
             "shortName": "鹿角帽",
             "basePrice": 8353,
-            "avg24hPrice": 75308,
+            "avg24hPrice": 77249,
             "low24hPrice": 25000,
             "high24hPrice": 105555
         },
@@ -35209,7 +35209,7 @@
             "name": "白色巴拉克拉瓦头套",
             "shortName": "巴拉克拉瓦",
             "basePrice": 2643,
-            "avg24hPrice": 6031,
+            "avg24hPrice": 6463,
             "low24hPrice": 2420,
             "high24hPrice": 14444
         },
@@ -35345,7 +35345,7 @@
             "shortName": "鸡哥",
             "basePrice": 6386,
             "avg24hPrice": 50000,
-            "low24hPrice": 20000,
+            "low24hPrice": 50000,
             "high24hPrice": 50000
         },
         {
@@ -35353,9 +35353,9 @@
             "name": "洋葱头面具",
             "shortName": "洋葱头",
             "basePrice": 6147,
-            "avg24hPrice": 19999,
+            "avg24hPrice": 10000,
             "low24hPrice": 10000,
-            "high24hPrice": 20000
+            "high24hPrice": 10000
         },
         {
             "id": "676029e22749de558a0b7e69",
@@ -35371,16 +35371,16 @@
             "name": "狐狸面具",
             "shortName": "狐狸",
             "basePrice": 6589,
-            "avg24hPrice": 19999,
+            "avg24hPrice": 16666,
             "low24hPrice": 16666,
-            "high24hPrice": 48000
+            "high24hPrice": 29999
         },
         {
             "id": "67602a0f97f19b78f00a0199",
             "name": "绿毛怪 Grinch 面具",
             "shortName": "Grinch",
             "basePrice": 8457,
-            "avg24hPrice": 55002,
+            "avg24hPrice": 55567,
             "low24hPrice": 27777,
             "high24hPrice": 70000
         },
@@ -35398,7 +35398,7 @@
             "name": "天文学家面具",
             "shortName": "天文学家",
             "basePrice": 7113,
-            "avg24hPrice": 44285,
+            "avg24hPrice": 44000,
             "low24hPrice": 36969,
             "high24hPrice": 60000
         },
@@ -38530,7 +38530,7 @@
             "name": "6B45 body armor (EMR)",
             "shortName": "6B45",
             "basePrice": 93708,
-            "avg24hPrice": 116332,
+            "avg24hPrice": 116551,
             "low24hPrice": 95921,
             "high24hPrice": 150000
         },
@@ -42157,7 +42157,7 @@
             "name": "Prapor figurine",
             "shortName": "Prapor",
             "basePrice": 100000,
-            "avg24hPrice": 318176,
+            "avg24hPrice": 315163,
             "low24hPrice": 149999,
             "high24hPrice": 500000
         },
@@ -42166,7 +42166,7 @@
             "name": "Therapist figurine",
             "shortName": "Therapist",
             "basePrice": 100000,
-            "avg24hPrice": 413612,
+            "avg24hPrice": 395131,
             "low24hPrice": 159999,
             "high24hPrice": 555000
         },
@@ -42175,7 +42175,7 @@
             "name": "Fence figurine",
             "shortName": "Fence",
             "basePrice": 100000,
-            "avg24hPrice": 763758,
+            "avg24hPrice": 753614,
             "low24hPrice": 250000,
             "high24hPrice": 2500000
         },
@@ -42184,8 +42184,8 @@
             "name": "Skier figurine",
             "shortName": "Skier",
             "basePrice": 100000,
-            "avg24hPrice": 298857,
-            "low24hPrice": 220420,
+            "avg24hPrice": 294162,
+            "low24hPrice": 150000,
             "high24hPrice": 399997
         },
         {
@@ -42193,7 +42193,7 @@
             "name": "Peacekeeper figurine",
             "shortName": "Peacekeeper",
             "basePrice": 100000,
-            "avg24hPrice": 704600,
+            "avg24hPrice": 699555,
             "low24hPrice": 349999,
             "high24hPrice": 750000
         },
@@ -42202,8 +42202,8 @@
             "name": "Mechanic figurine",
             "shortName": "Mechanic",
             "basePrice": 100000,
-            "avg24hPrice": 777259,
-            "low24hPrice": 696969,
+            "avg24hPrice": 777155,
+            "low24hPrice": 555555,
             "high24hPrice": 1000000
         },
         {
@@ -42211,7 +42211,7 @@
             "name": "Ragman figurine",
             "shortName": "Ragman",
             "basePrice": 100000,
-            "avg24hPrice": 999999,
+            "avg24hPrice": 888888,
             "low24hPrice": 400000,
             "high24hPrice": 999999
         },
@@ -42229,7 +42229,7 @@
             "name": "Lightkeeper figurine",
             "shortName": "Lightkeeper",
             "basePrice": 100000,
-            "avg24hPrice": 899111,
+            "avg24hPrice": 890000,
             "low24hPrice": 700000,
             "high24hPrice": 1000000
         },
@@ -42238,7 +42238,7 @@
             "name": "Ref figurine",
             "shortName": "Ref",
             "basePrice": 100000,
-            "avg24hPrice": 598559,
+            "avg24hPrice": 568761,
             "low24hPrice": 130000,
             "high24hPrice": 1500000
         },
@@ -42256,7 +42256,7 @@
             "name": "Hideout Cat figurine",
             "shortName": "Cat",
             "basePrice": 100000,
-            "avg24hPrice": 1008332,
+            "avg24hPrice": 1009090,
             "low24hPrice": 500000,
             "high24hPrice": 1234567
         },
@@ -42265,7 +42265,7 @@
             "name": "Walking Tank figurine",
             "shortName": "Tank",
             "basePrice": 100000,
-            "avg24hPrice": 910038,
+            "avg24hPrice": 935070,
             "low24hPrice": 499969,
             "high24hPrice": 999999
         },
@@ -42283,7 +42283,7 @@
             "name": "Mastichin figurine",
             "shortName": "Mastichin",
             "basePrice": 50000,
-            "avg24hPrice": 38141,
+            "avg24hPrice": 38859,
             "low24hPrice": 30000,
             "high24hPrice": 99999
         },
@@ -42508,7 +42508,7 @@
             "name": "Elvisvista figurine",
             "shortName": "Elvisvista",
             "basePrice": 50000,
-            "avg24hPrice": 31458,
+            "avg24hPrice": 31454,
             "low24hPrice": 30000,
             "high24hPrice": 47000
         },
@@ -42697,7 +42697,7 @@
             "name": "Tangerine",
             "shortName": "Tangerine",
             "basePrice": 127119,
-            "avg24hPrice": 82405,
+            "avg24hPrice": 82447,
             "low24hPrice": 80922,
             "high24hPrice": 95000
         },
@@ -42706,9 +42706,9 @@
             "name": "Mazoni golden dumbbell",
             "shortName": "Mazoni",
             "basePrice": 90500,
-            "avg24hPrice": 62762,
-            "low24hPrice": 51111,
-            "high24hPrice": 160000
+            "avg24hPrice": 62232,
+            "low24hPrice": 48888,
+            "high24hPrice": 89999
         },
         {
             "id": "6937efd50543dcc2560a2c81",
@@ -42724,7 +42724,7 @@
             "name": "Domontovich ushanka hat",
             "shortName": "Domont",
             "basePrice": 27001,
-            "avg24hPrice": 17449,
+            "avg24hPrice": 17628,
             "low24hPrice": 11999,
             "high24hPrice": 35000
         },
@@ -42733,7 +42733,7 @@
             "name": "Nut Sack balaclava",
             "shortName": "Nut Sack",
             "basePrice": 44444,
-            "avg24hPrice": 27957,
+            "avg24hPrice": 28046,
             "low24hPrice": 17000,
             "high24hPrice": 69400
         },
@@ -42859,7 +42859,7 @@
             "name": "Tac-Kek SAPI Level III+ ballistic plate (Replica)",
             "shortName": "TK SAPI III+",
             "basePrice": 4350,
-            "avg24hPrice": 16998,
+            "avg24hPrice": 16881,
             "low24hPrice": 13000,
             "high24hPrice": 35000
         },
