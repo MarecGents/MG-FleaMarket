@@ -38,7 +38,7 @@ def priceCreat(base_info, itemJson):
 			"high" : it["high24hPrice"]
 		}
 		price = caculatePrice(priceGet)
-		pricesJson[itemId] = price
+		pricesJson[itemId] = int(price)
 		pass
 	return pricesJson
 
