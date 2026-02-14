@@ -8,7 +8,9 @@ import static_value
 
 """pyinstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
 """D:\Tools\Environment\Python\Python311\python.exe -m PyInstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
-# HTTP request value
+"""git commit -a -m "update $(Get-Date -Format 'yyyy.MM.dd')";git push;"""
+
+#HTTP request value
 HTTP_PATH = "https://api.tarkov.dev/graphql"
 HEADERS = {
 	"Content-Type": "application/json",
