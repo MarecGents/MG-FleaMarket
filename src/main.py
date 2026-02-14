@@ -7,7 +7,7 @@ from method import GitControl
 import static_value
 
 """pyinstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
-
+"""D:\Tools\Environment\Python\Python311\python.exe -m PyInstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
 # HTTP request value
 HTTP_PATH = "https://api.tarkov.dev/graphql"
 HEADERS = {
@@ -22,8 +22,8 @@ BODY = {
 
 # EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
 EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
-GIT_PWSH_PATH = EXE_PATH + "\\.."
-APP_ROOT_PATH = EXE_PATH + "\\.."
+GIT_PWSH_PATH = EXE_PATH
+APP_ROOT_PATH = EXE_PATH
 
 def priceCreat(base_info, itemJson):
 	pricesJson = {}
