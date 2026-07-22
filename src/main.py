@@ -23,8 +23,8 @@ BODY = {
 
 #path value
 
-EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
-# EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
+# EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
+EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
 GIT_PWSH_PATH = EXE_PATH
 APP_ROOT_PATH = EXE_PATH
 
