@@ -6,12 +6,13 @@ from method import PathControl
 from method import GitControl
 import static_value
 
-"""pyinstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
-"""D:\Tools\Environment\Python\Python311\python.exe -m PyInstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
-"""git commit -a -m "update $(Get-Date -Format 'yyyy.MM.dd')";git push;"""
+# """pyinstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
+# """D:\Tools\Environment\Python\Python311\python.exe -m PyInstaller -F --onefile --noconsole --distpath .\Build\dist --workpath .\Build\build src/main.py"""
+# """git commit -a -m "update $(Get-Date -Format 'yyyy.MM.dd')";git push;"""
 
 #HTTP request value
-HTTP_PATH = "https://api.tarkov.dev/graphql"
+# HTTP_PATH = "https://api.tarkov.dev/graphql"
+HTTP_PATH = "https://json.tarkov.dev/regular/items"
 HEADERS = {
 	"Content-Type": "application/json",
 	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"
@@ -31,8 +32,6 @@ def priceCreat(base_info, itemJson):
 	pricesJson = {}
 	for it in base_info:
 		itemId = it["id"]
-		if itemId not in itemJson:
-			continue
 		priceGet = {
 			"base" : it["basePrice"],
 			"avg" : it["avg24hPrice"],
@@ -89,7 +88,8 @@ if __name__ == "__main__":
 
 	_git.gitPull(GIT_PWSH_PATH)
 	
-	baseInfo = (_http.getBaseInfoFromTarkovAPI(HTTP_PATH,HEADERS,BODY))["data"]["items"]
+	# baseInfo = (_http.getBaseInfoFromTarkovAPI(HTTP_PATH,HEADERS,BODY))["data"]["items"]
+	baseInfo = (_http.getBaseInfoFromTarkovAPI_V2(HTTP_PATH,HEADERS))["data"]["items"]
 	if baseInfo:
 		debugPrint("baseInfo got")
 	# year,month,day = _date.get_Date()

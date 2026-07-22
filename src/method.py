@@ -25,11 +25,10 @@ class FileControl:
 			file = json.load(f_r)
 			return file
 		pass
-		
-	
+
 	@staticmethod
 	def saveJsonFileByAbsolutePath(absolute_path, content):
-		with open(absolute_path, 'w', encoding='utf-8') as f_w:
+		with open(absolute_path, 'w+', encoding='utf-8') as f_w:
 			json.dump(content, f_w, ensure_ascii=False, indent=4)
 		return True
 	
@@ -44,7 +43,15 @@ class HttpControl:
 		content = resp.json()
 		resp.close()
 		return content
-	
+
+	@staticmethod
+	def getBaseInfoFromTarkovAPI_V2(path, headers):
+		resp = requests.get(path, headers=headers)
+		resp.encoding = 'utf-8'
+		content = resp.json()
+		resp.close()
+		return content
+
 	pass
 
 
