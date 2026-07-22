@@ -23,20 +23,41 @@ BODY = {
 
 #path value
 
-# EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
-EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
+EXE_PATH = PathControl.locateGivenFolderNamePathNearby(PathControl.getParentsFolderPath(__file__, 2), "MGFleaMarket", [])
+# EXE_PATH = PathControl.getNowFolderPath(str(pathlib.Path().absolute()))
 GIT_PWSH_PATH = EXE_PATH
 APP_ROOT_PATH = EXE_PATH
 
 def priceCreat(base_info, itemJson):
 	pricesJson = {}
 	for it in base_info:
-		itemId = it["id"]
+		item = base_info[it]
+		itemId = item["id"]
+		basePrice=0
+		avg24hPrice=0
+		low24hPrice=0
+		high24hPrice=0
+		if "basePrice" in item:
+			basePrice = item["basePrice"]
+			pass
+		if "avg24hPrice" in item:
+			avg24hPrice = item["avg24hPrice"]
+			pass
+		if "low24hPrice" in item:
+			low24hPrice = item["low24hPrice"]
+		else:
+			low24hPrice = avg24hPrice
+			pass
+		if "high24hPrice" in item:
+			high24hPrice = item["high24hPrice"]
+		else:
+			high24hPrice = avg24hPrice
+			pass
 		priceGet = {
-			"base" : it["basePrice"],
-			"avg" : it["avg24hPrice"],
-			"low" : it["low24hPrice"],
-			"high" : it["high24hPrice"]
+			"base" : basePrice,
+			"avg" : avg24hPrice,
+			"low" : low24hPrice,
+			"high" : high24hPrice
 		}
 		price = caculatePrice(priceGet)
 		pricesJson[itemId] = int(price)
