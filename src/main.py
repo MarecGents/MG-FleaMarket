@@ -33,6 +33,8 @@ def priceCreat(base_info, itemJson):
 	for it in base_info:
 		item = base_info[it]
 		itemId = item["id"]
+		if itemId not in itemJson:
+			continue
 		basePrice=0
 		avg24hPrice=0
 		low24hPrice=0
