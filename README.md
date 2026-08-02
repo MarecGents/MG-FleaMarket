@@ -9,7 +9,7 @@
 
 ## 📖 简介
 
-**MG-FleaMarket** 是 MG-Mod **实时跳蚤市场**功能的后端数据同步工具。它自动从 **tarkov.dev GraphQL API** 获取 Tarkov 社区物品价格数据，经过加权算法处理后，生成最优价格 JSON 文件，并通过 Git 推送到云端。
+**MG-FleaMarket** 是 MG-Mod **实时跳蚤市场**功能的后端数据同步工具。它自动从 **tarkov.dev GraphQL API** 获取 TKF 社区物品价格数据，经过加权算法处理后，生成最优价格 JSON 文件，并通过 Git 推送到云端。
 
 MG-Mod 的实时跳蚤功能在游戏启动时自动从本仓库下载最新的 `price.json`，实现游戏内跳蚤市场价格的实时同步。
 
